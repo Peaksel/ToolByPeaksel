@@ -26,7 +26,11 @@ def FilesInFolder(SourceFolder):
 
 def FilesInFolderFullPath(SourceFolder):
     return [SourceFolder + file for file in os.listdir(SourceFolder)]
+def random_all_camera(x):
+    return "Random"
 
+def random_all_favs_camera(x):
+    return "Random From Favs"
 def reset_all_camera(x):
     return "Not set"
 def reset_all_camera_value(x):
@@ -353,14 +357,15 @@ def Dropdown_List_From_SubMediumFile(x,y,addDefaults):
     PromptValues = sorted(PromptValues)
     if (hasFavs):
         PromptValues = ["Random From Favs"] + PromptValues
-    if (addDefaults):
-        PromptValues = ["Not set", "Random"] + PromptValues
-    PromptValues = ["Disabled"] + PromptValues;
+    if (addDefaults and count>1):
+        PromptValues = ["Random"] + PromptValues
+        PromptValues = ["Disabled"] + PromptValues;
     
     return gr.Dropdown(PromptValues, label=y, value=PromptValues[0])
 #refreshuje listu pod-mediuma   
 def RefreshDropDown(name):
     PromptValues = []
+    hasFavs = False
     file1 = open(MediumsSubDir+str(name).replace("*","")+'.txt', 'r')
     Lines = file1.readlines()
     count = 0
@@ -369,12 +374,17 @@ def RefreshDropDown(name):
         line = line.strip()
         xNew = line.split(";")
         if(xNew[4] == "True"):
+            hasFavs = True
             PromptValues.append("*" + xNew[0])
         else:
             PromptValues.append(xNew[0])
         count += 1
     PromptValues = sorted(PromptValues)
-    PromptValues = ["Disabled", "Random", "Random From Favs"] + PromptValues;
+    
+    if(hasFavs):
+        PromptValues = ["Random From Favs"] + PromptValues;
+    if(count>1):
+        PromptValues = ["Disabled", "Random"] + PromptValues;
     return gr.Dropdown.update(choices=PromptValues, value = PromptValues[0])
 
 
@@ -496,6 +506,7 @@ class Script(scripts.Script):
 
 
     def ui(self, is_img2img):
+        gr.HTML('<br />')
         with gr.Tab("Parameters"):
             
             with gr.Row(variant = "panel"):
@@ -542,7 +553,10 @@ class Script(scripts.Script):
             #Camera stuff
             with gr.Column(variant="panel"):
                 with gr.Column(variant="panel"):
-                    resetCameraButton = gr.Button('Reset All')
+                    with gr.Row():
+                        randomCameraButton = gr.Button('Random From All')
+                        randomFavsCameraButton = gr.Button('Random From Favs')
+                        resetCameraButton = gr.Button('Reset All')
                 with gr.Column(variant="panel"):
                     with gr.Row():
                         ddResultCameraShotType = Dropdown_List_From_CamerasFile("CameraShotType", "Camera Shot Type", True)
@@ -558,13 +572,25 @@ class Script(scripts.Script):
                         ddResultCameraFocus = Dropdown_List_From_CamerasFile("CameraFocus", "Camera Focus", True)
                         ddResultCameraFocalLength = Dropdown_List_From_CamerasFile("CameraFocalLength", "Camera Focal Length", True)
                         slCameraGroup3 = gr.Slider(0, 2, value=1.3, step=0.05, label="Influence")
+
+                randomCameraButton.click(random_all_camera,inputs=ddResultCameraShotType, outputs=ddResultCameraShotType)
+                randomCameraButton.click(random_all_camera,inputs=ddResultCameraShotAngle, outputs=ddResultCameraShotAngle)
+                randomCameraButton.click(random_all_camera,inputs=ddResultCameraBrand, outputs=ddResultCameraBrand)
+                randomCameraButton.click(random_all_camera,inputs=ddResultCameraFilmSize, outputs=ddResultCameraFilmSize)
+                randomCameraButton.click(random_all_camera,inputs=ddResultCameraFocus, outputs=ddResultCameraFocus)
+                randomCameraButton.click(random_all_camera,inputs=ddResultCameraFocalLength, outputs=ddResultCameraFocalLength)
+
+                randomFavsCameraButton.click(random_all_favs_camera,inputs=ddResultCameraShotType, outputs=ddResultCameraShotType)
+                randomFavsCameraButton.click(random_all_favs_camera,inputs=ddResultCameraShotAngle, outputs=ddResultCameraShotAngle)
+                randomFavsCameraButton.click(random_all_favs_camera,inputs=ddResultCameraBrand, outputs=ddResultCameraBrand)
+                randomFavsCameraButton.click(random_all_favs_camera,inputs=ddResultCameraFilmSize, outputs=ddResultCameraFilmSize)
+                randomFavsCameraButton.click(random_all_favs_camera,inputs=ddResultCameraFocus, outputs=ddResultCameraFocus)
+                randomFavsCameraButton.click(random_all_favs_camera,inputs=ddResultCameraFocalLength, outputs=ddResultCameraFocalLength)
                    
                 resetCameraButton.click(reset_all_camera,inputs=ddResultCameraShotType, outputs=ddResultCameraShotType)
                 resetCameraButton.click(reset_all_camera,inputs=ddResultCameraShotAngle, outputs=ddResultCameraShotAngle)
-
                 resetCameraButton.click(reset_all_camera,inputs=ddResultCameraBrand, outputs=ddResultCameraBrand)
                 resetCameraButton.click(reset_all_camera,inputs=ddResultCameraFilmSize, outputs=ddResultCameraFilmSize)
-
                 resetCameraButton.click(reset_all_camera,inputs=ddResultCameraFocus, outputs=ddResultCameraFocus)
                 resetCameraButton.click(reset_all_camera,inputs=ddResultCameraFocalLength, outputs=ddResultCameraFocalLength)
 
@@ -572,6 +598,8 @@ class Script(scripts.Script):
                 resetCameraButton.click(reset_all_camera_value,inputs=slCameraGroup1, outputs=slCameraGroup1)
                 resetCameraButton.click(reset_all_camera_value,inputs=slCameraGroup2, outputs=slCameraGroup2)
                 resetCameraButton.click(reset_all_camera_value,inputs=slCameraGroup3, outputs=slCameraGroup3)
+                
+                
             with gr.Column(variant="panel"):
                 with gr.Row():
                     ddArtistSingle = Dropdown_List_From_ArtistFile("Artists", "Artist", True)
