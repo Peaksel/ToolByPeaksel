@@ -1,0 +1,17 @@
+by Artgerm;;;;True
+by Alphonse Mucha;;;;True
+by H.P. Lovcraft;;;;True
+by Neal Adams;;comic book style, line art;3d render;True
+by Zdzislaw Beksinski;;;;True
+by Greg Rutkowski;;;;True
+by Alphonse Mucha, by Artgerm;;;;True
+by Clive Barker;;;;False
+by Walter Beach Humphrey, by Pierre Bonnard;;;;False
+by Tomek Setowski, by Stevan Dohanos;;;;False
+by Howard Pyle, by Joaqun Sorolla;;;;False
+by Joseph Cornell, by Ross Tran;;;;False
+by April Gornik, by Laura Muntz Lyall;;;;False
+by Jim Steranko, by Hethe Srodawa;;;;False
+by Brothers Hildebrandt, by Leonora Carrington;;;;False
+by William Hogarth, by Taro Okamoto;;;;False
+by Steve Dillon, by Jean Giraud;;;;False

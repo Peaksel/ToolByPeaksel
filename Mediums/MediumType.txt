@@ -1,0 +1,6 @@
+Photo;;;drawing,vector,3d;False
+Digital Artwork;;;photo, 3d;False
+3D Rendering;;global illumination, subsurface scattering, specular lighting, hdr, 8K, nanite raytraced;lowres, poorly drawn, deformed, bad quality, sloppy, ugly, sketch, amateur, plastic, unrealistic;False
+Painting;;;render,3d;False
+Drawing;;;render,3d;False
+Vector Art;;;render,3d;False

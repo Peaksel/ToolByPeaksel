@@ -1,0 +1,4 @@
+3D Digital Painting;;global illumination, subsurface scattering, specular lighting, hdr, 8K, nanite raytraced;lowres, poorly drawn, deformed, bad quality, sloppy, ugly, sketch, amateur, plastic, unrealistic;True
+3D Rendering;;global illumination, subsurface scattering, specular lighting, hdr, 8K, nanite raytraced;lowres, poorly drawn, deformed, bad quality, sloppy, ugly, sketch, amateur, plastic, unrealistic;True
+Marble statue;;unique sculpture, on the pedestal, (intricately sculpted, an exquisite piece of art, carefully chiseled), (smooth, polished finish);;False
+Clay render;;3d, octane render, (intricately sculpted, carefully chiseled), (smooth, polished finish);;False

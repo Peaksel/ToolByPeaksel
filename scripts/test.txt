@@ -1,0 +1,2 @@
+promt_value; label_value; positive; negative; False
+promt_value; label_value; ; ; True

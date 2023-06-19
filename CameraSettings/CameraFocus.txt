@@ -1,0 +1,9 @@
+Deep focus;;;;True
+Shallow focus;;;;False
+Soft focus;;;;True
+Rack focus;;;;False
+Split Diopter;;;;False
+Tilt Shift;;;;False
+Tilted Plane focus;;;;False
+Focal point;;;;True
+Vanishing point;;;;False

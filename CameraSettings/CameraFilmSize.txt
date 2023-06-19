@@ -1,0 +1,10 @@
+Shot on 8mm film;;;;False
+Shot on 9.5mm film;;;;False
+Shot on 16mm film;;;;False
+Shot on 17.5mm film;;;;False
+Shot on 28mm film;;;;False
+Shot on 28mm film;;;;True
+Shot on 35mm film;;;;True
+Shot on 65mm film;;;;False
+Shot on 70mm film;;;;False
+Shot on IMAX 70mm film;;;;False

@@ -1,0 +1,17 @@
+2D Digital Painting;;;;True
+2D Digital Drawing;;;;True
+3D Digital Painting;;;;True
+Realistic Digital Painting;;;;True
+8K Unity Wallpaper;;;;False
+Anime Art;;;;False
+Minimalist Art;;;;False
+Maximalist Art;;;;False
+Mixed Media Art;;;;False
+Raster Painting;;;;False
+Integrated Art;;;;False
+Hybrid Art;;;;False
+Voxel Art;;;;False
+Vexel Art;;;;False
+WPAP Art;;;;False
+Algorithmic Art;;;;False
+Photo Bashing;;;;False

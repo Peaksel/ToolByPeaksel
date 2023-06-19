@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b12efd11-112f-4ee5-92a7-8d8c5f9cc512" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/50s Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/60s Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/70s Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/80s Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Abstract Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Abstract Expressionism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Abstract Illusionism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Academism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Action Painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Aestheticism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Afrofuturism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/American Impressionism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/American Scene Painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Art Brut.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Art Deco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Art Nouveau.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Art Photography.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Arts and Crafts Movement.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Ascii Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Ashcan School.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Australian Tonalism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Baroque Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Bauhaus Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Berlin Secession.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/CGI Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Classical Realism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Classicism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Cloisonnism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Computer Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Conceptual Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Constructivism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Crystal Cubism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Cubism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Cubo-Futurism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Cutester Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Cybergoth Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Cyberpunk Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Dada Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Dark Wave Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Digital Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Emo Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Expressionism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Fauvism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Figurative Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Fluxus Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Folk Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Funk Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Futurism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Geometric Abstract Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Glitch Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Graffiti Street Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Grunge Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Gutai Group.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Hardcore Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Harlem Renaissance.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Health Goth Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Heidelberg School.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Hippie Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Hipster Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Hyperrealism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Impressionism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Industrial Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Kinetic Pointillism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Land Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Lowbrow Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Lyrical Abstraction.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Magical Realism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Mannerism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Memecore Ar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Metaphysical Painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Mingei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Minimalism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Modern Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Modern European Ink Painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Modernism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Naive Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Neo Dada Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Neo-Dadaism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Neo-Expressionism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Neo-Fauvism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Neo-Primitivism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Neo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Neoclassicism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Neogothic Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/New Wave Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Normcore Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Nu Goth Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Orphism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Panfuturism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Pastel Goth Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Photorealism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Pixel Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Pointillism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Pop Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Post-Impressionism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Pre-Raphaelitism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Primitivism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Primitivism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Private Press.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Process Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Psychedelic Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Psytrance Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Qajar Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Queercore Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Realism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Remodernism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Renaissance.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Retrofuturism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Rococo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Seapunk Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Serial Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Shin Hanga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Solarpunk Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Steampunk Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Street Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Suprematism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Surrealism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Synthetism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Sōsaku Hanga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Temp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Tonalism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Toyism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Ukiyo-E.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Vanitas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Vaporwave Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Victorian Gothic Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Vorticism Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Art Movements/Yuccie Art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Adam Hughes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Adi Granov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Adolf Kosarek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Adolph Von Menzel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Akihiko Yoshida.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Al Williamson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Albert Lynch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alberto Seveso.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alberto Vargas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alena Aenami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alex Andreev.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alex Grey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alex Ross.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alex Toth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alexander Archipenko.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alexander Jansson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alfred Steiglitz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alphonse Mucha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Alvar Aalto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Anato Finnstark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Andre Masson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Andrew Loomis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Andy Fairhurst.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Anna Dittman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Apollonia Saintclair.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Artgerm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Arthur Adams.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Arthur Rackham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Aubrey Beardsley.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Austin Briggs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ayami Kojima.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Barbara Kruger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bastien Lecouffe Deharme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Beeple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bill Sienkiewicz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bill Ward.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bo Bartlett.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bob Byerley.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bob Eggleton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bob Haberfield.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bob Peak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Boris Vallejo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Brandon Woelfel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Brian Bolland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Brian Froud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bruce Pennington.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Bryan Hitch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Butcher Billy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Camille Walala.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Carel Willink.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Carmine Infantino.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Carrie Ann Baade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Casey Baugh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Casey Weldon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Cedric Peyravernay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Charles Adams.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Charlie Bowater.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Chesley Bonestell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Chris Foss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Christopher Balaskas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Claude Monet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Clive Barker.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Coles Phillips.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Conrad Roset.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Curt Swan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Dan Mumford.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Diego Rivera.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Don Bergland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Donato Giancola.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Dorina Costras.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/E.H. Shepard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Earl Norem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Earle Bergey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Earnst Haeckel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ed Emshwiller.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ed Mell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Edith Head.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Edmund Dulac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Edvard Munch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ellen Jewett.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Emily Balivet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Enki Bilal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Eric Kennington.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Erin Hanson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ernie Barnes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Esao Andrews.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Esteban Maroto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ethan Van Sciver.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Eve Ventrue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Eyvind Earle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/F. Scott Hess.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Fernand Khnopff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Filippino Lippi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Frank Bowling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Frank Cadogan Cowper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Frank Frazetta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Frank Tenney Johnson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Frank Xavier.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Franklin Booth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Fred Calleri.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Fujishima Takeji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gabriel Von Max.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gediminas Pranckevicius.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gene Colan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Geof Darrow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Georgia O’Keeffe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Georgy Kurasov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gerald Brom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gertrude Abercrombie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gil Elvgren.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gil Kane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Greg Manchess.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Greg Rutkowski.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gustaf Tenggren.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Gustav Klimt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/H.P. Lovecraft.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/H.R. Giger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Hannah Yata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Harrison Fisher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Harry Clarke.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Henri Matisse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Henry Clive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Herbert James Gunn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Hikari Shimoda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Hiroshi Nagai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Hiroshi Yoshida.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Hsiao-Ron Cheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Huang Guangjian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ian Kennedy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Igor Morski.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Igor Zenin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ilya Kuvshinov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ilya Repin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ivan Aivazovsky.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ivan Bilibin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/J.C. Leyendecker.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jacek Yerka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jack Kirby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jackson Pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/James C. Christensen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/James Gilleard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/James Gurney.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/James Jean.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jan Hendrik Weissenbruch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jan Urschel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jasmine Becket-Griffith.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jason Edmiston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jay Anacleto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jean Giraud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jeannette Guichard-Bunel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jeffrey Smith.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jeremiah Ketner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jeremy Lipking.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jian Chong Min.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jim Burns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jim Holland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Joao Ruas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Joe Jusko.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Joe Kubert.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Johan Heinrich Fussli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/John Howe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/John Lavery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/John Philip Falter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/John Romita Jr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/John Singer Sargent.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/John T. Biggers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Jon Whitcomb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Joop Polder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Joseph Leyendecker.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Juan Gris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Julian Onderdonk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Junji Ito.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Kadir Nelson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Karel Thole.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Karol Bak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Kawase Hasui.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Kaws.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Kehinde Wiley.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Kelly McKernan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Koho Shoda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Krenz Cushart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Lee Bogle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Leonardo Coccorante.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Leonid Afremov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Lisa Frank.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Loish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Lyubov Popova.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/M.C. Escher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Makoto Shinkai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Marc Chagall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Marc Simonetti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Mark Ryden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Martin Ansin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Martin Schongauer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Mary Jane Ansell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Masamune Shirow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Mati Klarwein.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Maxfield Parrish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Mead Schaeffer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Michael Cheval.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Michael Whelan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Miho Hirano.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Mike Allred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Mike Mignola.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Mike Winkelmann.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Miles Aldridge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Milton Caniff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Moebius.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Mort Kunstler.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Neal Adams.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Nikolai Astrup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Njideka Akunyili Crosby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Norman Rockwell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/P.A. Works.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Pang Xunqin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Paul Cadmus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Paul Lehr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Paul Signac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Peter Elson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Peter Gric.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Peter Mohrbacher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Peter Wileman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Petros Afshar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Phil Noto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Philippe Druillet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/RHADS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Rafael Albuquerque.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ralph Gibson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Raymond Swanland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Richard Avedon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Richard Corben.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Richard Lindner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Rob Gonsalves.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Robert Bissell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Robert McCall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Roberto Matta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Rolf Armstrong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Romero Britto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ron Miller.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ross Tran.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/RossDraws.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Roy Lichtenstein.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ruan Jia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ryan Pancoast.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ryohei Hase.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Sabbas Apterus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Sachin Teng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Salvador Dali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Sam Gilliam.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Sam bosma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Scott Listfield.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Shigenori Soejima.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Shinji Aramaki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Simon Bisley.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Simon Stalenhag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Siya Oum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Stanhope Forbes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Stanislaw Wyspianski.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Stephan Martinière.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Steve Ditko.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Syd Mead.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Takashi Murakami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Tara McPherson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Tarsila do Amaral.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ted Nasmith.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Theo Van Rysselberghe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Thomas Blackshear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Thomas Kinkade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Thomas Shotter Boys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Todd McFarlane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Tom Bagshaw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Tom Lovell.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Tom Whalen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Tomer Hanuka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Trevor Brown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Trina Robbins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Tsutomu Nihei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Ulisse Aldrovandi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Umberto Boccioni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Vasily Vereschagin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Victo Ngai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Victor Nizovtsev.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Vincent DiFate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Vittorio Reggianini.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/W. Heath Robinson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/WLOP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Wadim Kashin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Walter Crane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Wangechi Mutu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Warwick Goble.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Wayne Barlowe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Will Barnet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/William Dodge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/William Eggleston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/William Holbrook Beard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/William McGregor Paxton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Yanjun Cheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Yoji Shinkawa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Yoshitaka Amano.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Artists/Zdzislaw Beksinski.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Agfacolor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/BW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Blue hue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/CMYK Colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Cathode tube.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/CineColor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Cold Colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Colorful.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Colorless.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Cyan hue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Dark hue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Desaturated.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Dichromatic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Electric Colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Fujifilm Superia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Grayscale.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Green hue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/High Contrast.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Hypersaturated.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Infrared.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Kinemacolor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Kodachrome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Kodak Ektar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Kodak Portra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Low Contrast.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Magenta hue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Mono Color.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Muted Colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Offset print.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/One Color.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Oversaturated.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Pastel Colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Polychromatic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Primary Colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Provia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Purple hue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Red hue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Saturated.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Single Color.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Technicolor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Velvia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Vivid Colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Warm Colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Colors/Yellow hue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Cel shaded.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Cel shading.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Detailed illustration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Graphic novel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Illustration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Masterpiece.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Realistic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Rough sketch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Screen print.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Simple illustration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Sketch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Sketched.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Technical illustration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Ultra detailed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Ultrarealistic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Directions/Visual novel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Inspiration/Actions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Inspiration/Locations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Inspiration/Subjects.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Amusing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Angry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Cosy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Depressing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Disgusting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Embarrassing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Energetic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Evil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Fearful.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Frightening.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Grim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Guilty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Happy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Hopeful.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Hopeless.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Lonely.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Lustful.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Peaceful.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Proud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Relieving.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Romantic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Sad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Satisfying.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Shameful.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StylePile/Moods/Surprising.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StylePile.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PeakselsStylePile.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OQKQM1CaRSSe1l1pYdDgpmAJem" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b12efd11-112f-4ee5-92a7-8d8c5f9cc512" name="Default Changelist" comment="" />
+      <created>1681487349405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681487349405</updated>
+      <workItem from="1681487352894" duration="319000" />
+      <workItem from="1681487701304" duration="71000" />
+      <workItem from="1687194217742" duration="178000" />
+      <workItem from="1687194420519" duration="4032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
