@@ -68,7 +68,7 @@ def ListFromDropDown(drop):
 #artists
 def Dropdown_List_From_ArtistFile(x,y,addDefaults):
     PromptValues = []
-    file1 = open(ArtistDir + x + '.txt', 'r')
+    file1 = open(ArtistDir + x + '.txt', encoding = 'utf-8',mode = 'r')
     Lines = file1.readlines()
     hasFavs = False
     count = 0
@@ -448,34 +448,6 @@ def GetNegativesFromSubMedium(mediumName, subMediumName):
     return negatives 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
 
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-
-
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-
-
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-
-
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-
-
-
-
-
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-
-# At some point in time it looked like adding a bunch of these negative prompts helps,but now I am not so sure...
 AlwaysBad = ""
 promptButtonText = ""
 class Script(scripts.Script):
@@ -556,7 +528,7 @@ class Script(scripts.Script):
                     with gr.Row():
                         randomCameraButton = gr.Button('Random From All')
                         randomFavsCameraButton = gr.Button('Random From Favs')
-                        resetCameraButton = gr.Button('Reset All')
+                        resetCameraButton = gr.Button('Reset All', variant = 'stop')
                 with gr.Column(variant="panel"):
                     with gr.Row():
                         ddResultCameraShotType = Dropdown_List_From_CamerasFile("CameraShotType", "Camera Shot Type", True)
@@ -612,7 +584,9 @@ class Script(scripts.Script):
                         value=True, label="Set batch count to prompt count")
                     cbIncreaseSeed = gr.Checkbox(
                         value=False, label="Increase seed with batch size")
-                    
+        with gr.Tab("Character"):
+            with gr.Column(variant="panel"):
+                gr.Label("To be continued")
             
             
         return [ddResultConcept,
@@ -845,8 +819,6 @@ class Script(scripts.Script):
 
 
                 #section1
-                print("ddResultCameraShotAngle: "+ddResultCameraShotAngle)
-                print("ddResultCameraShotType: " + ddResultCameraShotType)
                 if ddResultCameraShotAngle == "Not set" and ddResultCameraShotType == "Not set":
                     CameraResult1 = ""
                 elif ddResultCameraShotAngle!="Not set" and ddResultCameraShotType!="Not set":
@@ -1093,11 +1065,9 @@ class Script(scripts.Script):
                 print("FC "+ FinalConcept + " MT " + MainType + " CR1 " + CameraResult1 + " CR2 " + CameraResult2 + " CR3 " + CameraResult3)
                 print("ArtistResult " + ArtistResult + " AllMovements " + AllMovements + " FinalResultColor " + FinalResultColor)
                 # If main prompt isn't empty...
-                if FinalConcept != "":
-                    # Format our variables to merge into positive prompt...
-                    TypeFront = FinalConcept + ", "
+                
                 if MainType !="":
-                    TypeFront = TypeFront + MainType + ", "
+                    TypeFront =  MainType + ", "
 
 
                 # Our main prompt composed of all the selected elements
@@ -1119,6 +1089,9 @@ class Script(scripts.Script):
                 
                 if cbMediumPositives == True:
                     MainPositive = MainPositive + ", " + TypePositives
+
+                if FinalConcept != "":
+                    MainPositive = MainPositive + ", " + FinalConcept 
                 #MainNegative = copy_p.negative_prompt
                 MainNegative = p.negative_prompt
                 
