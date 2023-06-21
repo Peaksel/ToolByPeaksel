@@ -1,23 +1,23 @@
-Realistic, (by J Scott Campbell, Jim Lee, Dustin Nguyen, Tyler Kirkham);;;;True
-Realistic, (by Midjourney and Greg Rutkowski);;;;True
-Illustrative, (by Alex Ross, Tom Bagshaw, Stephan Martiniere, Gaston, Bussiere);;;;False
-Surrealistic, (by H.R. Giger, Moebius, Ralph McGuire);;;;False
-Anime, (by Yoshitaka Amano, Katsuhiro Otomo, Makoto Shinkai, Daisuke Manno);;;;False
-Digital, (by Ilya Kuvshinov, Ross Tran, Pixiv, Studio Ghibli);;;;True
-Pointillism, (by Georges Seurat, Paul Signac, Vincent van Gogh, Henri-Edmond Cross);;;;False
-Abstract Expressionism, (by Jackson Pollock, Willem de Kooning, Mark Rothko, Joan Mitchell);;;;False
-Impressionism, (by Claude Monet, Edgar Degas, Pierre-Auguste Renoir, Camille Pissarro);;;;False
-Cubism, (by Pablo Picasso, Georges Braque, Juan Gris, Robert Delaunay);;;;False
-Futurism, (by Umberto Boccioni, Giacomo Balla, Gino Severini, Carlo Carrà);;;;False
-Dadaism, (by Marcel Duchamp, Francis Picabia, Hans Arp, Max Ernst);;;;False
-Surrealism, (by Salvador Dalí, René Magritte, Max Ernst, Joan Miró);;;;False
-Expressionism, (by Edvard Munch, Egon Schiele, Wassily Kandinsky, Emil Nolde);;;;False
-Minimalism, (by Frank Stella, Donald Judd, Agnes Martin, Dan Flavin);;;;True
-Neo-Expressionism, (by Anselm Kiefer, Julian Schnabel, Georg Baselitz, Jörg Immendorff);;;;False
-Comic Book, (by Jorge Jimenez, Edwin Huang, Simon Bisley, James Jean);;;;False
-Illustrative, (by Alex Ross, Tom Bagshaw, Stephan Martiniere, Gaston, Bussiere);;;;False
-Pop Art, (by Mel Ramos, Bayard Wu, Winsor McCay, Alphonse Mucha);;;;False
-Op Art, (by Victor Vasarely, Bridget Riley, Jesús Rafael Soto, Yaacov Agam);;;;False
-Graffiti Art, (by Banksy, Jean-Michel Basquiat, Keith Haring, Shepard Fairey);;;;False
-Street Art, (by Invader, Os Gemeos, Swoon, C215);;;;False
-Performance Art, (by Marina Abramović, Joseph Beuys, Yoko Ono, Chris Burden);;;;False
+Realistic, by J Scott Campbell, Jim Lee, Dustin Nguyen, Tyler Kirkham;;;;True
+Realistic, by Midjourney and Greg Rutkowski;;;;True
+Illustrative, by Alex Ross, Tom Bagshaw, Stephan Martiniere, Gaston, Bussiere;;;;False
+Surrealistic, by H.R. Giger, Moebius, Ralph McGuire;;;;False
+Anime, by Yoshitaka Amano, Katsuhiro Otomo, Makoto Shinkai, Daisuke Manno;;;;False
+Digital, by Ilya Kuvshinov, Ross Tran, Pixiv, Studio Ghibli;;;;True
+Pointillism, by Georges Seurat, Paul Signac, Vincent van Gogh, Henri-Edmond Cross;;;;False
+Abstract Expressionism, by Jackson Pollock, Willem de Kooning, Mark Rothko, Joan Mitchell;;;;False
+Impressionism, by Claude Monet, Edgar Degas, Pierre-Auguste Renoir, Camille Pissarro;;;;False
+Cubism, by Pablo Picasso, Georges Braque, Juan Gris, Robert Delaunay;;;;False
+Futurism, by Umberto Boccioni, Giacomo Balla, Gino Severini, Carlo Carrà;;;;False
+Dadaism, by Marcel Duchamp, Francis Picabia, Hans Arp, Max Ernst;;;;False
+Surrealism, by Salvador Dalí, René Magritte, Max Ernst, Joan Miró;;;;False
+Expressionism, by Edvard Munch, Egon Schiele, Wassily Kandinsky, Emil Nolde;;;;False
+Minimalism, by Frank Stella, Donald Judd, Agnes Martin, Dan Flavin;;;;True
+Neo-Expressionism, by Anselm Kiefer, Julian Schnabel, Georg Baselitz, Jörg Immendorff;;;;False
+Comic Book, by Jorge Jimenez, Edwin Huang, Simon Bisley, James Jean;;;;False
+Illustrative, by Alex Ross, Tom Bagshaw, Stephan Martiniere, Gaston, Bussiere;;;;False
+Pop Art, by Mel Ramos, Bayard Wu, Winsor McCay, Alphonse Mucha;;;;False
+Op Art, by Victor Vasarely, Bridget Riley, Jesús Rafael Soto, Yaacov Agam;;;;False
+Graffiti Art, by Banksy, Jean-Michel Basquiat, Keith Haring, Shepard Fairey;;;;False
+Street Art, by Invader, Os Gemeos, Swoon, C215;;;;False
+Performance Art, by Marina Abramović, Joseph Beuys, Yoko Ono, Chris Burden;;;;False

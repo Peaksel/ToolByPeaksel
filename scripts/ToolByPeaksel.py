@@ -1091,7 +1091,9 @@ class Script(scripts.Script):
                     MainPositive = MainPositive + ", " + TypePositives
 
                 if FinalConcept != "":
-                    MainPositive = MainPositive + ", " + FinalConcept 
+                    MainPositive = MainPositive + ", " + FinalConcept
+
+                MainPositive = MainPositive.replace(",,", ",")
                 #MainNegative = copy_p.negative_prompt
                 MainNegative = p.negative_prompt
                 
