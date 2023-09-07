@@ -1,0 +1,6 @@
+breasts focus;;;;False
+ass focus;;;;False
+hips focus;;;;False
+face focus;;;;False
+eyes focus;;;;False
+feet focus;;;;False

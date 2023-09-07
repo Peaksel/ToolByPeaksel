@@ -1,0 +1,27 @@
+2D animation sketch;;animation, character design;;False
+architectural drawing;;technical details;;False
+botanical Illustration;;scientific detail, orthographic view, accurate pictorial depiction, on vintage paper background, white background, style of Pierre-Joseph Redoute;;False
+charcoal drawing (medium);;tonal values, smudging, blending;;False
+chalk drawing (medium);;soft pastels, chalk pastels, blending, smudging;;False
+character concept art;;character design by senior concept artist, artstation trending, detailed, realistic, concept design sheet, white background;;False
+child's drawing;;crayon;;True
+colored pencil drawing (medium);;;;True
+conte crayons drawing (medium);;lines, shading, tonal values;;False
+digital drawing;;;;False
+doodle art;;mindful patterns, spontaneous, repetitive, simple, seamless;;False
+figure drawing;;anatomy, proportions;;False
+graphite drawing (medium);;tonal values, shading;;False
+gesture drawing;;quick sketch, dynamic pose, motion;;False
+storytelling illustration;;visual communication;;True
+ink wash drawing;;india ink (medium), brush, value ranges, wash techniques;;False
+manga-style drawing;;manga, comic, ink;;False
+pen and ink drawing;;fine and intricate line drawings;bad quality, grainy, noisy,hazy, low contrast, holding pen;True
+pen drawing (medium);;;holding pen, pen;False
+scientific illustration;;scientific detail, orthographic view, blueprint, papiro paper background, highly detailed schematic;;False
+scribble art;;marker (medium), ballpoint pen (medium),chaotic lines, abstract;;False
+sketchbook (medium);;;holding pen, holding brush, paper (object);False
+techical illustration;;highly detailed schematic, orthographic view, blueprint, papiro paper background;;True
+tattoo design;;lines, minimal, black and white, white background;;False
+traditional drawing;;pencil, charcoal, ink, graphite, pastels, sketch, shading, linework;;False
+watercolor pencil drawing (medium);;;;True
+vintage postage stamp;;2 cent stamp, ink, line engraving,intaglio;;False

@@ -1,0 +1,27 @@
+dim lighting;;;;True
+chiaroscuro lighting;;;;True
+low key lighting;;;;True
+dramatic rim lighting;;;;True
+bounced lighting;;;;True
+candlelight;;;;True
+cinematic lighting;;;;True
+high key brightly lit;;;;True
+faint lighting;;;;False
+eerie lighting;;;;False
+gloomy lighting;;;;False
+moody lighting;;;;False
+shadowy lighting;;;;False
+silhouette lighting;;;;False
+dusky lighting;;;;False
+somber lighting;;;;False
+mysterious lighting;;;;False
+dramatic lighting;;;;False
+dark lighting;;;;False
+midnight lighting;;;;False
+atmospheric lighting;;;;False
+somber lighting;;;;False
+noir lighting;;;;False
+direct flash photography;;;;False
+neon lighting;;;;False
+creative shadow play lighting;;;;False
+silhouette lighting;;;;False

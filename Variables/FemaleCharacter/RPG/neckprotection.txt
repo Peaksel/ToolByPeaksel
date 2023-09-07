@@ -1,0 +1,2 @@
+gorget (armored collar);;;;False
+shikoro (neck guard);;;;False

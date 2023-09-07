@@ -1,0 +1,21 @@
+bikini;;;;False
+business outfit;;;;False
+corset;;;;False
+costume;;;;False
+female suit;;;;False
+firstdate outfit;;;;False
+formal outfit;;;;False
+golf look;;;;False
+goth outfit;;;;False
+informal outfit;;;;False
+korean girl look;;;;False
+luxbrand dress;;;;False
+nice dress;;;;False
+onepeace dress;;;;False
+prepschool outfit;;;;False
+steampunk outfit;;;;False
+sundress;;;;False
+traning outfit;;;;False
+underwear;;;;False
+uniform;;;;False
+wedding dress;;;;False

@@ -1,0 +1,27 @@
+Holding a Bren lmg;;;;False
+Holding a Browning M1919 machine gun;;;;False
+Holding a Browning m2 machine gun;;;;False
+Holding a Dp-27 machine gun;;;;False
+Holding a Degtyaryov RPD machine gun;;;;False
+Holding a H&k mg4 machine gun;;;;False
+Holding a IMI Negev machine gun;;;;False
+Holding a Lewis gun machine gun;;;;False
+Holding a M60 machine gun;;;;False
+Holding a M240 bravo machine gun;;;;False
+Holding a M249 machine gun;;;;False
+Holding a M1918 bar machine gun;;;;False
+Holding a Mg34 machine gun;;;;False
+Holding a Mg42 machine gun;;;;False
+Holding a Pkm machine gun;;;;False
+Holding a Rheinmetall MG3 machine gun;;;;False
+Holding a Rpk machine gun;;;;False
+Holding a Type 11 light machine gun;;;;False
+Holding a Type 92 machine gun;;;;False
+Holding a Type 96 light machine gun;;;;False
+Holding a Type 99 light machine gun;;;;False
+Holding a Xm307 machine gun;;;;False
+Holding a Zb 26 machine gun;;;;False
+Holding a Gatling gun;;;;False
+Holding a GAU-8 Avenger machine gun;;;;False
+Holding a M134 minigun machine gun;;;;False
+Holding a M167 vads machine gun;;;;False

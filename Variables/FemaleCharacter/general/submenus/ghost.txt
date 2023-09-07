@@ -1,0 +1,10 @@
+Banshee;;;;False
+Chouchin obake;;;;False
+Genie;;;;False
+Harpy;;;;False
+Kalavinka;;;;False
+Karakasa obake;;;;False
+Kyuubi;;;;False
+Nixie;;;;False
+Nymph;;;;False
+Valkyrie;;;;False

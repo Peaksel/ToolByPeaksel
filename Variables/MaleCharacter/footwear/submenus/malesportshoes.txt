@@ -1,0 +1,43 @@
+archery shoes;;;;False
+badminton shoes;;;;False
+baseball cleats;;;;False
+basketball shoes;;;;False
+boxing shoes;;;;False
+canoe shoes;;;;False
+cricket shoes;;;;False
+cross-country spikes;;;;False
+cross-training shoes;;;;False
+crossfit shoes;;;;False
+cycling shoes;;;;False
+football cleats;;;;False
+golf shoes;;;;False
+high-top basketball shoes;;;;False
+hiking shoes;;;;False
+hiking boots;;;;False
+kayak shoes;;;;False
+low-top basketball shoes;;;;False
+martial arts shoes;;;;False
+mountaineering boots;;;;False
+pilates shoes;;;;False
+racquetball shoes;;;;False
+running shoes;;;;False
+skate shoes;;;;False
+skateboarding shoes;;;;False
+ski boots;;;;False
+snowboarding boots;;;;False
+soccer cleats;;;;False
+soccer shoes;;;;False
+softball cleats;;;;False
+squash shoes;;;;False
+tennis shoes;;;;False
+track and field spikes;;;;False
+trail hiking shoes;;;;False
+trail running shoes;;;;False
+training shoes;;;;False
+triathlon shoes;;;;False
+volleyball shoes;;;;False
+walking shoes;;;;False
+water shoes;;;;False
+weightlifting shoes;;;;False
+wrestling shoes;;;;False
+yoga shoes;;;;False

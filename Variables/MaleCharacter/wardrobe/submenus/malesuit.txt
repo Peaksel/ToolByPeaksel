@@ -1,0 +1,50 @@
+american suit;;;;False
+british suit;;;;False
+business suit;;;;False
+casual suit;;;;False
+classic-fit suit;;;;False
+cotton suit;;;;False
+dinner suit;;;;False
+double-breasted suit;;;;False
+fall suit;;;;False
+formal suit;;;;False
+french suit;;;;False
+funeral suit;;;;False
+graduation suit;;;;False
+italian suit;;;;False
+leisure suit;;;;False
+linen suit;;;;False
+morning suit;;;;False
+nylon suit;;;;False
+party suit;;;;False
+polyester suit;;;;False
+prom suit;;;;False
+rayon suit;;;;False
+silk suit;;;;False
+slim-fit suit;;;;False
+spring suit;;;;False
+suit with boutonniere;;;;False
+suit with bow tie;;;;False
+suit with breast pocket;;;;False
+suit with buttonhole;;;;False
+suit with collar pin;;;;False
+suit with cufflinks;;;;False
+suit with handkerchief;;;;False
+suit with lapel chain;;;;False
+suit with lapel flower;;;;False
+suit with lapel pin;;;;False
+suit with pocket square;;;;False
+suit with pocket watch;;;;False
+suit with suspenders;;;;False
+suit with tie;;;;False
+suit with tie clip;;;;False
+suit with vest;;;;False
+summer suit;;;;False
+three-piece suit;;;;False
+tuxedo;;;;False
+tweed suit;;;;False
+two-piece suit;;;;False
+wedding suit;;;;False
+winter suit;;;;False
+wool suit;;;;False
+work suit;;;;False

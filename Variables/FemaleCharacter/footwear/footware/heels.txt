@@ -1,0 +1,6 @@
+stilettos;;;;False
+pumps;;;;False
+wedges;;;;False
+kitten heels;;;;False
+block heels;;;;False
+platform heels;;;;False

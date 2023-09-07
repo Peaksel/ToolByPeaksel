@@ -1,0 +1,4 @@
+codpiece;;;;False
+crotch plate;;;;False
+faulds;;;;False
+kusazuri;;;;False

@@ -1,0 +1,25 @@
+shot on Aaron LTR;;;;False
+shot on Alexa 65;;;;False
+shot on Bolex H16;;;;False
+shot on Canon EOS 5D;;;;False
+shot on Diana F+;;film grain, dreamy haze, blur, light leak;;False
+shot on Fujifilm X-T4;;;;False
+shot on GoPro Hero;;;;False
+shot on Hasselblad 500cm;;;;False
+shot on Hasselblad X1D II;;;;False
+shot on Holga 120n;;;;False
+shot on Kodak Brownie;;;;False
+shot on Kodak Funsaver;;film grain, dreamy haze, blur, light leak;;False
+shot on Leica camera;;;;False
+shot on Leica M3;;;;False
+shot on Leica T;;;;False
+shot on Lumix GH5;;;;False
+shot on Nikon camera;;;;False
+shot on Olympus camera;;;;False
+shot on Panasonic camera;;;;False
+shot on Pentax camera;;;;False
+shot on Polaroid SX-70;;;;False
+shot on RED Digital Cinema camera;;;;False
+shot on Rolleiflex;;;;False
+shot on Sony camera;;;;False
+shot on Sony A7III;;;;False

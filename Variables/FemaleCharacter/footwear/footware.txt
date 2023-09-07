@@ -1,0 +1,9 @@
+barefoot;;;;False
+athletic footwear;;;;False
+boots;;;;False
+flats;;;;False
+heels;;;;False
+sandals and slippers;;;;False
+shoes;;;;False
+sneakers;;;;False
+specialized footware;;;;False

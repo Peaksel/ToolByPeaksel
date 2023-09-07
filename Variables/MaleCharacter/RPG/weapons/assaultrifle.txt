@@ -1,0 +1,42 @@
+Holding a Ak-47 assault rifle;;;;True
+Holding a Ak-74 assault rifle;;;;False
+Holding a Aks-74u assault rifle;;;;False
+Holding a Ak-102 assault rifle;;;;False
+Holding a Ak-107 assault rifle;;;;False
+Holding a An-94 assault rifle;;;;False
+Holding a AKM assault rifle;;;;False
+Holding a APS rifle;;;;False
+Holding a As val assault rifle;;;;False
+Holding a Beretta ar70/90 assault rifle;;;;False
+Holding a Adaptive combat rifle;;;;False
+Holding a Enfield sa-80 assault rifle;;;;False
+Holding a Fad assault rifle;;;;False
+Holding a Famas assault rifle;;;;False
+Holding a Fn f2000 assault rifle;;;;False
+Holding a Fn fnc assault rifle;;;;False
+Holding a Ak 5 assault rifle;;;;False
+Holding a Fn scar assault rifle;;;;False
+Holding a FX-05 Xiuhcoatl assault rifle;;;;False
+Holding a H&K HK416 assault rifle;;;;False
+Holding a H&K G11 assault rifle;;;;False
+Holding a H&K G36 assault rifle;;;;False
+Holding a Howa type 89 assault rifle;;;;False
+Holding a Imi galil assault rifle;;;;False
+Holding a Iwi tavor assault rifle;;;;False
+Holding a L85A1 / L85A2 (SA80) assault rifle;;;;False
+Holding a M16 assault rifle;;;;True
+Holding a M4 carbine assault rifle;;;;False
+Holding a Ar-15 assault rifle;;;;False
+Holding a Qbz-03 assault rifle;;;;False
+Holding a Qbz-95 assault rifle;;;;False
+Holding a Seburo c26a assault rifle;;;;False
+Holding a Sig sg550 assault rifle;;;;False
+Holding a Sig 551 assault rifle;;;;False
+Holding a Steyr acr assault rifle;;;;False
+Holding a Steyr aug assault rifle;;;;False
+Holding a Stg44 assault rifle;;;;False
+Holding a Krummlauf assault rifle;;;;False
+Holding a T65 assault rifle;;;;False
+Holding a T91 assault rifle;;;;False
+Holding a Vektor cr-21 assault rifle;;;;False
+Holding a Xm29 oicw assault rifle;;;;False

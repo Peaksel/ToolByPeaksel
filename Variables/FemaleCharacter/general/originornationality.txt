@@ -1,0 +1,234 @@
+European;;;;False
+Asian;;;;False
+Australian;;;;False
+Middle Eastern;;;;False
+African;;;;False
+Scandinavian;;;;False
+American;;;;False
+South American;;;;False
+Ancient Greek;;;;False
+Afghan;;;;False
+Albanian;;;;False
+Algerian;;;;False
+American;;;;False
+Andorran;;;;False
+Angolan;;;;False
+Anguillan;;;;False
+Citizen of Antigua and Barbuda;;;;False
+Byzantine;;;;False
+Argentine;;;;False
+Armenian;;;;False
+Australian;;;;False
+Austrian;;;;False
+Azerbaijani;;;;False
+Bahamian;;;;False
+Bahraini;;;;False
+Bangladeshi;;;;False
+Barbadian;;;;False
+Belarusian;;;;False
+Belgian;;;;False
+Belizean;;;;False
+Beninese;;;;False
+Bermudian;;;;False
+Bhutanese;;;;False
+Bolivian;;;;False
+Citizen of Bosnia and Herzegovina;;;;False
+Botswanan;;;;False
+Brazilian;;;;False
+British;;;;False
+British Virgin Islander;;;;False
+Bruneian;;;;False
+Bulgarian;;;;False
+Burkinan;;;;False
+Burmese;;;;False
+Burundian;;;;False
+Cambodian;;;;False
+Cameroonian;;;;False
+Canadian;;;;False
+Cape Verdean;;;;False
+Cayman Islander;;;;False
+Central African;;;;False
+Chadian;;;;False
+Chilean;;;;False
+Chinese;;;;False
+Colombian;;;;False
+Comoran;;;;False
+Congolese (Congo);;;;False
+Congolese (DRC);;;;False
+Cook Islander;;;;False
+Costa Rican;;;;False
+Croatian;;;;False
+Cuban;;;;False
+Cymraes;;;;False
+Cymro;;;;False
+Cypriot;;;;False
+Czech;;;;False
+Danish;;;;False
+Djiboutian;;;;False
+Dominican;;;;False
+Citizen of the Dominican Republic;;;;False
+Dutch;;;;False
+East Timorese;;;;False
+Ecuadorean;;;;False
+Egyptian;;;;False
+Emirati;;;;False
+English;;;;False
+Equatorial Guinean;;;;False
+Eritrean;;;;False
+Estonian;;;;False
+Ethiopian;;;;False
+Faroese;;;;False
+Fijian;;;;False
+Filipino;;;;False
+Finnish;;;;False
+French;;;;False
+Gabonese;;;;False
+Gambian;;;;False
+Georgian;;;;False
+German;;;;False
+Ghanaian;;;;False
+Gibraltarian;;;;False
+Greek;;;;False
+Greenlandic;;;;False
+Grenadian;;;;False
+Guamanian;;;;False
+Guatemalan;;;;False
+Citizen of Guinea-Bissau;;;;False
+Guinean;;;;False
+Guyanese;;;;False
+Haitian;;;;False
+Honduran;;;;False
+Hong Konger;;;;False
+Hungarian;;;;False
+Icelandic;;;;False
+Indian;;;;False
+Indonesian;;;;False
+Iranian;;;;False
+Iraqi;;;;False
+Irish;;;;False
+Israeli;;;;False
+Italian;;;;False
+Ivorian;;;;False
+Jamaican;;;;False
+Japanese;;;;False
+Jordanian;;;;False
+Kazakh;;;;False
+Kenyan;;;;False
+Kittitian;;;;False
+Citizen of Kiribati;;;;False
+Kuwaiti;;;;False
+Kyrgyz;;;;False
+Lao;;;;False
+Latvian;;;;False
+Lebanese;;;;False
+Liberian;;;;False
+Libyan;;;;False
+Liechtenstein citizen;;;;False
+Lithuanian;;;;False
+Luxembourger;;;;False
+Macanese;;;;False
+Macedonian;;;;False
+Malagasy;;;;False
+Malawian;;;;False
+Malaysian;;;;False
+Maldivian;;;;False
+Malian;;;;False
+Maltese;;;;False
+Marshallese;;;;False
+Martiniquais;;;;False
+Mauritanian;;;;False
+Mauritian;;;;False
+Mexican;;;;False
+Micronesian;;;;False
+Moldovan;;;;False
+Monegasque;;;;False
+Mongolian;;;;False
+Montenegrin;;;;False
+Montserratian;;;;False
+Moroccan;;;;False
+Mosotho;;;;False
+Mozambican;;;;False
+Namibian;;;;False
+Nauruan;;;;False
+Nepalese;;;;False
+New Zealander;;;;False
+Nicaraguan;;;;False
+Nigerian;;;;False
+Nigerien;;;;False
+Niuean;;;;False
+North Korean;;;;False
+Northern Irish;;;;False
+Norwegian;;;;False
+Omani;;;;False
+Pakistani;;;;False
+Palauan;;;;False
+Palestinian;;;;False
+Panamanian;;;;False
+Papua New Guinean;;;;False
+Paraguayan;;;;False
+Peruvian;;;;False
+Pitcairn Islander;;;;False
+Polish;;;;False
+Portuguese;;;;False
+Prydeinig;;;;False
+Puerto Rican;;;;False
+Qatari;;;;False
+Romanian;;;;False
+Russian;;;;False
+Rwandan;;;;False
+Salvadorean;;;;False
+Sammarinese;;;;False
+Samoan;;;;False
+Sao Tomean;;;;False
+Saudi Arabian;;;;False
+Scottish;;;;False
+Senegalese;;;;False
+Serbian;;;;False
+Citizen of Seychelles;;;;False
+Sierra Leonean;;;;False
+Singaporean;;;;False
+Slovak;;;;False
+Slovenian;;;;False
+Solomon Islander;;;;False
+Somali;;;;False
+South African;;;;False
+South Korean;;;;False
+South Sudanese;;;;False
+Spanish;;;;False
+Sri Lankan;;;;False
+St Helenian;;;;False
+St Lucian;;;;False
+Stateless;;;;False
+Sudanese;;;;False
+Surinamese;;;;False
+Swazi;;;;False
+Swedish;;;;False
+Swiss;;;;False
+Syrian;;;;False
+Taiwanese;;;;False
+Tajik;;;;False
+Tanzanian;;;;False
+Thai;;;;False
+Togolese;;;;False
+Tongan;;;;False
+Trinidadian;;;;False
+Tristanian;;;;False
+Tunisian;;;;False
+Turkish;;;;False
+Turkmen;;;;False
+Turks and Caicos Islander;;;;False
+Tuvaluan;;;;False
+Ugandan;;;;False
+Ukrainian;;;;False
+Uruguayan;;;;False
+Uzbek;;;;False
+Vatican citizen;;;;False
+Citizen of Vanuatu;;;;False
+Venezuelan;;;;False
+Vietnamese;;;;False
+Vincentian;;;;False
+Wallisian;;;;False
+Welsh;;;;False
+Yemeni;;;;False
+Zambian;;;;False
+Zimbabwean;;;;False

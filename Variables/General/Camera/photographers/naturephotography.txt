@@ -1,0 +1,11 @@
+nature photography by Adolf Fassbender, Adrian Donoghue, Akos Major;;;;True
+nature photography by Alan Schaller, Alastair Magnaldo, Albert Renger-Patzsch;;;;True
+nature photography by Albert Watson, Alberto Biasi, Alberto Burri;;;;True
+nature photography by Alec Soth, Alessandra Sanguinetti, Alessio Albi;;;;True
+nature photography by Alex Howitt, Alex Prager, Alex Strohl;;;;True
+nature photography by Alex Timmermans, Alex Webb, Andreas Levers;;;;True
+nature photography by Ansel Adams;;;;False
+nature photography by Art Wolfe;;;;False
+nature photography by Frans Lanting;;;;False
+nature photography by Galen Rowell;;;;False
+nature photography by Nick Brandt;;;;False

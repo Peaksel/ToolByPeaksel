@@ -1,0 +1,4 @@
+bright lighting;;;;False
+medium intensity lighting;;;;False
+dark lighting;;;;False
+natural lighting;;;;False

@@ -1,0 +1,7 @@
+bohemian looks;;;;False
+male costume;;;;False
+male NSFW underwear;;;;False
+male suit;;;;False
+male summer outfit;;;;False
+male superhero costume;;;;False
+male underwear;;;;False

@@ -1,0 +1,21 @@
+hazel eyes;;;;False
+green eyes;;;;False
+brown eyes;;;;False
+black eyes;;;;False
+grey eyes;;;;False
+purple eyes;;;;False
+pink eyes;;;;False
+red eyes;;;;False
+silver eyes;;;;False
+yellow eyes;;;;False
+turquoise eyes;;;;False
+aquamarine eyes;;;;False
+ruby eyes;;;;True
+coral eyes;;;;False
+dark brown eyes;;;;False
+jade eyes;;;;False
+teal eyes;;;;False
+light blue eyes;;;;False
+blue eyes;;;;True
+grey-blue eyes;;;;False
+amber eyes;;;;False

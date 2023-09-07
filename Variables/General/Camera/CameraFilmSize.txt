@@ -1,0 +1,20 @@
+shot on 8mm film;;;;False
+shot on 8mm fisheye lens;;;;False
+shot on 9.5mm film;;;;False
+shot on 16mm film;;;;False
+shot on 17.5mm film;;;;False
+shot on 28mm film;;;;True
+shot on 35mm film;;;;True
+shot on 50mm film;;;;True
+shot on 65mm film;;;;False
+shot on 70mm film;;;;False
+shot on IMAX 70mm film;;;;False
+shot on Afga Vista camera film;;;;False
+shot on Cinestill 800T camera film;;35mm;;False
+shot on Ektar 100;;35 mm;;False
+shot on Kodak Vision camera film;;35mm;;False
+shot on Kodak Vision3 IMAX;;65mm;;False
+shot on Lomachrome color film (Helga 120n);;35mm;;False
+shot on Kodak Portra 160;;;;False
+shot on Fijifilm Velvia 100;;;;False
+shot on Fujicolor Pro film;;;;False

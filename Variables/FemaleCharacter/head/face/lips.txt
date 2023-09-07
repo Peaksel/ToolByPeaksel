@@ -1,0 +1,20 @@
+alluring lips;;;;False
+beautiful lips;;;;False
+captivating lips;;;;True
+delicate lips;;;;False
+divine lips;;;;False
+gorgeous lips;;;;True
+irresistible lips;;;;False
+juicy lips;;;;False
+kissable lips;;;;False
+luscious lips;;;;False
+parted lips;;;;False
+perfectly shaped lips;;;;False
+plump lips;;;;False
+pouty lips;;;;False
+radiant lips;;;;False
+seductive lips;;;;False
+sensuous lips;;;;False
+soft lips;;;;False
+sultry lips;;;;True
+voluptuous lips;;;;False

@@ -1,0 +1,15 @@
+round chin;;;;False
+pointed chin;;;;False
+square chin;;;;False
+cleft chin;;;;False
+double chin;;;;False
+protruding chin;;;;False
+retruded chin;;;;False
+receding chin;;;;False
+weak chin;;;;False
+broad chin;;;;False
+narrow chin;;;;False
+v-shaped chin;;;;False
+u-shaped chin;;;;False
+flat chin;;;;False
+triangular chin;;;;False

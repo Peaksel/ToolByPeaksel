@@ -1,0 +1,4 @@
+male boots;;;;False
+male formal shoes;;;;False
+male sport shoes;;;;False
+male summer shoes;;;;False

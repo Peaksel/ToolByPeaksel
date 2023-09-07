@@ -1,0 +1,23 @@
+Holding a anti-tank mine;;;;False
+Holding a arm cannon;;;;True
+Holding a a bomb;;;;False
+Holding a a cannon;;;;True
+Holding a china lake grenade launcher;;;;False
+Holding a denel paw-20 grenade launcher;;;;False
+Holding a dynamite;;;;False
+Holding a gp-25 underbarrel grenade launcher;;;;False
+Holding a A grenade;;;;False
+Holding a A grenade launcher;;;;True
+Holding a A lunge mine;;;;False
+Holding a m18 claymore mine;;;;False
+Holding a m203 underbarrel grenade launcher;;;;False
+Holding a m79 grenade launcher;;;;False
+Holding a milkor mgl grenade launcher;;;;False
+Holding a A mine;;;;False
+Holding a naval mine;;;;False
+Holding a nuclear weapon;;;;True
+Holding a pipe bomb;;;;False
+Holding a psychogun;;;;False
+Holding a satellite cannon;;;;False
+Holding a time bomb;;;;True
+Holding a underbarrel grenade launcher;;;;False

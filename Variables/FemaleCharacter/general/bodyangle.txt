@@ -1,0 +1,7 @@
+front view;;;;False
+full front view;;;;False
+quarter turn,1/4 body pose;;;;False
+profile view, side body view;;;;False
+three-quarter turn,3/4 body pose;;;;False
+back view;;;;False
+full back view;;;;False

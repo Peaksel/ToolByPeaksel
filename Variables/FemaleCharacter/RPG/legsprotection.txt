@@ -1,0 +1,11 @@
+armored boots;;;;False
+cuisses;;;;False
+faulds;;;;False
+greaves;;;;False
+knee pads;;;;False
+kusazuri;;;;False
+leg armor;;;;False
+poleyn;;;;False
+sabaton;;;;False
+shin guards;;;;False
+suneate;;;;False

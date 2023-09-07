@@ -1,0 +1,59 @@
+Adam Sandler;;;;True
+Ben Stiller;;;;False
+Benedict Cumberbatch;;;;False
+Brad Pitt;;;;False
+Bradley Cooper;;;;False
+Bradly Cooper;;;;False
+Bruce Willis;;;;False
+Channing Tatum;;;;False
+Chris Evans;;;;False
+Chris Hemsworth;;;;False
+Chris Pine;;;;False
+Chris Pratt;;;;False
+Clint Eastwood;;;;False
+Daniel Craig;;;;False
+Daniel Radcliffe;;;;False
+Denzel Washington;;;;True
+Dwayne The Rock Johnson;;;;True
+Eddie Murphy;;;;False
+Eddie Redmayne;;;;False
+Elijah Wood;;;;False
+George Clooney;;;;False
+Harrison Ford;;;;False
+Hugh Jackman;;;;True
+Idris Elba;;;;False
+Jake Gyllenhaal;;;;False
+Jamie Foxx;;;;False
+Jared Leto;;;;False
+Jason Statham;;;;True
+Joaquin Phoenix;;;;False
+John Cena;;;;True
+Johnny Depp;;;;False
+Jonah Hill;;;;False
+Keanu Reeves;;;;True
+Kit Harington;;;;False
+Leonardo DiCaprio;;;;True
+Liam Neeson;;;;False
+Margot Robbie;;;;False
+Matthew McConaughey;;;;False
+Michael B. Jordan;;;;False
+Michael Caine;;;;False
+Morgan Freeman;;;;True
+Orlando Bloom;;;;False
+Rober De Niro;;;;True
+Robert Downey Jr.;;;;False
+Robert Pattinson;;;;False
+Ryan Gosling;;;;False
+Ryan Reynolds;;;;False
+Ryan Seacrest;;;;False
+Samuel L. Jackson;;;;True
+Seth Rogen;;;;False
+Shia LaBeouf;;;;False
+Steve Carell;;;;False
+Tom Cruise;;;;False
+Tom Hardy;;;;False
+Tom Hanks;;;;True
+Vin Diesel;;;;True
+Will Ferrell;;;;False
+Will Smith;;;;True
+Zac Efron;;;;False

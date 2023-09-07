@@ -1,0 +1,16 @@
+a-line skirt, tucked-in button-up blouse, and low-heeled pumps;;;;False
+cable knit sweater, pleated skirt, and loafers;;;;False
+collared shirt, belted chinos, and driving moccasins;;;;False
+denim jacket, striped shirt, and white sneakers;;;;False
+floral sundress, cropped cardigan, and wedge sandals;;;;False
+gingham dress, cardigan, and ballet flats;;;;False
+high-waisted shorts, polo shirt, and boat shoes;;;;False
+khaki pants, striped shirt, and boat shoes;;;;False
+linen blazer, white t-shirt, and cuffed jeans;;;;False
+midi dress, gold chain necklace, and espadrilles;;;;False
+midi skirt, silk blouse, and kitten heels;;;;False
+plaid blazer, turtleneck sweater, and straight-leg pants;;;;False
+plaid skirt, chambray shirt, and ankle boots;;;;False
+sweater vest, pencil skirt, and mary jane pumps;;;;False
+tweed blazer, cable knit sweater, and leather loafers;;;;False
+wrap dress, pearl earrings, and slingback pumps;;;;False

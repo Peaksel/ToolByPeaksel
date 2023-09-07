@@ -1,0 +1,6 @@
+fashion photography Albert Watson, Alexander McQueen, Alfredo Jaar;;;;True
+fashion photography Alasdair McLellan, Alexander McQueen, Alfredo Jaar;;;;True
+fashion photography Alasdair McLellan;;;;False
+fashion photography Albert Watson;;;;False
+fashion photography Alexander McQueen;;;;False
+fashion photography Alfredo Jaar;;;;False

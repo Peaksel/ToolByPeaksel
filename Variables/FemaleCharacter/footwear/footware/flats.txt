@@ -1,0 +1,6 @@
+ballet flats;;;;False
+espadrilles;;;;False
+loafers;;;;False
+mules;;;;False
+slip-on flats;;;;False
+mary jane flats;;;;False

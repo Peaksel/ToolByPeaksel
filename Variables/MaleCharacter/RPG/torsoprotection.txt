@@ -1,0 +1,10 @@
+ballistic shield (tactical shield);;;;False
+breastplate;;;;False
+bulletproof vest;;;;False
+chainmail;;;;False
+cuirass;;;;False
+linothorax;;;;False
+muscle cuirass;;;;False
+plate carrier;;;;False
+scale armor;;;;False
+seva suit;;;;False

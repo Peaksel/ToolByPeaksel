@@ -1,0 +1,33 @@
+basketball shorts, sleeveless jersey;;;;True
+beach volleyball shorts, tank top;;;;False
+board shorts, rash guard;;;;False
+climbing pants, climbing t-shirt;;;;True
+compression shorts, performance t-shirt;;;;False
+compression tights, long sleeve compression top;;;;False
+cross-country running shorts, singlet;;;;False
+crossfit shorts, crossfit t-shirt;;;;False
+cycling shorts, cycling jersey;;;;False
+disc golf shorts, t-shirt;;;;False
+golf shorts, golf polo shirt;;;;True
+gym shorts, t-shirt;;;;False
+joggers, hoodie;;;;True
+lacrosse shorts, lacrosse jersey;;;;False
+mma shorts, mma gloves;;;;False
+rugby shorts, rugby jersey;;;;False
+running shorts, performance singlet;;;;False
+skateboarding shorts, t-shirt;;;;False
+ski pants, base layer top;;;;False
+snowboarding pants, snowboarding jacket;;;;False
+soccer shorts, soccer jersey;;;;False
+surfing boardshorts, rash guard;;;;False
+sweatpants, long sleeve compression shirt;;;;False
+swim trunks, rash guard;;;;False
+tennis shorts, polo shirt;;;;False
+track pants, tank top;;;;False
+track shorts, track singlet;;;;False
+training shorts, compression shirt;;;;False
+triathlon suit;;;;False
+ultimate frisbee shorts, ultimate frisbee jersey;;;;False
+volleyball shorts, sleeveless top;;;;False
+weightlifting shorts, muscle tank top;;;;False
+yoga pants, yoga tank top;;;;False

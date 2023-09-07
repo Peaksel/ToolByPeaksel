@@ -1,0 +1,5 @@
+head accessory;;;;False
+animal ears;;;;False
+a hat;;;;False
+a necklace;;;;False
+earrings;;;;False

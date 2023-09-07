@@ -1,0 +1,31 @@
+apple body;;;;False
+athletic body;;;;True
+balanced body;;;;False
+broad-shouldered body;;;;False
+busty body;;;;False
+compact body;;;;False
+curvy body;;;;False
+diamond body;;;;False
+flat-chested body;;;;False
+full-figured body;;;;False
+hourglass body;;;;False
+inverted triangle body;;;;False
+lanky body;;;;False
+lean body;;;;False
+lithe body;;;;False
+long-legged body;;;;False
+narrow-hipped body;;;;True
+oval body;;;;False
+pear body;;;;False
+petite body;;;;True
+pregnant;;;;True
+rectangle body;;;;False
+sculpted body;;;;False
+short-legged body;;;;False
+slender body;;;;False
+soft body;;;;False
+tall body;;;;False
+toned body;;;;True
+voluptuous body;;;;True
+wide-hipped body;;;;False
+willowy body;;;;False

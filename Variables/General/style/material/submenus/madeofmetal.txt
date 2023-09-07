@@ -1,0 +1,4 @@
+bronze sculpture;;;;False
+made of iridescent foil;;;;False
+made of metal;;;;False
+wire sculpture art;;;;False

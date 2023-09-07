@@ -1,0 +1,35 @@
+asymmetrical hair;;;;False
+beach waves hair;;;;False
+blowout hair;;;;False
+braided hairstyle;;;;False
+bun hair;;;;False
+crimped hair;;;;False
+drill hair;;;;False
+dutch braid;;;;False
+fishtail braid;;;;False
+fringe hair;;;;False
+bangs;;;;False
+blunt bangs;;;;False
+hair flaps;;;;False
+half-up half-down hairstyle;;;;False
+layered hair;;;;False
+lob hair;;;;False
+long hair;;;;False
+medium hair;;;;False
+messy hair;;;;False
+ponytail;;;;False
+prom hairstyle;;;;False
+quiff hair;;;;False
+razor cut hair;;;;False
+ringlets hair;;;;False
+shag hair;;;;False
+shaggy hair;;;;False
+short hair;;;;False
+sleek hair;;;;False
+straight hair;;;;False
+textured hair;;;;False
+twin drills hair;;;;False
+unkempt and tangled;;;;False
+updo hairstyle;;;;False
+wavy hair;;;;False
+wedge cut hair;;;;False

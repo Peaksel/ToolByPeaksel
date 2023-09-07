@@ -1,0 +1,9 @@
+running shoes;;;;False
+basketball shoes;;;;False
+soccer cleats;;;;False
+football cleats;;;;False
+golf shoes;;;;False
+cross-training shoes;;;;False
+tennis shoes;;;;False
+cycling shoes;;;;False
+skate shoes;;;;False

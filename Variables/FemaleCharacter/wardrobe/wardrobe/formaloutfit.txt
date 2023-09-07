@@ -1,0 +1,50 @@
+a-line evening gown;;;;False
+mermaid-style gown;;;;False
+ball gown;;;;False
+sheath dress;;;;False
+cocktail dress;;;;False
+tea-length dress;;;;False
+column gown;;;;False
+empire waist gown;;;;False
+halter neck gown;;;;False
+off-the-shoulder dress;;;;False
+one-shoulder dress;;;;False
+strapless gown;;;;False
+peplum dress;;;;False
+sequin gown;;;;False
+lace dress;;;;False
+satin slip dress;;;;False
+cap-sleeve gown;;;;False
+three-quarter sleeve dress;;;;False
+long-sleeve gown;;;;False
+draped gown;;;;False
+cowl neck dress;;;;False
+high neck gown;;;;False
+illusion neckline dress;;;;False
+sweetheart neckline gown;;;;False
+v-neck dress;;;;False
+wrap dress;;;;False
+ruffled gown;;;;False
+tiered dress;;;;False
+trumpet gown;;;;False
+velvet gown;;;;False
+chiffon dress;;;;False
+organza gown;;;;False
+tulle dress;;;;False
+beaded gown;;;;False
+embroidered dress;;;;False
+asymmetrical hem dress;;;;False
+high-low gown;;;;False
+floor-length gown;;;;False
+fit and flare dress;;;;False
+two-piece gown;;;;False
+jumpsuit with a cape;;;;False
+palazzo jumpsuit;;;;False
+tuxedo-inspired dress;;;;False
+shirt dress with a full skirt;;;;False
+gown with an overskirt;;;;False
+cold shoulder dress;;;;False
+gown with a thigh-high slit;;;;False
+cut-out detail dress;;;;False
+dress with a dramatic back;;;;False
+gown with a statement collar;;;;False

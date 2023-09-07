@@ -1,0 +1,5 @@
+black and white photography by Ansel Adams;;;;False
+black and white photography by Sebastião Salgado;;;;False
+black and white photography by Edward Weston;;;;False
+black and white photography by Daido Moriyama;;;;False
+black and white photography by Henri Cartier-Bresson;;;;False

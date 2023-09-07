@@ -1,0 +1,3 @@
+Short body;;;;True
+Average height, medium body;;;;True
+Tall body;;;;True

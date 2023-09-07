@@ -1,0 +1,10 @@
+Skinny, lean, narrow shoulders, slender, sleek, ectomorph body;;;;True
+Athletic, large muscles, ripped, chiseled, sculpted, balansed, mesomorph body;;;;True
+Heroic, muscular, strong, ripped, chiseled, Adonis-like, powerful, sculpted, Inverted triangle body shape;;;;True
+Chubby, plump, well-padded, full-bodies, rotund, oval body shape;;;;False
+Fat, large, heavy, overweight, voluptuous. Plus-sized body;;;;True
+Rectangle body shape, narrow shoulders;;;;True
+Oval body shape, big stomach, narrow shoulders;;;;True
+Triangle body shape, wide waist, wide hips, narrow shoulders;;;;True
+Inverted triangle body shape, wide shoulders, slim waist, slim hips;;;;True
+Trapezoid body shape, wide shoulders, wide hips;;;;True

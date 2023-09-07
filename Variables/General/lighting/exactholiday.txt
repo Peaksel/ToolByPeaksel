@@ -1,0 +1,45 @@
+April Fools day;;;;False
+Bastille Day;;;;False
+Bikini Day;;;;False
+Canada Day;;;;False
+Cat Day;;;;False
+Chuseok, Mid-Autumn Festival, Tsukimi;;;;False
+Chinese New Year;;;;True
+Christmas;;;;True
+Cirno Day;;;;False
+Dia de Muertos;;;;True
+Dragon Boat Festival;;;;False
+Doughnut Day;;;;False
+Easter;;;;True
+Father's Day;;;;False
+Fourth of July;;;;False
+Glasses Day;;;;False
+Good Kneehighs Day;;;;False
+Hanami;;;;False
+Hanukkah;;;;False
+Hinamatsuri;;;;False
+Honey Day;;;;False
+Maid Day;;;;False
+Marine Day;;;;False
+Miku Day;;;;False
+Mother's Day;;;;True
+Nanakusa-no-Sekku;;;;False
+New Year's Day;;;;True
+Nue Day, UFO Day;;;;False
+Obon;;;;False
+Oktoberfest;;;;True
+Pocky Day, Remembrance Day;;;;False
+Rubber Day;;;;False
+Saint Patrick's Day;;;;True
+Setsubun;;;;False
+Shichi-Go-San;;;;False
+Songkran;;;;False
+Summer Festival;;;;False
+Tanabata;;;;False
+Thanksgiving;;;;True
+Tights Day;;;;False
+Twintails Day;;;;False
+Valentine's Day;;;;True
+Victory Day;;;;False
+White Day;;;;False
+Women's Day;;;;False

@@ -1,0 +1,49 @@
+a-line skirt and blouse;;;;False
+ankle-length trousers and a blouse;;;;False
+bermuda shorts and a polo shirt;;;;False
+blazer and pants;;;;False
+bomber jacket and pants;;;;False
+bodycon dress;;;;False
+boyfriend jeans and a loose sweater;;;;False
+button-down shirt and skirt;;;;False
+camisole and wide-leg trousers;;;;False
+capri pants and a blouse;;;;False
+cardigan and jeans;;;;False
+cargo pants and a tee;;;;False
+culottes and a tank top;;;;False
+crop top and high-waisted jeans;;;;False
+denim jacket and dress;;;;False
+denim skirt and a knit top;;;;False
+duster cardigan and leggings;;;;False
+fit and flare dress;;;;False
+harem pants and a fitted tee;;;;False
+high-waisted shorts and a tube top;;;;False
+hoodie and joggers;;;;False
+jogger pants and a crop top;;;;False
+jumpsuit;;;;False
+knit dress and tights;;;;False
+leather jacket and skirt;;;;False
+long-sleeve blouse and trousers;;;;False
+maxi dress;;;;False
+midi dress;;;;False
+mini dress;;;;False
+overalls and a sweater;;;;False
+palazzo pants and a camisole;;;;False
+peasant blouse and skirt;;;;False
+pencil skirt and top;;;;False
+polo shirt and khakis;;;;False
+poncho and jeans;;;;False
+puffer vest and jeans;;;;False
+romper;;;;False
+shirt dress;;;;False
+skater skirt and a graphic tee;;;;False
+sundress;;;;False
+tank top and shorts;;;;False
+tapered pants and a button-down shirt;;;;False
+t-shirt and jeans;;;;False
+trench coat and trousers;;;;False
+tunic and leggings;;;;False
+turtleneck and slacks;;;;False
+v-neck tee and capris;;;;False
+wide-leg jeans and a sweater;;;;False
+wrap dress;;;;False

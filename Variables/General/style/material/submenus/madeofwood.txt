@@ -1,0 +1,6 @@
+carving technique, made of wood;;;;False
+kachina doll art;;;;False
+made of wood;;;;False
+marquetry technique, made of wood;;;;False
+made of polished walnut burl and blackwood;;dynamic;;False
+contrast, depth mapped;;;;False

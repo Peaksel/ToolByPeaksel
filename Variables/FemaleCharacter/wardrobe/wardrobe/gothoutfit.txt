@@ -1,0 +1,15 @@
+black jumpsuit, wide-brimmed hat, and ankle boots;;;goth, gothic;False
+black leather jacket, fishnet shirt, ripped jeans, and platform boots;;goth, gothic;;False
+corset, velvet skirt, and combat boots;;goth, gothic;;False
+fishnet dress, oversized denim jacket, and platform sneakers;;goth, gothic;;False
+fishnet top, black skinny jeans, studded belt, and high-top sneakers;;goth, gothic;;False
+leather corset, lace mini skirt, and thigh-high boots;;goth, gothic;;False
+long black trench coat, skull-print t-shirt, leather pants, and lace-up boots;;goth, gothic;;False
+midi dress with ruffles, black tights, and platform sandals;;goth, gothic;;False
+ripped fishnet tights, oversized t-shirt, and combat boots;;goth, gothic;;False
+ripped leggings, oversized sweater, and high-heeled ankle boots;;goth, gothic;;False
+studded bracelet, black wide-leg pants, and black tank top;;goth, gothic;;False
+studded leather vest, black leggings, and ankle boots;;goth, gothic;;False
+velvet blazer, white shirt, and black dress pants;;goth, gothic;;False
+velvet dress, fishnet tights, and high-heeled platform boots;;goth, gothic;;False
+white lace blouse, black leather skirt, and studded flats;;goth, gothic;;False

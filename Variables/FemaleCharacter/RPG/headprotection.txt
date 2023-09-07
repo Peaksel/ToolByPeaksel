@@ -1,0 +1,13 @@
+armored twintails;;;;False
+faceplate;;;;False
+forehead protector;;;;False
+helm;;;;False
+helmet;;;;False
+kabuto (samurai helmet);;;;False
+kettle helm;;;;False
+kite shield;;;;False
+morion;;;;False
+pith helmet;;;;False
+spiked helmet;;;;False
+visor (armor);;;;False
+winged helmet;;;;False

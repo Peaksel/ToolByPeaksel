@@ -1,0 +1,8 @@
+Holding a aa-12 shotgun;;;;False
+Holding a benelli m1014 shotgun;;;;False
+Holding a mossberg 500 shotgun;;;;False
+Holding a remington model 870 shotgun;;;;False
+Holding a sawed-off shotgun;;;;False
+Holding a spas-12 shotgun;;;;False
+Holding a spas-15 shotgun;;;;False
+Holding a winchester model 1897 shotgun;;;;True

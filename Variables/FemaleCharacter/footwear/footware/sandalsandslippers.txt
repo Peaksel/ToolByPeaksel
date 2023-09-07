@@ -1,0 +1,12 @@
+flip-flops;;;;False
+slide sandals;;;;False
+gladiator sandals;;;;False
+espadrilles;;;;False
+platform sandals;;;;False
+wedge sandals;;;;False
+huaraches;;;;False
+slingback sandals;;;;False
+slip-on slippers;;;;False
+moccasin slippers;;;;False
+bootie slippers;;;;False
+slide slippers;;;;False

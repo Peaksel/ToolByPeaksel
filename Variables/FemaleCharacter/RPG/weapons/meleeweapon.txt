@@ -1,0 +1,45 @@
+Holding a Axe;;;;False
+Holding a Ball and chain;;;;False
+Holding a Baton;;;;False
+Holding a Beam saber;;;;False
+Holding a Bokken;;;;False
+Holding a Crystal sword;;;;False
+Holding a Cutlass;;;;False
+Holding a Dagger;;;;False
+Holding a Double-blade;;;;False
+Holding a Energy sword;;;;False
+Holding a Expandable baton;;;;False
+Holding a Flail;;;;False
+Holding a Gunblade;;;;False
+Holding a Hammer;;;;False
+Holding a Jitte;;;;False
+Holding a Jamadhar;;;;False
+Holding a Katana;;;;False
+Holding a Chokutou Katana;;;;False
+Holding a Kodachi Short sword;;;;False
+Holding a Kunai;;;;False
+Holding a Lightsaber;;;;False
+Holding a Long sword;;;;False
+Holding a Mace;;;;False
+Holding a Macuahuitl;;;;False
+Holding a Nagamaki Katana;;;;False
+Holding a Ninjatou Short sword;;;;False
+Holding a Nunchaku;;;;False
+Holding a Ootachi Katana;;;;False
+Holding a Rapier;;;;False
+Holding a Sai;;;;False
+Holding a Scimitar;;;;False
+Holding a Short sword;;;;False
+Holding a Shotel;;;;False
+Holding a Sledgehammer;;;;False
+Holding a Spiked Ball and Chain;;;;False
+Holding a Switch axe;;;;False
+Holding a Sword;;;;False
+Holding a Tachi Katana;;;;False
+Holding a Tantou Short sword;;;;False
+Holding a Tomahawk;;;;False
+Holding a Tonfa;;;;False
+Holding a War hammer;;;;False
+Holding a Whip sword;;;;False
+Holding a Windfire wheel;;;;False
+Holding a Wooden sword;;;;False

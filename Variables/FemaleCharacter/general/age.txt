@@ -1,0 +1,10 @@
+in early twenties;;;;False
+in mid-twenties;;;;False
+in late twenties;;;;False
+in early thirties;;;;False
+in mid-thirties;;;;False
+in late thirties;;;;False
+in early forties;;;;False
+in mid-forties;;;;False
+mature female;;;;False
+granny;;;;False

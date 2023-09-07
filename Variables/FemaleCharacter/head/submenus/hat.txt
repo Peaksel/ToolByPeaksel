@@ -1,0 +1,24 @@
+beanie;;;;False
+beret;;;;False
+bobble hat;;;;False
+bonnet;;;;False
+cap;;;;False
+cloche hat;;;;False
+fedora hat;;;;False
+floppy hat;;;;False
+hat;;;;False
+headband;;;;False
+headwrap;;;;False
+hijab;;muslim;;False
+kerchief;;;;False
+pillbox hat;;;;False
+porkpie hat;;;;False
+raccoon fur hat;;;;False
+scrunchie;;;;False
+skullcap;;;;False
+sun hat;;;;False
+turban;;;;False
+veil;;;;False
+wedding veil;;;;False
+wide brim hat;;;;False
+wimple;;;;False

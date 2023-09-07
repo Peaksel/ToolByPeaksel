@@ -1,0 +1,7 @@
+beauty photo by Mario Testino, by Annie Ellen von Unwerth, by Patrick Demarchelier, by Annie Leibovitz;;;;True
+beauty photo by Patrick Demarchelier, by Annie Leibovitz;;;;True
+beauty photo by Mario Testino, by Annie Ellen von Unwerth;;;;True
+beauty photo by Mario Testino;;;;False
+beauty photo by Ellen von Unwerth;;;;False
+beauty photo by Patrick Demarchelier;;;;False
+beauty photo by Annie Leibovitz;;;;False

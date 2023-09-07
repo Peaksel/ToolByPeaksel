@@ -1,0 +1,34 @@
+aerial photography;;;;False
+action shot;;dynamic, movement;;False
+analogue photography;;;;False
+architecture photography;;;;False
+astrophotography;;;;True
+beauty photography;;;;True
+black and white photography;;;;False
+candid photography;;;;True
+documentary photography;;;;True
+establishing shot;;;;True
+experimental photography;;;;False
+fashion photography;;style of vogue;;True
+fine art photography;;;;False
+glamour photography;;glamour shot;;True
+large format photography;;;;True
+lifestyle photography;;;;False
+macro photography;;;;False
+modernist photography;;;;True
+nature photography;;;;False
+National Geographic photography;;;;False
+night photography;;;;True
+paparazzi photography;;;;False
+photojournalism photography;;;;False
+pictorials style photography;;soft focus, diffuse lighting;;False
+pinhole photography;;;;False
+portrait photography;;;;True
+photoshoot photography;;;;True
+still life photography;;;;False
+street fashion photography;;;;False
+surreal photography;;;;True
+travel photography;;;;False
+underwater photography;;;;False
+wildlife photography;;;;False
+war photography;;;;False

@@ -1,0 +1,20 @@
+oval face;;;;False
+round face;;;;False
+square face;;;;False
+rectangle face;;;;False
+diamond face;;;;False
+heart face;;;;False
+inverted triangle face;;;;False
+long face;;;;False
+triangular face;;;;False
+tapered square face;;;;False
+wide rectangle face;;;;False
+soft diamond face;;;;False
+gently rounded square face;;;;False
+oblong face;;;;False
+pear face;;;;False
+narrow oval face;;;;False
+delicate heart face;;;;False
+soft triangle face;;;;False
+rounded diamond face;;;;False
+short rectangle face;;;;False

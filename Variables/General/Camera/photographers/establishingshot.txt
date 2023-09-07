@@ -1,0 +1,10 @@
+establishing photography by Ansel Adams, by Michael Kenna;;;;True
+establishing photography by Yann Arthus-Bertrand, by Andreas Gursky;;;;True
+establishing photography by Hiroshi Sugimoto, by Edward Burtynsky, by Richard Misrach;;;;True
+establishing photography by Thomas Struth, by Stephen Shore;;;;True
+establishing photography by Cindy Sherman;;;;False
+establishing photography by Gregory Crewdson;;;;False
+establishing photography by Alec Soth;;;;False
+establishing photography by Andreas Gursky;;;;False
+establishing photography by Daido Moriyama;;;;False
+establishing photography by Martin Parr;;;;False

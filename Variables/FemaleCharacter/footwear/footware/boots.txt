@@ -1,0 +1,9 @@
+ankle boots;;;;False
+knee-high boots;;;;False
+combat boots;;;;False
+chelsea boots;;;;False
+hiking boots;;;;False
+rain boots;;;;False
+work boots;;;;False
+cowboy boots;;;;False
+snow boots;;;;False

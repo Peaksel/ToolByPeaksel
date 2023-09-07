@@ -1,0 +1,31 @@
+barrette;;;;False
+bobby pin;;;;False
+bun cover;;;;False
+butterfly clip;;;;False
+chignon;;;;False
+chopsticks;;;;False
+comb;;;;False
+crown;;;;False
+elastic hair band;;;;False
+flower crown;;;;False
+hair bell;;;;False
+hair bobbles;;;;False
+hair bow;;;;False
+hair flower;;;;False
+hair ornament;;;;False
+hair ribbon;;;;False
+hair tie;;;;False
+hair tubes;;;;False
+hair weapon;;;;False
+hairband;;;;False
+hairclip;;;;False
+hairpin;;;;False
+hairpods;;;;False
+headband;;;;False
+jaw clip;;;;False
+kanzashi;;;;False
+kirby grip;;;;False
+ponytail holder;;;;False
+scrunchie;;;;False
+snap clip;;;;False
+tiara;;;;False

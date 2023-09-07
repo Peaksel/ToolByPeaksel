@@ -1,0 +1,72 @@
+abandoned warehouse with graffiti;;;;False
+bustling farmer's market with fresh produce;;;;False
+charming english garden with wrought-iron gate;;;;False
+chic fashion boutique with elegant displays;;;;False
+classic diner with chrome and neon accents;;;;False
+cozy cabin with a roaring fireplace;;;;False
+cozy coffee shop with warm lighting;;;;False
+decadent french patisserie with pastel macarons;;;;False
+dimly lit jazz club with velvet curtains;;;;False
+dramatic cliffs overlooking the ocean;;;;False
+dusty old attic filled with trinkets and heirlooms;;;;False
+elegant ballroom with crystal chandeliers;;;;False
+elegant french cafe with outdoor seating;;;;True
+elegant staircase in a historic mansion;;;;False
+enchanting fairy-tale forest with sparkling lights;;;;False
+enchanting garden with ivy-covered walls;;;;False
+extravagant casino floor with flashy slot machines;;;;True
+foggy harbor with old fishing boats;;;;False
+glistening ice cave with icicles;;;;False
+graffiti-covered urban alleyway;;;;False
+green house filled with exotic plants;;;;False
+historic theater stage with velvet seating;;;;False
+historic train station with vintage architecture;;;;False
+industrial workspace with metal and concrete;;;;False
+ivy-covered stone cottage in the countryside;;;;False
+lush tropical rainforest with vibrant flora;;;;False
+luxurious spa with candlelit ambiance;;;;False
+luxurious vintage car interior;;;;False
+majestic cathedral with stained glass windows;;;;False
+majestic library with spiral staircase;;;;False
+misty forest with moss-covered trees;;;;False
+modern art gallery with abstract paintings;;;;False
+modern loft apartment with exposed brick;;;;False
+modern science lab with high-tech equipment;;;;False
+moonlit desert landscape with cacti;;;;False
+old-fashioned barbershop with classic details;;;;False
+old-school diner with jukebox and checkerboard floor;;;;False
+old-world European street with cobblestones;;;;True
+ornate moroccan-style courtyard;;;;False
+pop art gallery with bold, colorful works;;;;False
+quaint lighthouse with coastal views;;;;False
+rainy city street with neon signs;;;;False
+rain-soaked cobblestone alley in old town;;;;False
+romantic rooftop restaurant at twilight;;;;True
+rooftop garden during golden hour;;;;False
+rooftop helipad with cityscape at night;;;;False
+rooftop terrace with city skyline view;;;;True
+rugged mountain trail with towering pines;;;;False
+rustic barn with weathered wood;;;;False
+rustic brewery with barrels and stainless tanks;;;;False
+rustic farmhouse kitchen with antiques;;;;False
+serene butterfly garden with colorful blooms;;;;False
+serene japanese garden with cherry blossoms;;;;True
+serene lakeside at sunset;;;;False
+sleek motorcycle garage with vintage bikes;;;;False
+sleek spaceship interior with futuristic controls;;;;False
+snowy mountain landscape at dusk;;;;False
+soothing lavender field under a clear sky;;;;False
+sophisticated wine cellar with oak barrels;;;;False
+steampunk-inspired workshop with gears and gadgets;;;;True
+stylish loft with industrial-style decor;;;;False
+sunny yoga studio with hardwood floors;;;;False
+swanky cocktail lounge with leather seating;;;;False
+sweeping vineyard with rows of grapevines;;;;False
+tranquil zen garden with koi pond;;;;True
+traditional tea house with paper lanterns;;;;False
+underwater scene with vibrant coral reef;;;;False
+urban rooftop pool with city views;;;;False
+vibrant flower field in full bloom;;;;False
+vibrant graffiti tunnel with urban art;;;;False
+vintage library with floor-to-ceiling bookshelves;;;;False
+whimsical treehouse nestled in the treetops;;;;False

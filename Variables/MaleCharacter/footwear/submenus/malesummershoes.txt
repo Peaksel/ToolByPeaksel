@@ -1,0 +1,8 @@
+boat shoes;;;;False
+canvas shoes;;;;False
+espadrilles;;;;True
+flip flops;;;;True
+leather sandals;;;;False
+slip-on espadrilles;;;;False
+slip-on sandals;;;;False
+sandals;;;;True

@@ -1,0 +1,24 @@
+Batgirl;;DC Comics;;False
+Batwoman;;DC Comics;;False
+Black Canary;;DC Comics;;False
+Catwoman;;DC Comics;;False
+Cyclone;;DC Comics;;False
+Harley Quinn;;DC Comics;;False
+Hawkgirl;;DC Comics;;False
+Hawkwoman;;DC Comics;;False
+Invisible Woman;;Marvel;;False
+Jubilee;;Marvel;;False
+Kitty Pryde;;Marvel;;False
+Lady Deathstrike;;Marvel;;False
+Medusa;;Marvel;;False
+Mera;;DC Comics;;False
+Mystique;;Marvel;;False
+Oracle;;DC Comics;;False
+Power Girl;;DC Comics;;False
+Raven;;DC Comics;;False
+She-Hulk;;Marvel;;False
+She-Venom;;Marvel;;False
+Scarlet Witch;;Marvel;;False
+Supergirl;;DC Comics;;False
+Superwoman;;DC Comics;;False
+Wonder Woman;;DC Comics;;False

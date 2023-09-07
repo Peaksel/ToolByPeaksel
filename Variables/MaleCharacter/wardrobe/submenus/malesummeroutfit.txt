@@ -1,0 +1,50 @@
+baseball jersey, track pants;;;;False
+baseball tee, jogger pants;;;;False
+button-down camp shirt, linen shorts;;;;False
+chambray shirt, cargo shorts;;;;False
+chambray shirt, patterned shorts;;;;False
+graphic t-shirt, denim shorts;;;;False
+graphic tank top, board shorts;;;;False
+graphic tank top, cargo pants;;;;False
+graphic tee, denim shorts;;;;False
+hawaiian print shirt, khaki shorts;;;;False
+henley shirt, cargo shorts;;;;False
+henley shirt, jogger shorts;;;;False
+henley shirt, relaxed-fit jeans;;;;False
+henley tee, cargo pants;;;;False
+hooded sweatshirt, cargo shorts;;;;False
+lightweight cardigan, bermuda shorts;;;;False
+lightweight hoodie, jogger pants;;;;False
+lightweight hoodie, jogger shorts;;;;False
+linen button-down shirt, lightweight trousers;;;;False
+linen button-down shirt, linen pants;;;;False
+linen-blend blazer, patterned shorts;;;;False
+linen-blend blazer, tailored trousers;;;;False
+linen-blend polo shirt, tailored shorts;;;;False
+linen-blend short-sleeve shirt, cuffed jeans;;;;False
+oxford shirt, colored chinos;;;;False
+oxford shirt, patterned shorts;;;;False
+patterned short-sleeve shirt, chino pants;;;;False
+plaid shirt, denim cutoff shorts;;;;False
+plaid short-sleeve shirt, cargo shorts;;;;False
+plaid short-sleeve shirt, white jeans;;;;False
+polo shirt, chino shorts;;;;False
+polo shirt, linen shorts;;;;False
+polo shirt, relaxed-fit jeans;;;;False
+polo shirt, seersucker shorts;;;;False
+polo tee, linen pants;;;;False
+polo tee, linen trousers;;;;False
+polo tee, patterned swim trunks;;;;False
+printed button-down shirt, khaki shorts;;;;False
+printed short-sleeve shirt, khaki trousers;;;;False
+printed short-sleeve shirt, tailored shorts;;;;False
+printed t-shirt, jogger shorts;;;;False
+striped polo shirt, chino pants;;;;False
+striped short-sleeve shirt, denim jeans;;;;False
+striped tank top, cargo shorts;;;;False
+striped tank top, denim cutoff shorts;;;;False
+t-shirt, shorts;;;;False
+tropical print polo shirt, tailored shorts;;;;False
+tropical print shirt, white jeans;;;;False
+v-neck sweater, bermuda shorts;;;;False
+v-neck t-shirt, denim jeans;;;;False

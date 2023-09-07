@@ -1,0 +1,23 @@
+long legs;;;;True
+athletic legs;;;;True
+muscular legs;;;;False
+thin elegant legs;;;;True
+seductive legs;;;;True
+spread legs;;;;False
+highleg;;;;False
+mechanical legs;;;;False
+clockwork legs;;;;False
+animal legs;;;;False
+hydraulic robot legs;;;;False
+tentacle-like legs;;;;False
+insectoid legs;;;;False
+holographic legs;;;;False
+alien legs;;;;False
+mech legs;;;;False
+exoskeletal legs;;;;False
+octopod legs;;;;False
+cyborg legs;;;;True
+spider-like legs;;;;False
+centaurian legs;;;;False
+robotic legs;;;;True
+legs made of living vines and flowers;;;;False

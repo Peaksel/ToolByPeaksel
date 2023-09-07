@@ -1,0 +1,5 @@
+action figure;;;;False
+claymation;;;;False
+funko pop;;;;False
+plastic art;;;;False
+plasticine technique;;;;False

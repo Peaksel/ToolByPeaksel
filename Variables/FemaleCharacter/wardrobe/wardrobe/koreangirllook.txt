@@ -1,0 +1,44 @@
+button-up shirt, denim shorts, and flats;;;;False
+cropped button-up shirt, high-waisted pants, and loafers;;;;False
+cropped denim jacket, mini dress, and sneakers;;;;False
+cropped sweater, plaid skirt, and boots;;;;False
+cropped tank top, high-waisted pants, and sandals;;;;False
+cropped t-shirt, jogger pants, and sneakers;;;;False
+culottes, blouse, and sandals;;;;False
+denim jacket, mini skirt, and ankle boots;;;;False
+denim overalls, t-shirt, and sandals;;;;False
+floral dress and ankle boots;;;;False
+graphic t-shirt, wide-leg pants, and sandals;;;;False
+high-waisted jeans, crop top, and sandals;;;;False
+high-waisted shorts, and heels;;;;False
+high-waisted shorts, and wedges;;;;False
+high-waisted jeans, and ankle boots;;;;False
+jumpsuit and wedges;;;;False
+knit sweater, midi skirt, and ankle boots;;;;False
+linen shirt, high-waisted shorts, and sandals;;;;False
+maxi dress and sneakers;;;;False
+midi skirt, blouse, and mules;;;;False
+mini skirt, graphic tee, and sneakers;;;;False
+mini skirt, blouse, and ankle boots;;;;False
+off-the-shoulder blouse, high-waisted pants, and loafers;;;;False
+off-the-shoulder midi dress and sandals;;;;False
+one-shoulder blouse, midi skirt, and strappy sandals;;;;False
+oversized blazer, cropped top, and wide-leg pants;;;;False
+oversized denim jacket, t-shirt, shorts, and sneakers;;;;False
+oversized hoodie, leggings, and sneakers;;;;False
+oversized sweatshirt, biker shorts, and sneakers;;;;False
+polka dot blouse, high-waisted shorts, and wedges;;;;False
+printed blouse, skinny jeans, and flats;;;;False
+printed jumpsuit and wedges;;;;False
+ruffled blouse, high-waisted jeans, and pumps;;;;False
+sheer blouse, high-waisted shorts, and heels;;;;False
+sleeveless blouse, mini skirt, and ankle boots;;;;False
+sleeveless turtleneck, midi skirt, and sneakers;;;;False
+strappy cami, denim shorts, and espadrilles;;;;False
+striped shirt dress and sandals;;;;False
+striped t-shirt, denim shorts, and white sneakers;;;;False
+t-shirt dress and sneakers;;;;False
+tie-front blouse, wide-leg pants, and pumps;;;;False
+turtleneck sweater, high-waisted jeans, and ankle boots;;;;False
+white t-shirt, denim skirt, and sneakers;;;;False
+wrap dress and wedges;;;;False

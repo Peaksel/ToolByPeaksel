@@ -1,0 +1,39 @@
+archaeologist uniform;;;;False
+astronaut uniform;;;;False
+ballet dancer uniform;;;;False
+barista uniform;;;;False
+beautician uniform;;;;False
+business professional uniform;;;;False
+casino dealer uniform;;;;False
+chef uniform;;;;False
+construction worker uniform;;;;False
+courtroom judge uniform;;;;False
+cruise ship crew uniform;;;;False
+doctor uniform;;;;False
+equestrian rider uniform;;;;False
+federal agent uniform;;;;False
+firefighter uniform;;;;False
+flight attendant uniform;;;;False
+gymnast uniform;;;;False
+hotel staff uniform;;;;False
+it professional uniform;;;;False
+librarian uniform;;;;False
+lifeguard uniform;;;;False
+military uniform, a helmet and white gloves;;;;False
+news anchor uniform;;;;False
+nurse uniform;;;;False
+park ranger uniform;;;;False
+parkour instructor uniform;;;;False
+pilot uniform;;;;False
+police detective uniform;;;;False
+police officer uniform;;;;False
+postal worker uniform;;;;False
+race car driver uniform;;;;False
+scientist uniform;;;;False
+security guard uniform;;;;False
+seifuku, japanese sailor uniform;;;;False
+serafuku, japanese school uniform;;;;False
+ski instructor uniform;;;;False
+soccer player uniform;;;;False
+tennis player uniform;;;;False
+yoga instructor uniform;;;;False

@@ -1,0 +1,6 @@
+Bad Artists (general purpose):By bad artist -neg
+Fast Negative v2 (general purpose):FastNegativeV2
+Concordant (general purpose):Concordant-neg
+Bad Pictures (general purpose):bad_pictures
+Boring Negative (more interesting images):boring_e621_v4
+Bad Dream + UnrealisticDream (for photorealistic images):UnrealisticDream, BadDream

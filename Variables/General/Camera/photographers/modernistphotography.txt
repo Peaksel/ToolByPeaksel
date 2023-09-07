@@ -1,0 +1,10 @@
+modernist photography by Alfred Stieglitz, by Edward Steichen;;;;True
+modernist photography by Paul Strand, by Laszlo Moholy-Nagy;;;;True
+modernist photography by Imogen Cunningham, by Albert Renger-Patzsch;;;;True
+modernist photography by Berenice Abbott, by Andre Kertesz;;;;True
+modernist photography by Dorothea Lange, by August Sander;;;;False
+modernist photography by Edward Weston, by Walker Evans;;;;False
+modernist photography by Ansel Adams, by Andre Kertesz;;;;False
+modernist photography by Man Ray, by Brassai;;;;False
+modernist photography by Margaret Bourke-White, by Aleksandr Rodchenko;;;;False
+modernist photography by Tina Modotti, by Edward Steichen;;;;False

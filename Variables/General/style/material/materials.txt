@@ -1,0 +1,7 @@
+made of glass;;;;False
+made of metal;;;;False
+made of paper;;;;False
+made of plastic;;;;False
+made of stone;;;;False
+made of textile;;;;False
+made of wood;;;;False

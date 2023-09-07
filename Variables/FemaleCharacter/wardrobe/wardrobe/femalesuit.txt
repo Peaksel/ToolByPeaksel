@@ -1,0 +1,32 @@
+business suit;;;;False
+cocktail suit;;;;False
+cotton suit;;;;False
+evening suit;;;;False
+fall suit;;;;False
+formal suit;;;;False
+funeral suit;;;;False
+graduation suit;;;;False
+jacket dress;;;;False
+leisure suit;;;;False
+linen suit;;;;False
+nylon suit;;;;False
+pant suit;;;;False
+party suit;;;;False
+prom suit;;;;False
+rayon suit;;;;False
+silk suit;;;;False
+skirt suit;;;;False
+spring suit;;;;False
+suit dress;;;;False
+suit with blazer;;;;False
+suit with blouse;;;;False
+suit with pashmina;;;;False
+suit with scarf;;;;False
+suit with t-shirt;;;;False
+suit with tank top;;;;False
+summer suit;;;;False
+three-piece suit;;;;False
+tweed suit;;;;False
+two-piece suit;;;;False
+wool suit;;;;False
+work suit;;;;False

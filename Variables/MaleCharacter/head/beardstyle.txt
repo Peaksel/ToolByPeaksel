@@ -1,0 +1,20 @@
+Stubble beard;;;;False
+Goatee beard;;;;False
+Chin strap beard;;;;False
+Soul patch beard;;;;False
+Mutton chops beard;;;;False
+Balbo beard;;;;False
+Anchor beard;;;;False
+Circle beard beard;;;;False
+French fork beard;;;;False
+Ducktail beard;;;;False
+Garibaldi beard;;;;False
+Imperial beard;;;;False
+Old Dutch beard;;;;False
+Bandholz beard;;;;False
+Van Dyke beard;;;;False
+Scruffy beard;;;;False
+5 o'clock shadow beard;;;;False
+Horseshoe mustache with a beard;;;;False
+Friendly mutton chops beard;;;;False
+Chin curtain beard;;;;False

@@ -1,0 +1,8 @@
+3D digital painting;;global illumination, subsurface scattering, specular lighting, hdr, 8K, nanite raytraced;lowres, poorly drawn, deformed, bad quality, sloppy, ugly, sketch, amateur, plastic, unrealistic;True
+3D rendering;;global illumination, subsurface scattering, specular lighting, hdr, 8K, nanite raytraced;lowres, poorly drawn, deformed, bad quality, sloppy, ugly, sketch, amateur, plastic, unrealistic;True
+marble statue;;unique sculpture, on the pedestal, (intricately sculpted, an exquisite piece of art, carefully chiseled), (smooth, polished finish);;False
+clay render;;3d, octane render, (intricately sculpted, carefully chiseled), (smooth, polished finish);;False
+funko pop figurine;;funko style, made of plastic;;False
+action figure;;;;False
+mobile game character;; isometric, full body, blender 3d, artstation and behance, Disney Pixar, clash royale;;False
+miniature of;;hand painted, plastic, detailed, whitebackground, studio lighting, product photography;;False

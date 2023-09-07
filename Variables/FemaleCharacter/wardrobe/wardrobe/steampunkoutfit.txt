@@ -1,0 +1,20 @@
+blouse with ruffled collar, high-waisted skirt, and ankle boots;;steampunk outfit;;False
+brown leather corset, long skirt, and knee-high boots;;steampunk outfit;;False
+button-up vest, pinstripe trousers, and fedora hat;;steampunk outfit;;False
+clockwork-inspired waistcoat, top hat, and goggles;;steampunk outfit;;False
+cotton shirt, waistcoat, and lace-up boots;;steampunk outfit;;False
+dress with bustle, long gloves, and choker necklace;;steampunk outfit;;False
+frock coat, cravat, and pocket watch;;steampunk outfit;;False
+lace blouse, floor-length skirt, and heeled ankle boots;;steampunk outfit;;False
+leather harness, goggles, and cargo pants;;steampunk outfit;;False
+long coat, pinstripe pants, and leather boots;;steampunk outfit;;False
+military-style jacket, lace jabot, and steampunk-style glasses;;steampunk outfit;;False
+officer-style tunic, jodhpurs, and tall riding boots;;steampunk outfit;;False
+pinafore dress, blouse, and ankle boots;;steampunk outfit;;False
+pith helmet, khaki shirt, and high-waisted trousers;;steampunk outfit;;False
+pocket watch, waistcoat, and ascot tie;;steampunk outfit;;False
+ruffled blouse, velvet jacket, and flared trousers;;steampunk outfit;;False
+striped shirt, fitted vest, and leather gloves;;steampunk outfit;;False
+top hat, bow tie, and leather pants;;steampunk outfit;;False
+trench coat, leather gloves, and aviator goggles;;steampunk outfit;;False
+victorian-style dress, choker necklace, and ankle boots;;steampunk outfit;;False

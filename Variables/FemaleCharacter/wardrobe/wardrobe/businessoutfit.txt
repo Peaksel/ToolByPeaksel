@@ -1,0 +1,50 @@
+A-line skirt and blouse;;;;False
+Ankle-length pants and blouse;;;;False
+Ankle-length pants and sweater;;;;False
+Blazer and A-line skirt;;;;False
+Blazer and culottes;;;;False
+Blazer and pencil skirt;;;;False
+Blazer dress;;;;False
+Blazer and trousers;;;;False
+Blouse and midi skirt;;;;False
+Blouse and puff sleeves and trousers;;;;False
+Blouse with puff sleeves and trousers;;;;False
+Blouse with tie-neck and trousers;;;;False
+Blouse with a blazer and midi skirt;;;;False
+Capri pants and blouse;;;;False
+Collared dress with a blazer;;;;False
+Co-ord set with a cropped blazer and trousers;;;;False
+Cropped trousers and blouse;;;;False
+Culottes and blouse;;;;False
+Culottes and turtleneck;;;;False
+High-waisted trousers and blouse;;;;False
+High-waisted trousers and button-down shirt;;;;False
+Knee-length skirt and blouse;;;;False
+Long-sleeve blouse and midi skirt;;;;False
+Pantsuit with a blouse;;;;False
+Pantsuit with a button-down shirt;;;;False
+Pantsuit with a turtleneck;;;;False
+Paperbag waist trousers and blouse;;;;False
+Peplum top and pencil skirt;;;;False
+Peplum top and trousers;;;;False
+Pencil skirt and blouse;;;;False
+Pleated skirt and blouse;;;;False
+Shift dress with a blazer;;;;False
+Shirt dress;;;;False
+Sheath dress;;;;False
+Skirt suit with a blouse;;;;False
+Skirt suit with a button-down shirt;;;;False
+Skirt suit with a turtleneck;;;;False
+Sweater dress;;;;False
+Trousers and belted tunic;;;;False
+Trousers and blouse;;;;False
+Trousers and button-down shirt;;;;False
+Trousers and fitted cardigan;;;;False
+Trousers and shell top;;;;False
+Trousers and sweater;;;;False
+Trousers and turtleneck;;;;False
+Tunic dress with leggings;;;;False
+Vest and pencil skirt;;;;False
+Vest and trousers;;;;False
+Wide-leg pants and blouse;;;;False
+Wrap dress;;;;False

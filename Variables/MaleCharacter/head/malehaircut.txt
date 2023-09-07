@@ -1,0 +1,75 @@
+afro haircut;;;;False
+bald head;;;;False
+beard haircut;;;;False
+blunt cut haircut;;;;False
+brush cut haircut;;;;False
+buzz cut haircut;;;;False
+Caesar cut haircut;;;;False
+choppy layers haircut;;;;False
+classic side sweep haircut;;;;False
+classic taper haircut;;;;False
+clean-shaven haircut;;;;False
+comb over haircut;;;;False
+crew cut haircut;;;;False
+curly hair haircut;;;;False
+dreadlocks haircut;;;;False
+drop fade haircut;;;;False
+fade haircut;;;;False
+fade with beard haircut;;;;False
+fade with goatee haircut;;;;False
+fade with mustache haircut;;;;False
+fade with sideburns haircut;;;;False
+faux hawk haircut;;;;False
+French crop haircut;;;;False
+goatee haircut;;;;False
+high and tight haircut;;;;False
+high fade haircut;;;;False
+high-fade haircut;;;;False
+Ivy League haircut;;;;False
+layer cut haircut;;;;False
+layered comb over haircut;;;;False
+long beard haircut;;;;False
+long hair haircut;;;;False
+long mustache haircut;;;;False
+long quiff haircut;;;;False
+long wavy locks haircut;;;;False
+low fade haircut;;;;False
+low-fade haircut;;;;False
+man bun haircut;;;;False
+medium hair haircut;;;;False
+messy spikes haircut;;;;False
+modern slick back haircut;;;;False
+Mohawk haircut;;;;False
+mutton chops haircut;;;;False
+parted afro haircut;;;;False
+ponytail haircut;;;;False
+pompadour haircut;;;;False
+quiff haircut;;;;False
+razor cut haircut;;;;False
+scissor cut haircut;;;;False
+shaggy hair haircut;;;;False
+shaggy layers haircut;;;;False
+shaved head haircut;;;;False
+short back and sides haircut;;;;False
+short beard haircut;;;;False
+short hair haircut;;;;False
+short mustache haircut;;;;False
+short quiff haircut;;;;False
+short wavy crop haircut;;;;False
+side part haircut;;;;False
+side-swept fringe haircut;;;;False
+sideburns haircut;;;;False
+skin fade haircut;;;;False
+slick back haircut;;;;False
+spiky hair haircut;;;;False
+straight hair haircut;;;;False
+taper fade haircut;;;;False
+temp fade haircut;;;;False
+textured crop haircut;;;;False
+textured fringe haircut;;;;False
+thick beard haircut;;;;False
+thin beard haircut;;;;False
+top knot haircut;;;;False
+twisted curls haircut;;;;False
+undercut haircut;;;;False
+waves haircut;;;;False

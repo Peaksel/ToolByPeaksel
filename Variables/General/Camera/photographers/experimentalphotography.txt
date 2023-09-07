@@ -1,0 +1,15 @@
+experimental photography by Man Ray, by Laszlo Moholy-Nagy;;;;True
+experimental photography by Francesca Woodman, by Duane Michals;;;;True
+experimental photography by Cindy Sherman, by Jerry Uelsmann;;;;True
+experimental photography by Daido Moriyama, by Ralph Eugene Meatyard, by Shoji Ueda;;;;True
+experimental photography by Hannah Hoch;;;;False
+experimental photography by Robert Heinecken;;;;False
+experimental photography by Uta Barth;;;;False
+experimental photography by Maurice Tabard;;;;False
+experimental photography by Francesca Woodman;;;;False
+experimental photography by Duane Michals;;;;False
+experimental photography by Man Ray;;;;False
+experimental photography by Laszlo Moholy-Nagy;;;;False
+experimental photography by Duane Michals;;;;False
+experimental photography by Ray K. Metzker;;;;False
+experimental photography by Jerry Uelsmann;;;;False

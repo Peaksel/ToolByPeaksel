@@ -1,0 +1,7 @@
+underwater photography by David Doubilet, Brian Skerry, Cristina Mittermeier;;;;True
+underwater photography by Doug Perrine, Paul Nicklen, Henri Cartier-Bresson;;;;True
+underwater photography by David Doubilet;;;;False
+underwater photography by Brian Skerry;;;;False
+underwater photography by Cristina Mittermeier;;;;False
+underwater photography by Doug Perrine;;;;False
+underwater photography by Paul Nicklen;;;;False

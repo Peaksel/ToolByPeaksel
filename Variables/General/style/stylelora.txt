@@ -1,0 +1,4 @@
+add your own value in stylelora.txt;;;;False
+<lora:more_details:1>;;;;True
+<lora:add_detail:1>;;;;True
+<lora:Elixir:1>;;;;True

@@ -1,0 +1,46 @@
+Holding a Beretta 92 pistol;;;;False
+Holding a Beretta 93r pistol;;;;False
+Holding a Beretta model 38 pistol;;;;False
+Holding a Beretta px4 pistol;;;;False
+Holding a Browning hi-power pistol;;;;False
+Holding a Colt double eagle pistol;;;;False
+Holding a Cz-75 pistol;;;;False
+Holding a FK BRNO field pistol;;;;False
+Holding a Desert eagle gun;;;;True
+Holding a FN Five-seveN pistol;;;;False
+Holding a Fn model 1903 pistol;;;;False
+Holding a Fn model 1910 pistol;;;;False
+Holding a Fp-45 liberator gun;;;;False
+Holding a Glock pistol;;;;False
+Holding a H&K Mark 23 pistol;;;;False
+Holding a H&K P9S pistol;;;;False
+Holding a H&K USP pistol;;;;False
+Holding a H&K VP70 pistol;;;;False
+Holding a IMI Jericho pistol;;;;False
+Holding a Luger P08 pistol;;;;False
+Holding a M1911 pistol;;;;False
+Holding a Mauser C96 pistol;;;;False
+Holding a Mauser HSC pistol;;;;False
+Holding a NAA Guardian 380 pistol;;;;False
+Holding a Nambu Type 14 pistol;;;;False
+Holding a PM Makarov pistol;;;;False
+Holding a Qsz-92 pistol;;;;False
+Holding a Ruger LCP pistol;;;;False
+Holding a Ruger P95 pistol;;;;False
+Holding a Serdyukov sps gun;;;;False
+Holding a Sig sauer pistol;;;;False
+Holding a Thompson gun;;;;True
+Holding a Tokarev tt-33 pistol;;;;False
+Holding a Triple Action Thunder pistol;;;;False
+Holding a Walther p38 pistol;;;;False
+Holding a Walther p5 pistol;;;;False
+Holding a Walther p99 pistol;;;;False
+Holding a Walther ppk pistol;;;;False
+Holding a A gun;;;;True
+Holding a Colt python gun;;;;False
+Holding a Colt 1851 Navy gun;;;;False
+Holding a Pepperbox gun;;;;False
+Holding a Single-action gun;;;;False
+Holding a Colt Single Action Army gun;;;;False
+Holding a Remington single-action gun;;;;False
+Holding a Smith & Wesson Model 500 gun;;;;False

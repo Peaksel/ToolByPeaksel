@@ -1,0 +1,10 @@
+breathtaking hips;;;;False
+elegant hips;;;;True
+feminine hips;;;;False
+hourglass hips;;;;True
+proportionate hips;;;;False
+seductive hips;;;;False
+sensual hips;;;;True
+voluptuous hips;;;;False
+well-defined hips;;;;False
+wide hips;;;;False

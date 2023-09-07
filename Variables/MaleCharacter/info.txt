@@ -1,0 +1,76 @@
+===================
+Section 1: General
+===================
+
+Example prompt with default strength values:
+
+beautiful 1man pedjatheboy, Canadian, white skin, in her Mid-twenties, SFW, (upper body view, three-quarter turn, ¾ body pose:1.3), looking at the viewer, breasts focus
+
+Example prompt with non-default strength values:
+
+(Beautiful:1/3) (1man:1.3) (pedjatheboy:1.1), (Canadian, white skin:1.3), (in her Mid-twenties:1.3), (SFW:1.3), (upper body view, three-quarter turn, ¾ body pose:1.3), (looking at the viewer, breasts focus:1.3)
+
+Variables prompt:
+
+beautydescriptor femaletype, (femalecelebrity or embedding or both), originornationality, skincolor, age ,contentrating, bodyview, bodyangle, lookingwhere, camerafocus
+
+
+
+
+=======
+Female Celebrity and Embedding
+=======
+
+[celebrity|embedding] - ako se obe vrednosti koriste u isto vreme, prompt da kuca ovako i da ignorase jacinu - ovo je ver pola pola komanda. Ako se koristi samo jedna vrednost od dve, jacina vazi za nju.
+
+U Help text ide link za download: https://app.box.com/s/wuixxldr51u5yx5rhevgmjkffhg5v0kd
+
+============
+Section 2: head
+============
+
+Round face, Sleepy facial expression, ginger hair, fringe hair, green eyes, Wide Set Eye Shape, Thick eyebrows, Straight Nose, kissable lips, Round Chin
+
+
+Faceshape, facialexpression, haircolor, haircut, eyescolor, eyesshape, eyebrows, nose, lips, chin
+
+
+==============
+Head Accessories
+==============
+
+(wearing tiara, cat ears, disc earrings, chain necklace, fedora hat, aviator glasses)
+
+(wearing (tiara, cat ears:1.3), (disc earrings, chain necklace:1.3), (fedora hat, aviator glasses:1.3))
+
+wearing hairaccessory, animalears, earrings, neckless, hat, glasses
+
+================
+Section 3: Body
+=================
+
+Hourglass body, Medium Breasts, Breasts squeezed together, large ass, perfect round ass, Hands behind head, thin elegant legs
+
+(Hourglass body:1.3), (Medium Breasts, Breasts squeezed together:1.3), (large ass, perfect round ass:1.3), (Hands behind head, thin elegant legs:1.3)
+
+Bodytype, breastssize, breastsdescriptor, asssize, assdescriptor, handsposition, legs
+
+
+=================
+outfit
+=================
+
+Wearing bridal corset
+
+(Wearing bridal corset:1.3)
+
+Wearing wardrobe or wardrobe subitem
+
+Ista logika za footwear
+
+=========================================
+
+ChatGTP komanda za konvertovanje podataka
+
+Take this list and make each line in this format: "value;;;;False". After that, correct the grammar if needed, sort the list alphabetically and make all the first letters in the lines small caps. List: 
+

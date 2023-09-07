@@ -1,0 +1,6 @@
+1man;;;;False
+1boy;;;;False
+a man;;;;False
+a boy;;;;False
+a male creature;;;;False
+male superhero;;;;False

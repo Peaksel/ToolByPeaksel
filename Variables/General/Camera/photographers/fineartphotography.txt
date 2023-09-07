@@ -1,0 +1,32 @@
+fine art photography by Aliza Razell, Andreas Levers, Anne Geddes;;;;True
+fine art photography by Annie Leibovitz, Bella Kotak, Bill Brandt;;;;True
+fine art photography by Bruce Davidson, Bruce Gilden, Brooke Shaden;;;;True
+fine art photography by Bruce Weber, Bruno Barbey, Bruno Munari;;;;True
+fine art photography by Camille Vivier, Carsten Meyerdierks, Chema Madoz;;;;True
+fine art photography by Chen Zhen, Cindy Sherman, Cindy Wright;;;;True
+fine art photography by Claude Cahun, David Hockney, Duane Michals;;;;True
+fine art photography by Edward Weston, Elliott Erwitt, Erwin Wurm;;;;True
+fine art photography by Francesca Woodman, Garry Winogrand, Gregory Crewdson;;;;True
+fine art photography by Henrik Sjögren, Hiroshi Sugimoto, Irving Penn;;;;True
+fine art photography by Jeff Wall, Joel-Peter Witkin, John Divola;;;;True
+fine art photography by John Gossage, Joel Meyerowitz, Juergen Teller;;;;True
+fine art photography by Karl Blossfeldt, Lee Friedlander, Lewis Baltz;;;;True
+fine art photography by Man Ray, Nan Goldin, Nan Hoover;;;;True
+fine art photography by Nan Raedler, Niki de Saint Phalle, Noam Galai;;;;True
+fine art photography by Olafur Eliasson, Oliver Chanarin, Richard Avedon;;;;True
+fine art photography by Richard Billingham, Richard Prince, Richard Serra;;;;True
+fine art photography by Robert Capa, Robert Frank, Robert Mapplethorpe;;;;True
+fine art photography by Robert Rauschenberg, Robert Smithson, Sally Mann;;;;True
+fine art photography by Sandy Skoglund, Sandy Wallis, Sarah Moon;;;;True
+fine art photography by Sebastião Salgado, Sean Scully, Shirin Neshat;;;;True
+fine art photography by Spencer Tunick, Stanley Kubrick, Steve McCurry;;;;True
+fine art photography by Steven Klein, Steven Meisel, Steven Shore;;;;True
+fine art photography by Sue Bryce, Sugimoto Hiroshi, Susan Meiselas;;;;True
+fine art photography by Sylvia Plachy, Tyler Shields, Vivian Maier;;;;True
+fine art photography by Weegee, Wolfgang Tillmans, Yigal Ozeri;;;;True
+fine art photography by Yinka Shonibare, Yousuf Karsh, Zanele Muholi;;;;True
+fine art photography by Cindy Sherman;;;;False
+fine art photography by Andreas Gursky;;;;False
+fine art photography by Richard Prince;;;;False
+fine art photography by Nan Goldin;;;;False
+fine art photography by Hiroshi Sugimoto;;;;False

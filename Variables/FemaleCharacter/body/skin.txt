@@ -1,0 +1,10 @@
+tattoos;;;;True
+birthmarks;;;;False
+scars;;;;False
+beauty mark;;;;False
+freckles, detailed skin;;;;True
+skin pores;;;;True
+oily skin;;;;False
+smooth, clear skin;;;;True
+dark-skinned;;;;False
+skin marred with grime and dirt;;;;False

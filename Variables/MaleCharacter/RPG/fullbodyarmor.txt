@@ -1,0 +1,18 @@
+armor of altair;;;;False
+high-cut armor;;;;False
+plate armor;;;;False
+seva suit;;;;False
+terminator armor;;;;False
+bougu;;;;False
+bomb suit;;;;False
+exoskeleton;;;;False
+full armor;;;;False
+power armor;;;;False
+power suit;;;;False
+gravity suit;;;;False
+seva suit;;;;False
+armor of altair;;;;False
+berserker armor;;;;False
+high-cut armor;;;;False
+n7 armor;;;;False
+protect gear;;;;False

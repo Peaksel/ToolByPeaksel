@@ -1,0 +1,11 @@
+cast paper art;;;;False
+cutout art;;;;False
+embossing art;;;;False
+kirigami art;;;;False
+origami art;;;;False
+papercut art;;;;False
+paper quilling art;;;;False
+papier-mache art;;;;False
+torn paper collage art;;;;False
+layered paper craft;;paper art, diorama, HDR;;False
+royal crest of;;layered paper craft, paper art, diorama, HDR, symmetrical;;False

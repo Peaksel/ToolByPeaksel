@@ -1,0 +1,82 @@
+ant-man costume;;Marvel;;False
+aquaman costume;;DC Comics;;False
+astro boy costume;;Tezuka Productions;;False
+batman costume;;DC Comics;;False
+black panther costume;;Marvel;;False
+blade costume;;Marvel;;False
+bucky barnes costume;;Marvel;;False
+cain marko costume;;Marvel;;False
+captain america costume;;Marvel;;True
+captain britain costume;;Marvel;;False
+colossus costume;;Marvel;;False
+conan the barbarian costume;;Marvel;;False
+daredevil costume;;Marvel;;False
+deadman costume;;DC Comics;;False
+deadpool costume;;Marvel;;False
+deadshot costume;;DC Comics;;False
+doctor fate costume;;DC Comics;;False
+doctor octopus costume;;Marvel;;False
+doctor strange costume;;Marvel;;False
+donatello costume;;IDW Publishing;;False
+electro costume;;Marvel;;False
+galactus costume;;Marvel;;False
+gorilla grodd costume;;DC Comics;;False
+green arrow costume;;DC Comics;;False
+green lantern costume;;DC Comics;;False
+groot costume;;Marvel;;False
+harvey dent costume;;DC Comics;;False
+havok costume;;Marvel;;False
+hawkeye costume;;Marvel;;False
+hellboy costume;;Dark Horse Comics;;False
+hulk costume;;Marvel;;True
+human torch costume;;Marvel;;False
+iceman costume;;Marvel;;False
+iron man costume;;Marvel;;True
+j jonah jameson costume;;Marvel;;False
+johnny blaze costume;;Marvel;;False
+juggernaut costume;;Marvel;;False
+kamala khan costume;;Marvel;;False
+kang the conqueror costume;;Marvel;;False
+killer croc costume;;DC Comics;;False
+kilowog costume;;DC Comics;;False
+kingpin costume;;Marvel;;False
+luke cage costume;;Marvel;;False
+mad hatter costume;;DC Comics;;False
+magneto costume;;Marvel;;False
+malekith costume;;Marvel;;False
+martian manhunter costume;;DC Comics;;False
+mephisto costume;;Marvel;;False
+mister fantastic costume;;Marvel;;False
+nick fury costume;;Marvel;;False
+nightcrawler costume;;Marvel;;False
+nightwing costume;;DC Comics;;False
+poison ivy costume;;DC Comics;;False
+professor x costume;;Marvel;;False
+punisher costume;;Marvel;;True
+raven costume;;DC Comics;;False
+riddler costume;;DC Comics;;False
+rocket raccoon costume;;Marvel;;False
+roy harper costume;;DC Comics;;False
+sabretooth costume;;Marvel;;False
+sandman costume;;Marvel;;False
+scarecrow costume;;DC Comics;;False
+shatterstar costume;;Marvel;;False
+silver surfer costume;;Marvel;;False
+sinestro costume;;DC Comics;;False
+spider-man costume;;Marvel;;True
+the crimson dynamo costume;;Marvel;;False
+the falcon costume;;Marvel;;False
+the flash costume;;DC Comics;;True
+the joker costume;;DC Comics;;True
+the kingpin costume;;Marvel;;False
+the mandarin costume;;Marvel;;False
+the phantom costume;;King Features Syndicate;;False
+the riddler costume;;DC Comics;;False
+the rocketeer costume;;Dave Stevens;;False
+the thing costume;;Marvel;;False
+the vision costume;;Marvel;;False
+thor costume;;Marvel;;True
+two-face costume;;DC Comics;;False
+ultron costume;;Marvel;;False
+vulture costume;;Marvel;;False
+wolverine costume;;Marvel;;True

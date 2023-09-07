@@ -1,0 +1,58 @@
+a-line skirt with a silk blouse;;;;False
+fit-and-flare dress;;;;False
+skinny jeans and a fitted blazer;;;;False
+high-waisted trousers with a tucked-in blouse;;;;False
+bodycon midi dress;;;;False
+pencil skirt and a peplum top;;;;False
+culottes and a crop top;;;;False
+wrap dress;;;;False
+jumpsuit with a statement belt;;;;False
+romper with a tailored jacket;;;;False
+wide-leg pants and an off-the-shoulder top;;;;False
+palazzo pants with a fitted top;;;;False
+skater dress;;;;False
+maxi dress with a slit;;;;False
+mini skirt and a lace top;;;;False
+sheath dress;;;;False
+boyfriend jeans and a stylish blouse;;;;False
+tulle skirt and a fitted sweater;;;;False
+denim skirt and a chiffon blouse;;;;False
+midi skirt and a turtleneck sweater;;;;False
+high-waisted shorts and a button-down shirt;;;;False
+capri pants and a boat-neck top;;;;False
+ankle-length trousers and a camisole;;;;False
+sweater dress;;;;False
+tunic dress with leggings;;;;False
+shirt dress;;;;False
+halter top and a midi skirt;;;;False
+leather pants and a sleek blouse;;;;False
+suede mini skirt and a turtleneck top;;;;False
+a-line dress;;;;False
+pencil skirt and blouse;;;;False
+jumpsuit with a waist-cinching belt;;;;False
+wide-leg pants and a tucked-in camisole;;;;False
+bodycon dress;;;;False
+high-waisted jeans and a crop top;;;;False
+midi wrap dress;;;;False
+pleated skirt with a fitted sweater;;;;False
+off-the-shoulder dress;;;;False
+culottes and a button-down shirt;;;;False
+tulle skirt with a fitted top;;;;False
+palazzo pants and a halter top;;;;False
+romper with statement sleeves;;;;False
+mini dress with sheer panels;;;;False
+paperbag waist pants and a sleeveless top;;;;False
+fit and flare dress;;;;False
+flared jeans with a tucked-in blouse;;;;False
+asymmetrical hem dress;;;;False
+high-waisted trousers with a one-shoulder top;;;;False
+denim skirt and a lace-trimmed top;;;;False
+satin slip dress;;;;False
+tapered pants with a cold-shoulder blouse;;;;False
+two-piece coordinated set;;;;False
+ruffled skirt with a simple tank top;;;;False
+smocked dress;;;;False
+high-waisted shorts with a peplum top;;;;False
+suede mini skirt and a turtleneck sweater;;;;False
+high-low dress;;;;False
+capri pants with a cropped blazer;;;;False

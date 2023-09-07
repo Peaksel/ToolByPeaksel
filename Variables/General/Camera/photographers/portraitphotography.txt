@@ -1,0 +1,5 @@
+portrait photography by Annie Leibovitz;;;;False
+portrait photography by Richard Avedon;;;;False
+portrait photography by Yousuf Karsh;;;;False
+portrait photography by Steve McCurry;;;;False
+portrait photography by Diane Arbus;;;;False

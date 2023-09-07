@@ -1,0 +1,6 @@
+1girl;;;;False
+a woman;;;;False
+a succubus;;;;False
+a ghost;;;;False
+superhero;;;;False
+female celebrity;;;;False

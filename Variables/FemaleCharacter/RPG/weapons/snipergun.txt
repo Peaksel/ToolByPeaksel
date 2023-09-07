@@ -1,0 +1,15 @@
+Holding a ai arctic warfare;;;;False
+Holding a blaser r93 sniper rifle;;;;False
+Holding a cheytac m200 sniper rifle;;;;False
+Holding a dragunov svd sniper rifle;;;;False
+Holding a h&k psg1 sniper rifle;;;;False
+Holding a m-21 sniper rifle;;;;False
+Holding a m110 sass sniper rifle;;;;False
+Holding a psl romak sniper rifle;;;;False
+Holding a remington model 700 sniper rifle;;;;False
+Holding a remington msr sniper rifle;;;;False
+Holding a sv-98 sniper rifle;;;;False
+Holding a vss vintorez sniper rifle;;;;False
+Holding a vychlop vks/vssk sniper rifle;;;;False
+Holding a walther wa 2000 sniper rifle;;;;False
+Holding a xm2010 enhanced sniper rifle (esr);;;;False

@@ -1,0 +1,82 @@
+ant-man;;Marvel;;False
+aquaman;;DC Comics;;False
+astro boy;;Tezuka Productions;;False
+batman;;DC Comics;;False
+black panther;;Marvel;;False
+blade;;Marvel;;False
+bucky barnes;;Marvel;;False
+cain marko;;Marvel;;False
+captain america;;Marvel;;True
+captain britain;;Marvel;;False
+colossus;;Marvel;;False
+conan the barbarian;;Marvel;;False
+daredevil;;Marvel;;False
+deadman;;DC Comics;;False
+deadpool;;Marvel;;False
+deadshot;;DC Comics;;False
+doctor fate;;DC Comics;;False
+doctor octopus;;Marvel;;False
+doctor strange;;Marvel;;False
+donatello;;IDW Publishing;;False
+electro;;Marvel;;False
+galactus;;Marvel;;False
+gorilla grodd;;DC Comics;;False
+green arrow;;DC Comics;;False
+green lantern;;DC Comics;;False
+groot;;Marvel;;False
+harvey dent;;DC Comics;;False
+havok;;Marvel;;False
+hawkeye;;Marvel;;False
+hellboy;;Dark Horse Comics;;False
+hulk;;Marvel;;True
+human torch;;Marvel;;False
+iceman;;Marvel;;False
+iron man;;Marvel;;True
+j jonah jameson;;Marvel;;False
+johnny blaze;;Marvel;;False
+juggernaut;;Marvel;;False
+kamala khan;;Marvel;;False
+kang the conqueror;;Marvel;;False
+killer croc;;DC Comics;;False
+kilowog;;DC Comics;;False
+kingpin;;Marvel;;False
+luke cage;;Marvel;;False
+mad hatter;;DC Comics;;False
+magneto;;Marvel;;False
+malekith;;Marvel;;False
+martian manhunter;;DC Comics;;False
+mephisto;;Marvel;;False
+mister fantastic;;Marvel;;False
+nick fury;;Marvel;;False
+nightcrawler;;Marvel;;False
+nightwing;;DC Comics;;False
+poison ivy;;DC Comics;;False
+professor x;;Marvel;;False
+punisher;;Marvel;;True
+raven;;DC Comics;;False
+riddler;;DC Comics;;False
+rocket raccoon;;Marvel;;False
+roy harper;;DC Comics;;False
+sabretooth;;Marvel;;False
+sandman;;Marvel;;False
+scarecrow;;DC Comics;;False
+shatterstar;;Marvel;;False
+silver surfer;;Marvel;;False
+sinestro;;DC Comics;;False
+spider-man;;Marvel;;True
+the crimson dynamo;;Marvel;;False
+the falcon;;Marvel;;False
+the flash;;DC Comics;;True
+the joker;;DC Comics;;True
+the kingpin;;Marvel;;False
+the mandarin;;Marvel;;False
+the phantom;;King Features Syndicate;;False
+the riddler;;DC Comics;;False
+the rocketeer;;Dave Stevens;;False
+the thing;;Marvel;;False
+the vision;;Marvel;;False
+thor;;Marvel;;True
+two-face;;DC Comics;;False
+ultron;;Marvel;;False
+vulture;;Marvel;;False
+wolverine;;Marvel;;True

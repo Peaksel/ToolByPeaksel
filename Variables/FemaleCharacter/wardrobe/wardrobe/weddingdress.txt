@@ -1,0 +1,40 @@
+ball gown wedding dress;;;;False
+a-line wedding dress;;;;False
+mermaid wedding dress;;;;False
+sheath wedding dress;;;;False
+fit and flare wedding dress;;;;False
+trumpet wedding dress;;;;False
+tea-length wedding dress;;;;False
+empire waist wedding dress;;;;False
+princess wedding dress;;;;False
+bohemian wedding dress;;;;False
+lace wedding dress;;;;False
+off-the-shoulder wedding dress;;;;False
+strapless wedding dress;;;;False
+v-neck wedding dress;;;;False
+halter neck wedding dress;;;;False
+illusion neckline wedding dress;;;;False
+sleeveless wedding dress;;;;False
+cap sleeve wedding dress;;;;False
+flutter sleeve wedding dress;;;;False
+three-quarter sleeve wedding dress;;;;False
+long sleeve wedding dress;;;;False
+backless wedding dress;;;;False
+high-low wedding dress;;;;False
+vintage wedding dress;;;;False
+destination wedding dress;;;;False
+simple wedding dress;;;;False
+ruffled wedding dress;;;;False
+tulle wedding dress;;;;False
+satin wedding dress;;;;False
+silk wedding dress;;;;False
+beaded wedding dress;;;;False
+embroidered wedding dress;;;;False
+two-piece wedding dress;;;;False
+colorful wedding dress;;;;False
+boho wedding dress;;;;False
+short wedding dress;;;;False
+sweetheart neckline wedding dress;;;;False
+one-shoulder wedding dress;;;;False
+open back wedding dress;;;;False
+cape wedding dress;;;;False

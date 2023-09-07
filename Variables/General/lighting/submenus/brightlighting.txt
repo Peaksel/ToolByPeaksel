@@ -1,0 +1,23 @@
+overcast lighting;;;;True
+soft diffuse lighting;;;;True
+soft fill lighting;;;;True
+brilliant lighting;;;;False
+dazzling lighting;;;;False
+gleaming light;;;;False
+glowing light;;;;False
+luminous lighting;;;;False
+radiant lighting;;;;False
+vivid lighting;;;;False
+sunny lighting;;;;False
+neon lighting;;;;False
+golden lighting;;;;False
+dazzling lighting;;;;False
+glimmering light;;;;False
+intense lighting;;;;False
+gleaming light;;;;False
+vibrant lighting;;;;False
+prismatic lighting;;;;False
+fiery lighting;;;;False
+sparkling light;;;;False
+shimmering light;;;;False
+iridescent lighting;;;;False

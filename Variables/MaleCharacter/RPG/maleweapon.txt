@@ -1,0 +1,8 @@
+assault rifle;;;;False
+explosives;;;;False
+hand gun;;;;False
+laser gun;;;;False
+machine gun;;;;False
+melee weapon;;;;False
+shotgun;;;;False
+submachine gun;;;;False

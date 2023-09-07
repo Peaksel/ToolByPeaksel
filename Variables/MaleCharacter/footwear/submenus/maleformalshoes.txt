@@ -1,0 +1,41 @@
+apron toe shoes;;;;False
+bit loafers;;;;False
+brogue shoes;;;;False
+cap-toe shoes;;;;False
+chelsea boots;;;;False
+chukka boots;;;;False
+derby shoes;;;;False
+double monk strap shoes;;;;False
+dress boots;;;;False
+dress moccasins;;;;False
+dress sandals;;;;False
+dress slippers;;;;False
+formal driving shoes;;;;False
+formal loafers;;;;False
+horsebit loafers;;;;False
+kiltie loafers;;;;False
+loafers;;;;False
+monk strap boots;;;;False
+monk strap shoes;;;;False
+opera loafers;;;;False
+oxford shoes;;;;False
+patent leather shoes;;;;False
+penny loafers;;;;False
+perforated dress shoes;;;;False
+plain derby shoes;;;;False
+plain-toe shoes;;;;False
+saddle shoes;;;;False
+slip-on dress boots;;;;False
+slip-on dress shoes;;;;False
+spectator shoes;;;;False
+split-toe shoes;;;;False
+suede dress shoes;;;;False
+suede monk strap shoes;;;;False
+tassel loafers;;;;False
+tuxedo shoes;;;;False
+velvet slippers;;;;False
+venetian loafers;;;;False
+wholecut shoes;;;;False
+wingtip boots;;;;False
+wingtip shoes;;;;False
+woven leather dress shoes;;;;False

@@ -1,0 +1,16 @@
+a textile doll;;;;False
+amigurumi;;;;False
+crocheted technique, made of textile;;;;False
+cross stitch;;;;False
+embroidery art;;;;False
+knitted art;;;;False
+made of beads;;;;False
+made of felt;;;;False
+made of lace;;;;False
+made of textile;;;;False
+muppet technique, made of textile;;;;False
+needlepoint technique, made of textile;;;;False
+patchwork art;;;;False
+quilted art;;;;False
+sock puppet;;;;False
+stuffed toy;;;;False

@@ -1,0 +1,8 @@
+photojournalism photography by Alfred Eisenstaedt, Alfred Stieglitz, Henri Cartier-Bresson;;;;True
+photojournalism photography by W. Eugene Smith, Walker Evans, Yousuf Karsh;;;;True
+photojournalism photography by Alfred Eisenstaedt;;;;False
+photojournalism photography by Alfred Stieglitz;;;;False
+photojournalism photography by Henri Cartier-Bresson;;;;False
+photojournalism photography by W. Eugene Smith;;;;False
+photojournalism photography by Walker Evans;;;;False
+photojournalism photography by Yousuf Karsh;;;;False

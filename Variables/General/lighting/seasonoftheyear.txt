@@ -1,0 +1,10 @@
+winter;;;;False
+summer;;;;False
+spring;;;;False
+autumn;;;;False
+spring, sunny weather;;;;False
+summer, sunny weather;;;;False
+autumn, thunderstorm, raining;;;;False
+autumn, raining;;;;False
+winter, snowing;;;;False
+winter, foggy weather;;;;False

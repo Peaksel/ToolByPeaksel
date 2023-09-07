@@ -1,0 +1,4 @@
+fused glass art;;;;False
+made of glass;;;;False
+millefiori glass technique, made of glass;;;;False
+stained glass art;;mosaic-stained glass art, stained-glass illustration, super fine illustration, intricate, fractal art, zentangle, hyper maximalism;;True

@@ -1,0 +1,33 @@
+abstract expressionism, by Jackson Pollock, Willem de Kooning, Mark Rothko, Joan Mitchell;;;;False
+anime, by Yoshitaka Amano, Katsuhiro Otomo, Makoto Shinkai, Daisuke Manno;;;;False
+comic book, by Jorge Jimenez, Edwin Huang, Simon Bisley, James Jean;;;;False
+constructivism, by El Lissitzky, Aleksandr Rodchenko, Varvara Stepanova;;;;False
+contemporary, by Ai Weiwei, Yayoi Kusama, Banksy, Kara Walker;;;;False
+cubism, by Pablo Picasso, Georges Braque, Juan Gris, Robert Delaunay;;;;False
+dadaism, by Marcel Duchamp, Francis Picabia, Hans Arp, Max Ernst;;;;False
+digital, by Ilya Kuvshinov, Ross Tran, Pixiv, Studio Ghibli;;;;True
+expressionism, by Edvard Munch, Egon Schiele, Wassily Kandinsky, Emil Nolde;;;;False
+futurism, by Umberto Boccioni, Giacomo Balla, Gino Severini, Carlo Carra;;;;False
+graffiti art, by Banksy, Jean-Michel Basquiat, Keith Haring, Shepard Fairey;;;;False
+illustrative, by Alex Ross, Tom Bagshaw, Stephan Martiniere, Gaston, Bussiere;;;;False
+impressionism, by Claude Monet, Edgar Degas, Pierre-Auguste Renoir, Camille Pissarro;;;;False
+kinetic art, by Alexander Calder, Jesus Rafael Soto, Bridget Riley;;;;False
+land art, by Robert Smithson, Andy Goldsworthy, Nancy Holt;;;;False
+minimalism;;;;True
+neo-expressionism, by Anselm Kiefer, Julian Schnabel, Georg Baselitz, Jorg Immendorff;;;;False
+op art, by Victor Vasarely, Bridget Riley, Jesus Rafael Soto, Yaacov Agam;;;;False
+performance art, by Marina Abramovic, Joseph Beuys, Yoko Ono, Chris Burden;;;;False
+photomontage, by Hannah Höch, John Heartfield, Raoul Hausmann;;;;False
+pointillism, by Georges Seurat, Paul Signac, Vincent van Gogh, Henri-Edmond Cross;;;;False
+pop art, by Mel Ramos, Bayard Wu, Winsor McCay, Alphonse Mucha;;;;False
+realism, by Gustave Courbet, Jean-Francois Millet, Honore Daumier, Thomas Eakins;;;;False
+realistic, by J Scott Campbell, Jim Lee, Dustin Nguyen, Tyler Kirkham;;;;True
+realistic, by Midjourney and Greg Rutkowski;;;;True
+renaissance, by Leonardo da Vinci, Michelangelo Buonarroti, Raphael, Titian;;;;False
+romanticism, by James Jean, by Roby Dwi Antono, by Ross Tran, by Francis Bacon, by Michal Mraz, by Adrian Ghenie, by Petra Cortright, by Gerhard Richter, by Takato Yamamoto, by Ashley Wood;;;;False
+street art, by Invader, Os Gemeos, Swoon;;;;False
+surrealism;;;;False
+surrealistic, by H.R. Giger, Moebius, Ralph McGuire;;;;False
+symbolism, by Odilon Redon, Gustav Klimt, Pierre Puvis de Chavannes, Edward Burne-Jones;;;;False
+video art, by Nam June Paik, Bill Viola, Pipilotti Rist;;;;False
+(photorealistic:1.5),(by Frank Frazetta, by Simon Bisley, by Luis Royo, by H.R. Giger, by Ashley Wood, by Bill Sienkiewicz, by Ryan Meinerding, by Ian McQue, by Syd Mead, by Frank Frazetta, by Joseph Michael Linsner);;;(cartoon, 3d, anime style);False

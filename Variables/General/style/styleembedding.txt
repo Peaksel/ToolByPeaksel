@@ -1,0 +1,3 @@
+add your own value in styleembedding.txt;;;;False
+embedding 2;;;;False
+embedding 3;;;;False

@@ -1,0 +1,12 @@
+masterpiece, best quality, detailed;;;;True
+masterpiece, best quality, absurdres, detailed, ultra-detailed;;;;True
+gorgeous, beautiful, enchanting;;;;True
+sexy, hot, attractive;;;;True
+seductive, alluring, charming;;;;True
+majestic, stunning, exquisite;;;;True
+magical, magnificent, masterpiece;;;;True
+acclaimed, alluring, captivating, exciting, gorgeous, striking;;;;false
+award winning image, cinematic, groundbreaking, visionary;;;;false
+cognitive, dramatic, enchanting, imaginary, methodological;;;;false
+disgusting, horrifying, masterful, mysterious;;;;false
+excessive, highly rated;;;;false

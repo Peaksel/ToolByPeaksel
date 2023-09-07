@@ -1,0 +1,4 @@
+edit lorafemale.txt;;;;False
+vanessa, <lora:VanessaDogu1:0.88>;;;;False
+natalee, <lora:NataLeeXL:1>;;;;False
+marylin monroe woman, <lora:Marilyn Monroe v1a_fro0.9:1.0>;;;;False

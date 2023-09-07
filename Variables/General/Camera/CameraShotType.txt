@@ -1,0 +1,24 @@
+aerial view;;;;False
+birds-eye view;;;;False
+close-up shot;;;;False
+cowboy shot;;;;False
+dolly zoom;;;;False
+extreme close-up;;;;False
+extreme long shot;;;;False
+full shot;;;;False
+long shot;;;;False
+low angle shot;;;;False
+high angle shot;;;;False
+medium close-up shot;;;;False
+medium long shot;;;;False
+medium shot;;;;False
+medium wide shot;;;;False
+over-the-shoulder shot;;;;False
+point-of-view shot;;POV shot;;False
+two-shot;;;;False
+fisheye-shot;;;;False
+HDRI;;;;False
+worm's eye shot;;;;False
+macro shot;;;;False
+tilt-shift shot;;;;False
+telephoto shot;;;;False

@@ -1,0 +1,52 @@
+abstract expressionism painting (medium);;gestural brushwork, dynamic artwork;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+acrylic painting (medium);;layered composition, vibrant hues, bold opacity, textured expressive artwork;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+abstract expressionism painting (medium);;;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+acrylic painting (medium);;layered composition, vibrant hues, bold opacity, textured expressive artwork;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+airbrush painting (medium);;sprayed paint, smooth gradients, delicate details, photorealistic, sleek polished distinct airbrush finish;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+alebrije art (medium);;intricate patterns, vivid colors, Mexican folk art;painting (object), sculpture;True
+batik painting (medium);;wax-resist dyeing technique on fabric,  intricate patterns and designs, vibrant and detailed artwork, crackled texture, visual depth;painting (object), fabric art, textile art, art equipment, canvas (object), painting frame (object);False
+baroque painting (medium);;dramatic contrasts between light and shadow, dynamic composition, rich, ornate details, emotional intensity;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+charcoal painting (medium);;;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+coffee painting (medium);;brush strokes, painted with coffee;(painting (object), coffee (object), coffee cup (object), art equipment, canvas (object), painting frame (object):1.5);False
+collage painting (medium);;assembling technique, textured and layered painting made of diverse materials like fabric and paper;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+conceptual art painting (medium);;abstract, symbolism;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+cubism painting (medium);;fragmenting subjects into geometric forms, depicting multiple viewpoints simultaneously;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+dadaism painting (medium);;;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+digital painting (medium);;digital art, created in Photoshop;;True
+encaustic painting (medium);;hot wax layers fused together, textured and vibrant artwork;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+environmental art painting (medium);;Artstation;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+expressionism painting (medium);;bold colors, distorted forms, energetic brushwork, raw emotion;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+fauvism painting (medium);;bold, non-naturalistic colors, vibrant brushwork;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+fresco painting (medium);;matte finish, painted on the wall;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+glass painting (medium);;made with specialized paints or enamels on glass surface, translucent and vibrant artwork,  intricate, illuminated, decorative art, glass art;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+gold leaf painting (medium);;made with  sheets of gold leaf, luminous and reflective artwork, shiny metallic surface, depth, layering technique, intricate composition, mixed media art, decorative art;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+gouache painting (medium);;opaque watercolors, vibrant and matte artwork, rich colors, fine details;(painting (object), art equipment, canvas (object), painting frame (object):1.5);True
+graffiti art painting (medium);;painted by spray paint amd markers, expressive, urban, vibrant artwork, urban art, street art;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+impressionism painting (medium);;loose brushwork, vibrant colors, play of light, evocative artwork;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+installation art painting (medium);;mixed media art, immersive art;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+ink wash painting (medium);;painted by diluted ink on paper, elegant and flowing artwork, subtle gradations of color and tone, delicate brushwork, balance of light and shadow;((painting (object), art equipment, canvas (object), painting frame (object):1.5), paper (object):1.5);True
+kinetic art painting (medium);;motion, movement, dynamic composition;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+marker painting (medium);;bold and vibrant artwork,  defined lines, flat colors, visually striking composition, precise lines, freehand art;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+maximalism painting (medium);;rich colors, intricate patterns, visually dense artwork, high details, intricate details, many details, maximalism style;(painting (object), art equipment, canvas (object), painting frame (object):1.5);True
+minimalism painting (medium);;monochromatic palette, essential composition elements only, simple composition;(painting (object), art equipment, canvas (object), painting frame (object):1.5);True
+mosaic painting (medium);;made of colored pieces of glass, stone, or other materials, made of mosaic, vibrant and durable artwork, mosaic technique, texture, depth, decorative art;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+neoclassical painting (medium);;classical aesthetics, balanced composition, clarity, timeless beauty, harmony, inspired by ancient Greece or Rome;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+neo-fauvism painting (medium);;vibrant, bold, intense colors, energetic brushwork,abstracted forms;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+oil painting (medium);;painted with oil colors, rich and luminous artwork, depth, texture, play of light and shadow;(painting (object), art equipment, canvas (object), painting frame (object):1.5);True
+pastel painting (medium);;bold strokes, painted by soft pastel sticks, vibrant, textured artwork, expressive and velvety composition;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+performance art painting (medium);;multimedia art, live art;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+photorealism painting (medium);;intricate brushwork, photographic detail, hyper-realistic artwork, photorealistic, high details;(painting (object), art equipment, canvas (object), painting frame (object):1.5);True
+pencil painting (medium);;intricate details, precise rendering, subtle and finely textured drawing, shading technique;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+pop art painting (medium);;bold colors, iconic imagery, sense of irony;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+post-impressionism painting (medium);;vivid colors, bold brushwork, emotional expression, textured composition;(painting (object), art equipment, canvas (object), painting frame (object):1.5);True
+realism painting (medium);;realistic, precise rendering, natural lighting, high details, accurate details;(painting (object), art equipment, canvas (object), painting frame (object):1.5);True
+renaissance painting (medium);;high details, realistic proportions, linear perspective, depth, balanced;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+rococo painting (medium);;delicate pastel colors, intricate details, asymmetrical composition, ornate and playful aesthetics, whimsy, elegance;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+sand painting (medium);;visual art, tactile art, colored sand grains on a surface technique, intricate details;painting (object), beach, sand (object), art equipment, canvas (object), painting frame (object);False
+smudge painting (medium);;play of light and shadow, gentle and evocative visual style, blending and smudging digital brushstrokes technique;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+spray painting (medium);;bold color transitions, gradients, textural effects, urban art, graffiti;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+street art painting (medium);;public space, urban environment, graffiti, stenciling, murals, vibrant, dynamic artwork;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+surrealism painting (medium);;dreamlike, fantastical, symbolism, ambiguity;painting (object), reality, art equipment, canvas (object), painting frame (object);False
+tempera painting (medium);;flat matte finish, fine lines, meticulous details;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False
+watercolor painting (medium);;transparent water-based pigments, delicate, luminous artwork, subtle gradients, flowing washes, on paper texture;(painting (object), art equipment, canvas (object), painting frame (object):1.5);True
+light watercolor painting (medium);;bright, white background, few details, dreamy, Studio Ghibli;(painting (object), art equipment, canvas (object), painting frame (object):1.5);False

@@ -1,0 +1,20 @@
+chevron mustache;;;;False
+handlebar mustache;;;;False
+pencil mustache;;;;False
+walrus mustache;;;;False
+dali mustache;;;;False
+horseshoe mustache;;;;False
+english mustache;;;;False
+fu manchu mustache;;;;False
+toothbrush mustache;;;;False
+lampshade mustache;;;;False
+painter's brush mustache;;;;False
+imperial mustache;;;;False
+hungarian mustache;;;;False
+boxcar mustache;;;;False
+pyramidal mustache;;;;False
+selleck mustache;;;;False
+zappa mustache;;;;False
+anchor mustache;;;;False
+undercover brother mustache;;;;False
+connoisseur mustache;;;;False

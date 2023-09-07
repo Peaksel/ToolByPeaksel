@@ -1,0 +1,15 @@
+straight nose;;;;False
+roman nose;;;;False
+greek nose;;;;False
+nubian nose;;;;False
+snub nose;;;;False
+hawk nose;;;;False
+bulbous nose;;;;False
+button nose;;;;False
+fleshy nose;;;;False
+aquiline nose;;;;False
+turned-up nose;;;;False
+flat nose;;;;False
+wide nose;;;;False
+narrow nose;;;;False
+crooked nose;;;;False

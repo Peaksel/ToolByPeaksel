@@ -1,0 +1,2 @@
+easynegative, bad_pictures;;;;False
+easynegative, bad_pictures, bad-hands-5, badv4;;;;False

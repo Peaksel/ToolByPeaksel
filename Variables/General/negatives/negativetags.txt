@@ -1,0 +1,4 @@
+general;;;;False
+general+B&W;;;;False
+general+character;;;;False
+general+character+B&W;;;;False

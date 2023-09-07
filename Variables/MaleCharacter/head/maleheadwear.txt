@@ -1,0 +1,61 @@
+baseball cap;;;;False
+beanie;;;;False
+beanie hat;;;;False
+beret;;;;False
+bobble hat;;;;False
+boonie hat;;;;False
+bowler hat;;;;False
+bucket hat;;;;False
+breezer hat;;;;False
+bucket hat;;;;False
+cadet cap;;;;False
+camper hat;;;;False
+caps;;;;False
+cloche hat;;;;False
+cowboy hat;;;;False
+embellished turban;;;;False
+embroidered skullcap;;;;False
+embroidered snapback cap;;;;False
+faux fur aviator hat;;;;False
+faux fur trapper hat;;;;False
+fedora;;;;False
+fedora hat;;;;False
+fisherman hat;;;;False
+flat cap;;;;False
+flat cap;;;;False
+golf cap;;;;False
+golf hat;;;;False
+mesh-back hat;;;;False
+military-style cap;;;;False
+newsboy cap;;;;False
+outdoor hat;;;;False
+panama hat;;;;False
+panel cap;;;;False
+pilot hat;;;;False
+polo cap;;;;False
+pom-pom hat;;;;False
+pork pie hat;;;;False
+rasta tam hat;;;;False
+retro trucker hat;;;;False
+safari hat;;;;False
+scally cap;;;;False
+ski hat;;;;False
+snapback;;;;False
+snapback hat;;;;False
+straw fedora;;;;False
+straw fedora;;;;False
+straw hat;;;;False
+straw hat;;;;False
+straw hat;;;;False
+sun hat;;;;False
+sun hat;;;;False
+sun visor cap;;;;False
+tam;;;;False
+trucker hat;;;;False
+trucker hat;;;;False
+turban;;;;False
+visor;;;;False
+wide-brimmed hat;;;;False
+wool fedora;;;;False
+wool trapper hat;;;;False
+wool visor beanie;;;;False

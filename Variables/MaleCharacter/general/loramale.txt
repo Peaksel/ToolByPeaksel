@@ -1,0 +1,2 @@
+vanessa, <lora:VanessaDogu1:0.88>;;;;False
+gigachad, <lora:Gigachadv1:0.9>;;;;False

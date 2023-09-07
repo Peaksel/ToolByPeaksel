@@ -1,0 +1,22 @@
+auburn hair;;;;False
+black hair;;;;False
+blonde hair;;;;False
+brown hair;;;;False
+chestnut hair;;;;False
+copper hair;;;;False
+dark blonde hair;;;;False
+dark brown hair;;;;False
+dark red hair;;;;False
+gray hair;;;;False
+light blonde hair;;;;False
+light brown hair;;;;False
+medium blonde hair;;;;False
+medium brown hair;;;;False
+multicoloured hair;;;;False
+natural blonde hair;;;;False
+platinum blonde hair;;;;False
+silver hair;;;;False
+two-tone hair;;;;False
+white hair;;;;False
+yellow hair;;;;False
+ginger hair;;;;False

@@ -1,0 +1,32 @@
+Holding a beretta m12;;;;True
+Holding a brugger & thomet mp9;;;;False
+Holding a calico smg;;;;False
+Holding a cbj-ms;;;;False
+Holding a colt 9mm smg;;;;True
+Holding a jatimatic submachine gun;;;;False
+Holding a h&k mp5;;;;False
+Holding a h&k mp7;;;;False
+Holding a h&k ump;;;;False
+Holding a imi uzi;;;;True
+Holding a kpist m/45 submachine gun;;;;False
+Holding a lanchester smg;;;;False
+Holding a m3 submachine gun;;;;True
+Holding a m50 reising;;;;False
+Holding a mac-10/11;;;;False
+Holding a mac-10/11;;;;False
+Holding a magpul fmg-9 submachine gun;;;;False
+Holding a magpul pdr submachine gun;;;;False
+Holding a mat-49 submachine gun;;;;False
+Holding a mp3008 submachine gun;;;;False
+Holding a mp40 submachine gun;;;;False
+Holding a mp41 submachine gun;;;;False
+Holding a p90 submachine gun;;;;False
+Holding a pp-19 bizon submachine gun;;;;False
+Holding a pp-2000 submachine gun;;;;False
+Holding a ppsh-41 submachine gun;;;;False
+Holding a skorpion vz. 61 submachine gun;;;;True
+Holding a sterling smg submachine gun;;;;False
+Holding a steyr tmp submachine gun;;;;False
+Holding a sten gun;;;;False
+Holding a suomi kp/-31;;;;False
+Holding a thompson submachine gun;;;;True

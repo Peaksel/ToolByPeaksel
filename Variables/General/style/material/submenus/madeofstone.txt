@@ -1,0 +1,9 @@
+bas-relief art;;;;False
+made of agate;;;;False
+made of lapidary;;;;False
+made of marble;;;;False
+made of stone;;;;False
+made of ivory;;;;False
+marble sculpture;;;;False
+pebble art;;;;False
+relief art technique, made of stone;;;;False

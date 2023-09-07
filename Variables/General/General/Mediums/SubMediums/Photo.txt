@@ -1,0 +1,13 @@
+ambrotype photo;;photorealistic;render, sketch, painting, digital art, drawing, vector;False
+calotype photo;;photorealistic;render, sketch, painting, digital art, drawing, vector;False
+daguerrotype photo;;photorealistic;render, sketch, painting, digital art, drawing, vector;False
+photo shot by drone;;photorealistic;render, sketch, painting, digital art, drawing, vector, drone (object);False
+instant photo;;soft focus;;False
+coarse grain photo;;;;False
+magazine cover;;;;False
+polaroid photo;;photorealistic, fuji color film, 1999;render, sketch, painting, digital art, drawing, vector;False
+product studio shot;;centered, on simple white background, diffused lighting;;False
+selfie;;photorealistic;render, sketch, painting, digital art, drawing, vector;False
+tintype photo;;photorealistic;render, sketch, painting, digital art, drawing, vector;False
+photo RAW;;;;False
+modernist architecture photography;;designed by Ando Tadao,organic, style of archillect, futurism,  style of artstation and behance;;False

@@ -1,0 +1,2 @@
+pauldrons;;;;False
+shoulder pads;;;;False

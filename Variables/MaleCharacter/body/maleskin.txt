@@ -1,0 +1,11 @@
+tattoos;;;;True
+birthmarks;;;;False
+scars;;;;False
+beauty mark;;;;False
+age spots, wrinkles;;;;False
+moles on skin;;;;False
+hyperpigmentation skin;;;;False
+freckles, detailed skin;;;;True
+skin pores;;;;True
+oily skin;;;;False
+smooth, clear skin;;;;True

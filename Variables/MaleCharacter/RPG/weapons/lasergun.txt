@@ -1,0 +1,6 @@
+Holding a beam rifle;;;;False
+Holding a graviton beam emitter;;;;False
+Holding a laser rifle;;;;False
+Holding a mikuru beam;;;;False
+Holding a plasma rifle;;;;False
+Holding a ray gun;;;;False

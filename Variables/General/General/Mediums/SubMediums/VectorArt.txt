@@ -1,0 +1,27 @@
+anime art illustration;;;;False
+book cover illustration;;;;False
+caricature illustration;;portraiture;;False
+cartoon illustration;;simplified forms, vibrant colors, 2d cartoon style;;False
+commercial art illustration;;;;False
+comic style illustration;;;;False
+concept art;;;;True
+coloring book page of;;clean, black and white, line art, vector art, thin lines, on white background;3d, photo, shading, colored;True
+detailed illustration;;;;True
+editorial illustration;;new york times illustration;;False
+fantasy art illustration;;;;False
+fashion illustration;;Vogue, Gratzia, Cosmopolitan;;False
+fine art illustration;;;;False
+graphic novel illustration;;;;False
+line art;;intricate line drawings;;False
+mascot art;;;;False
+realistic illustration;;;;True
+reference sheet;;;;True
+retro poster;;;;False
+simple illustration;;;;True
+sticker;;die-cut sticker, vector art, minimalism, on white background, flatten illustration;;True
+tarot card;;tarot art style;;True
+technical illustration;;highly detailed schematic, orthographic view, blueprint paper, white lines;;False
+T-shirt vector illustration;;;;False
+ultra-detailed illustration;;;;True
+vector art;;;;True
+visual novel;;;;False

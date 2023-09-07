@@ -1,0 +1,29 @@
+anchor chain necklace;;;;False
+arrowhead necklace;;;;False
+beaded necklace;;;;False
+box chain necklace;;;;False
+chain necklace;;;;False
+choker necklace;;;;False
+coin necklace;;;;False
+cuban link chain necklace;;;;False
+curb chain necklace;;;;False
+dog tag necklace;;;;False
+feather pendant necklace;;;;False
+figaro chain necklace;;;;False
+franco chain necklace;;;;False
+gemstone necklace;;;;False
+herringbone chain necklace;;;;False
+horn necklace;;;;False
+id tag necklace;;;;False
+lariat necklace;;;;False
+leather cord necklace;;;;False
+medallion necklace;;;;False
+pendant necklace;;;;False
+rolo chain necklace;;;;False
+rope necklace;;;;False
+snake chain necklace;;;;False
+surfer necklace;;;;False
+tribal necklace;;;;False
+wheat chain necklace;;;;False
+yin yang necklace;;;;False
+shark tooth necklace;;;;False

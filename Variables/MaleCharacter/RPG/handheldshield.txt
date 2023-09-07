@@ -1,0 +1,4 @@
+ballistic shield (tactical shield);;;;False
+beam shield;;;;False
+buckler;;;;False
+riot shield;;;;False

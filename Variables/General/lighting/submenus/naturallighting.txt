@@ -1,0 +1,10 @@
+at Golden hour;;;;False
+at Blue hour;;;;False
+at Sunrise;;;;False
+at Sunset;;;;False
+at Twilight;;;;False
+at Midday;;;;False
+at Overcast;;;;False
+at Nighttime;;;;False
+at Dusk;;;;False
+at Dawn;;;;False

@@ -1,0 +1,4 @@
+holding a ballistic shield (tactical shield);;;;False
+holding a beam shield;;;;False
+holding a buckler;;;;False
+holding a riot shield;;;;False

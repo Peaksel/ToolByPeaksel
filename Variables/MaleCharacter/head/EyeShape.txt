@@ -1,0 +1,9 @@
+round eye shape;;;;False
+almond eye shape;;;;False
+monolid eye shape;;;;False
+upturned eye shape;;;;False
+downturned eye shape;;;;False
+prominent eye shape;;;;False
+deep set eye shape;;;;False
+close set eye shape;;;;False
+wide set eye shape;;;;False

@@ -1,0 +1,45 @@
+in style of Apex Legends video game;;;;False
+in style of Battlefield video game;;;;False
+in style of Bioshock video game;;;;False
+in style of Borderlands video game;;;;True
+in style of Call of Duty video game;;;;False
+in style of Counter-Strike video game;;;;False
+in style of Crysis video game;;;;False
+in style of Cuphead video game;;;;False
+in style of Cyberpunk 2077 video game;;;;False
+in style of Dark Souls video game;;;;True
+in style of Dead Space video game;;;;False
+in style of Diablo video game;;;;False
+in style of Doom video game;;;;False
+in style of Duke Nukem video game;;;;False
+in style of Elden Ring video game;;;;True
+in style of Fallout 3 video game;;;;False
+in style of Far Cry video game;;;;False
+in style of F.E.A.R. video game;;;;False
+in style of Final Fantasy video game;;;;False
+in style of Goldeneye 007 video game;;;;False
+in style of Grand Theft Auto video game;;GTA5;;True
+in style of Gunstar Heroes video game;;;;False
+in style of Halo video game;;;;False
+in style of Hearthstone video game;;;;True
+in style of Half-Life video game;;;;False
+in style of Left 4 Dead video game;;;;False
+in style of Mass Effect video game;;;;False
+in style of Max Payne video game;;;;False
+in style of Mega Man video game;;;;False
+in style of Metal Slug video game;;;;False
+in style of Metroid video game;;;;False
+in style of Overwatch video game;;;;True
+in style of Quake video game;;;;False
+in style of Rainbow Six Siege video game;;;;False
+in style of Resident Evil video game;;Resident Evil 7: Biohazard;;True
+in style of Saints Row video game;;;;False
+in style of Serious Sam video game;;;;False
+in style of Super Mario video game;;;;False
+in style of Team Fortress 2 video game;;;;False
+in style of Titanfall video game;;;;False
+in style of The Elder Scrolls video game;;;;True
+in style of The Witcher video game;;;;False
+in style of Valorant video game;;;;False
+in style of Wolfenstein video game;;;;False
+in style of World of Warcraft video game;;;;True

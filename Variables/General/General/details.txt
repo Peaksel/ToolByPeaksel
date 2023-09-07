@@ -1,0 +1,31 @@
+bokeh;;;;False
+desaturated grunge filter;;;;False
+dreamlike atmosphere;;;;False
+glitch style;;;;False
+HDR;;;;False
+high details, 8k;;;;False
+high resolution;;;;False
+highly detailed, high quality;;;;False
+hologram effect;;;;False
+hyperdetailed;;;;False
+extremely hyper aesthetic;;;;False
+infrared filter;;;;False
+intricate details;;;;False
+lens flare;;;;False
+long exposure;;;;False
+max detail, 4k uhd;;;;False
+natural density filter;;;;False
+ornate details;;;;False
+overexposed;;;;False
+perfect composition;;;;False
+photorealistic;;;;False
+realistic;;;;False
+soft focus;;;;False
+solarized;;;;False
+technicolor;;;;False
+trending on artstation;;;;False
+trending on CGSociety, trending on pixiv, contest winner;;;;False
+ultra realistic, sharp focus;;;;False
+ultra-high res, high details, absurdres;;;;False
+underexposed;;;;False
+vignette;;;;False

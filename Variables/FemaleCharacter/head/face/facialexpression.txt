@@ -1,0 +1,53 @@
+striking facial expression;;;;True
+happy, smiling;;;;True
+happy, kind smile, grin;;;;False
+happy, excited, open mouth;;;;False
+sad, depressed;;;;True
+angry, open mouth, yelling;;;;True
+frowning facial expression;;;;False
+surprised facial expression;;;;True
+confused facial expression;;;;False
+disgusted facial expression;;;;False
+annoyed facial expression;;;;False
+curious facial expression;;;;False
+shocked facial expression;;;;True
+excited facial expression;;;;False
+pleased facial expression;;;;False
+flirty facial expression;;;;False
+suspicious facial expression;;;;False
+worried facial expression;;;;False
+content facial expression;;;;False
+bored facial expression;;;;False
+nervous facial expression;;;;False
+embarrassed facial expression;;;;False
+fearful facial expression;;;;False
+skeptical facial expression;;;;False
+determined facial expression;;;;False
+relieved facial expression;;;;False
+amused facial expression;;;;False
+thoughtful facial expression;;;;False
+pouting facial expression;;;;False
+whimsical facial expression;;;;False
+apathetic facial expression;;;;False
+sleepy facial expression;;;;False
+playful facial expression;;;;False
+intrigued facial expression;;;;False
+sincere facial expression;;;;False
+sympathetic facial expression;;;;False
+hurt facial expression;;;;False
+disappointed facial expression;;;;False
+hopeful facial expression;;;;False
+tired facial expression;;;;False
+dreamy facial expression;;;;False
+mocking facial expression;;;;False
+sarcastic facial expression;;;;False
+shy facial expression;;;;False
+startled facial expression;;;;False
+impressed facial expression;;;;False
+frustrated facial expression;;;;False
+grateful facial expression;;;;False
+scornful facial expression;;;;False
+jealous facial expression;;;;False
+bewildered facial expression;;;;False
+melancholic facial expression;;;;False
+defensive facial expression;;;;False

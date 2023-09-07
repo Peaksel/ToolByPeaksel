@@ -1,0 +1,23 @@
+2d digital drawing;;;3d render, vector;True
+2d digital painting;;;3d render, vector;True
+3d digital painting;;global illumination, subsurface scattering, specular lighting, hdr, 8k, nanite, raytraced;sketch, amateur, plastic, unrealistic;True
+16-bit pixel art;;cinematic still, hdr;;False
+32-bit pixel art;;cinematic still, hdr;;False
+8k unity wallpaper;;ultra detailed, extremely detailed, cg, ultra-high res, high resolution;minimalist;True
+a still from a movie;;;;False
+algorithmic art;;;;False
+anime art;;;;False
+dvd screengrab from studio ghibli movie;;by Hayao Miyazaki, retro anime;;False
+game sheet;;light background, clay render, oily, shiny, bevel, blender;;False
+hybrid art;;;;False
+integrated art;;;;False
+maximalist art;;;;False
+mixed media art;;;;False
+minimalist art;;;;False
+movie poster;;IMDB movie poster;;False
+photo bashing;;;;False
+raster painting;;;;False
+realistic digital painting;;;;True
+voxel art;;;;False
+vexel art;;;;False
+wpap art;;;;False

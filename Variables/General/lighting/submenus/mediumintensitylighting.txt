@@ -1,0 +1,23 @@
+radiant god rays;;;;True
+cinematic lighting;;;;True
+edge lighting;;;;True
+hard light;;;;True
+soft lighting;;;;False
+subtle lighting;;;;False
+warm lighting;;;;True
+twilight lighting;;;;False
+hazy lighting;;;;False
+mysterious lighting;;;;False
+romantic lighting;;;;False
+enchanting lighting;;;;False
+misty lighting;;;;False
+dreamy lighting;;;;False
+gentle lighting;;;;False
+ethereal lighting;;;;False
+whimsical lighting;;;;False
+soothing lighting;;;;False
+ambient lighting;;;;True
+muted lighting;;;;False
+elegant lighting;;;;False
+pastel lighting;;;;False
+artistic lighting;;;;False

@@ -1,0 +1,67 @@
+biker costume;;;;False
+burglar costume;;;;False
+businessman costume;;;;False
+butler costume;;;;False
+camo costume;;;;False
+candy costume;;;;False
+captain costume;;;;False
+carnival costume;;;;False
+christmas costume;;;;False
+clown costume;;;;False
+conductor costume;;;;False
+convict costume;;;;False
+cop costume;;;;False
+cowboy costume;;;;False
+dalmatian costume;;;;False
+day of the dead costume;;;;False
+decade costume;;;;False
+demon costume;;;;False
+devil costume;;;;False
+disco costume;;;;False
+dracula costume;;;;False
+dwarf costume;;;;False
+easter costume;;;;False
+egyptian costume;;;;False
+fairy tale costume;;;;False
+firefighter costume;;;;False
+fruits costume;;;;False
+funny costume;;;;False
+galactic warrior costume;;;;False
+gangster costume;;;;False
+geek costume;;;;False
+gorilla costume;;;;False
+gothic costume;;;;False
+graduation costume;;;;False
+greek costume;;;;False
+halloween costume;;;;False
+indian costume;;;;False
+irish costume;;;;False
+japanese costume;;;;False
+jester costume;;;;False
+king costume;;;;False
+knight costume;;;;False
+leprechaun costume;;;;False
+lion costume;;;;False
+luau costume;;;;False
+medieval costume;;;;False
+mummy costume;;;;False
+native american costume;;;;False
+ninja costume;;;;False
+outlaw costume;;;;False
+patriotic costume;;;;False
+pirate costume;;;;False
+psycho costume;;;;False
+ranger costume;;;;False
+renaissance costume;;;;False
+robot costume;;;;False
+santa claus costume;;;;False
+scarecrow costume;;;;False
+swashbuckler costume;;;;False
+taxi driver costume;;;;False
+teddy bear costume;;;;False
+thief costume;;;;False
+timber costume;;;;False
+toga costume;;;;False
+vampire costume;;;;False
+viking costume;;;;False
+zombie costume;;;;False

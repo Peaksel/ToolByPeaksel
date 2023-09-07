@@ -1,0 +1,71 @@
+a-line little black dress;;;;False
+bell sleeve swing dress;;;;False
+bohemian off-the-shoulder dress;;;;False
+boho embroidered off-the-shoulder maxi dress;;;;False
+boho maxi dress with tassel details;;;;False
+cold shoulder boho swing dress;;;;False
+cold shoulder dress;;;;False
+crochet lace bell sleeve dress;;;;False
+denim overall dress;;;;False
+embroidered boho tunic dress;;;;False
+embroidered mesh dress;;;;False
+embroidered mesh maxi dress with bell sleeves;;;;False
+floral embroidered mesh overlay dress;;;;False
+floral midi dress;;;;False
+floral print high-neck swing dress;;;;False
+floral print skater dress with cutout back;;;;False
+floral print wrap midi dress;;;;False
+flare sleeve boho mini dress;;;;False
+flare sleeve dress;;;;False
+geometric print a-line dress;;;;False
+geometric print dress;;;;False
+gingham checkered dress;;;;False
+gingham print off-the-shoulder dress;;;;False
+high-neck lace dress;;;;False
+high-neck velvet midi dress;;;;False
+high-low hemline dress;;;;False
+lace overlay sheath dress;;;;False
+lace-up back cocktail dress;;;;False
+lace-up corset dress;;;;False
+off-the-shoulder bohemian peasant dress;;;;False
+off-the-shoulder cocktail dress;;;;False
+off-the-shoulder high-low dress;;;;False
+off-the-shoulder pleated maxi dress;;;;False
+off-the-shoulder ruffle dress;;;;False
+off-the-shoulder wrap dress;;;;False
+one-shoulder asymmetrical cocktail dress;;;;False
+one-shoulder evening gown;;;;False
+pleated chiffon maxi dress;;;;False
+pleated chiffon off-the-shoulder dress;;;;False
+pleated maxi dress;;;;False
+pleated skater dress;;;;False
+plaid fit and flare shirt dress;;;;False
+plaid shirt dress;;;;False
+polka dot fit and flare midi dress;;;;False
+polka dot tea-length dress;;;;False
+polka dot wrap dress with flutter sleeves;;;;False
+ruffle hem wrap dress;;;;False
+sequin mini dress with plunging neckline;;;;False
+sequin party dress;;;;False
+sheath dress with ruffle detailing;;;;False
+strapless mermaid gown;;;;False
+strapless sweetheart neckline dress;;;;False
+striped fit and flare dress;;;;False
+striped maxi dress with side slits;;;;False
+striped sundress;;;;False
+striped wrap dress with ruffle hem;;;;False
+satin slip dress with lace trim;;;;False
+satin slip gown;;;;False
+tulle ball gown;;;;False
+tiered lace bohemian dress;;;;False
+tiered ruffle dress;;;;False
+tiered ruffle maxi dress;;;;False
+tiered chiffon dress;;;;False
+velvet bodycon dress with slit;;;;False
+velvet off-the-shoulder bodycon dress;;;;False
+velvet off-the-shoulder mermaid gown;;;;False
+velvet slip dress;;;;False
+velvet wrap dress;;;;False
+wrap dress with floral print;;;;False
+wrap front skater dress;;;;False
+wrap maxi dress;;;;False

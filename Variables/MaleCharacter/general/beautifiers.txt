@@ -1,0 +1,10 @@
+sexy;;;;False
+gorgeous;;;;False
+beautiful;;;;False
+hot;;;;False
+attractive;;;;False
+seductive;;;;False
+alluring;;;;False
+charming;;;;False
+enchanting;;;;False
+glamorous;;;;False

@@ -1,0 +1,7 @@
+eye level shot;;;;True
+hip level shot;;;;False
+ground level shot;;;;True
+dutch angle shot;;;;True
+shot from below;;;;False
+shot from above;;;;False
+low-angle shot;;;;False

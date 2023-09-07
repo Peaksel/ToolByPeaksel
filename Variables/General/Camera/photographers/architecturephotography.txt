@@ -1,0 +1,5 @@
+architecture photography by Julius Shulman;;;;False
+architecture photography by Iwan Baan;;;;False
+architecture photography by Richard Meier;;;;False
+architecture photography by Hiroshi Sugimoto;;;;False
+architecture photography by Julius Schulman;;;;False

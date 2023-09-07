@@ -1,0 +1,10 @@
+glamour photography by Helmut Newton, by Ellen von Unwerth;;;;True
+glamour photography by Richard Avedon, by Herb Ritts;;;;True
+glamour photography by David LaChapelle, by Steven Meisel, by Terry Richardson;;;;True
+glamour photography by Irving Penn, by Peter Lindbergh;;;;True
+glamour photography by Annie Leibovitz;;;;False
+glamour photography by Patrick Demarchelier;;;;False
+glamour photography by Mario Testino;;;;False
+glamour photography by Ellen von Unwerth;;;;False
+glamour photography by Terry Richardson;;;;False
+glamour photography by Steven Meisel;;;;False

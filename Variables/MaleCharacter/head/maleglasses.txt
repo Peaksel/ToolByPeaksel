@@ -1,0 +1,51 @@
+acetate frame glasses;;;;False
+astronaut glasses;;;;False
+ballistic eyewear;;;;False
+brow bar glasses;;;;False
+browline glasses;;;;False
+chemical laboratory goggles;;;;False
+clear frame glasses;;;;False
+clubmaster glasses;;;;False
+construction site supervisor glasses;;;;False
+dive mask;;;;False
+electrician safety glasses;;;;False
+equestrian riding glasses;;;;False
+firefighter glasses;;;;False
+fisherman sunglasses;;;;False
+goggles;;;;False
+half-rim glasses;;;;False
+horn-rimmed glasses;;;;False
+hunting glasses;;;;False
+matte frame glasses;;;;False
+metal frame glasses;;;;False
+motorcycle riding glasses;;;;False
+oversized glasses;;;;False
+paramedic glasses;;;;False
+pilot glasses;;;;False
+prescription safety glasses;;;;False
+protective eyewear for firefighters;;;;False
+radiation glasses;;;;False
+rectangle glasses;;;;False
+retro glasses;;;;False
+rimless glasses;;;;False
+round glasses;;;;False
+safety glasses;;;;False
+safety glasses with built-in led lights;;;;False
+scuba diving masks;;;;False
+semi-rimless glasses;;;;False
+shooting glasses;;;;False
+ski goggles;;;;False
+skiing sunglasses;;;;False
+snowboarding goggles;;;;False
+sports glasses;;;;False
+square glasses;;;;False
+surgeon glasses;;;;False
+swim goggles;;;;False
+tactical glasses;;;;False
+titanium frame glasses;;;;False
+tortoiseshell glasses;;;;False
+transparent frame glasses;;;;False
+vintage glasses;;;;False
+wood frame glasses;;;;False
+wrap-around glasses;;;;False
+welding glasses;;;;False

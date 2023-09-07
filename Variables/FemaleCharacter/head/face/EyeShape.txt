@@ -1,0 +1,11 @@
+almond eye shape;;;;False
+anime wide eyes;;;;False
+big dreamy eyes;;;;False
+close set eye shape;;;;False
+deep set eye shape;;;;False
+downturned eye shape;;;;False
+monolid eye shape;;;;False
+prominent eye shape;;;;False
+round eye shape;;;;False
+upturned eye shape;;;;False
+wide set eye shape;;;;False

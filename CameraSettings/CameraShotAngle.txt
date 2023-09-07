@@ -1,6 +1,0 @@
-Eye Level Shot;;;;True
-Hip Level Shot;;;;False
-Ground Level Shot;;;;True
-Dutch Angle Shot;;;;True
-Shot from below;;;;False
-Shot from above;;;;False

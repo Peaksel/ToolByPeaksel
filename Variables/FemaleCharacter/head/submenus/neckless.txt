@@ -1,0 +1,33 @@
+amulet;;;;False
+animal collar;;;;False
+ascot;;;;False
+bolo tie;;;;False
+bowtie;;;;False
+chain necklace;;;;False
+choker;;;;False
+collar;;;;False
+cross tie;;;;False
+feather boa;;;;False
+flower necklace;;;;False
+friendship charm;;;;False
+headphones around neck;;;;False
+jabot;;;;False
+lanyard;;;;False
+lei;;;;False
+locket;;;;False
+magatama;;;;False
+neck ribbon;;;;False
+neck ruff;;;;False
+neckerchief;;;;False
+necklace;;;;False
+necktie;;;;False
+necktie between breasts;;;;False
+pearl necklace;;;;False
+pendant;;;;False
+pentacle;;;;False
+pet cone;;;;False
+ribbon choker;;;;False
+scarf;;;;False
+spiked collar;;;;False
+stole;;;;False
+studded collar;;;;False

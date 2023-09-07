@@ -1,0 +1,25 @@
+backlighting;;;;False
+blending;;;;False
+bloom;;;;False
+bokeh;;;;False
+caustics;;;;False
+chiaroscuro;;;;False
+chromatic aberration;;;;False
+depth of field;;;;False
+diffraction spikes;;;;False
+dithering;;;;False
+double exposure;;;;False
+drop shadow;;;;False
+emphasis lines;;;;False
+film grain;;;;False
+foreshortening;;;;False
+gradient;;;;False
+halftone;;;;False
+lens flare;;;;False
+motion blur;;;;False
+motion lines;;;;False
+multiple monochrome;;;;False
+scanlines;;;;False
+silhouette;;;;False
+speed lines;;;;False
+vignetting;;;;False

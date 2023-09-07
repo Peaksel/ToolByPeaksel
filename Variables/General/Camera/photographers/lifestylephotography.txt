@@ -1,0 +1,10 @@
+lifestyle photography by Brandon Stanton, by Gray Malin;;;;True
+lifestyle photography by Tara Whitney, by David Alan Harvey;;;;True
+lifestyle photography by Matt Dutile, by Olivia Bee, by Kirsten Alana;;;;True
+lifestyle photography by Steve McCurry, by Jana Williams;;;;True
+lifestyle photography by Annie Leibovitz;;;;False
+lifestyle photography by Richard Avedon;;;;False
+lifestyle photography by Peter Lindbergh;;;;False
+lifestyle photography by Gray Malin;;;;False
+lifestyle photography by Olivia Bee;;;;False
+lifestyle photography by Kirsten Alana;;;;False

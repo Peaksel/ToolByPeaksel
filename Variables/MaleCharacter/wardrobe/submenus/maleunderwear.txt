@@ -1,0 +1,40 @@
+athletic trunks;;;;False
+bamboo boxers;;;;False
+bamboo briefs;;;;False
+bamboo trunks;;;;False
+bikini trunks;;;;False
+boxers;;;;False
+cheeky briefs;;;;False
+cheeky trunks;;;;False
+compression shorts;;;;False
+contour pouch briefs;;;;False
+enhancing bikini briefs;;;;False
+enhancing trunks;;;;False
+fly-front briefs;;;;False
+g-strings;;;;False
+high-cut briefs;;;;False
+jockstraps;;;;False
+long leg boxer briefs;;;;False
+low-rise bikini briefs;;;;False
+low-rise briefs;;;;False
+micro modal trunks;;;;False
+microfiber boxers;;;;False
+microfiber trunks;;;;False
+modal briefs;;;;False
+novelty thongs;;;;False
+organic cotton boxers;;;;False
+padded underwear;;;;False
+patterned briefs;;;;False
+performance thongs;;;;False
+pouch bikini briefs;;;;False
+pouch briefs;;;;False
+ribbed briefs;;;;False
+seamless bikini briefs;;;;False
+seamless thongs;;;;False
+sheer briefs;;;;False
+silk boxers;;;;False
+sports trunks;;;;False
+supportive boxers;;;;False
+tanga trunks;;;;False
+thongs;;;;False
+trunks;;;;False

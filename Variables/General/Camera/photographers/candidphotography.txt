@@ -1,0 +1,13 @@
+candid photography by Annie Leibovitz, by Henri Cartier-Bresson;;;;True
+candid photography by Daido Moriyama, by Mary Ellen Mark;;;;True
+candid photography by Sebastiao Salgado, by Vivian Maier, by Steve McCurry;;;;True
+candid photography by Bruce Gilden, by Alex Webb;;;;True
+candid photography by Henri Cartier-Bresson;;;;False
+candid photography by Daido Moriyama;;;;False
+candid photography by Mary Ellen Mark;;;;False
+candid photography by Elliott Erwitt;;;;False
+candid photography by Sebastiao Salgado;;;;False
+candid photography by Vivian Maier;;;;False
+candid photography by Bruce Gilden;;;;False
+candid photography by Alex Webb;;;;False
+candid photography by Steve McCurry;;;;False

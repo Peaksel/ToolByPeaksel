@@ -1,0 +1,8 @@
+looking at the viewer;;;;False
+Looking at something;;;;False
+looking down;;;;False
+looking up;;;;False
+gazing;;;;False
+averted gaze;;;;False
+looking away;;;;False
+looking back;;;;False

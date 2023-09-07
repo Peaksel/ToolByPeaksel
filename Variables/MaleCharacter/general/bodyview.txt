@@ -1,0 +1,4 @@
+face portrait;;;;False
+face and shoulders portrait;;;;False
+upper body view;;;;False
+full body view;;;;False

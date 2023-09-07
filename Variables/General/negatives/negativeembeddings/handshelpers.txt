@@ -1,0 +1,4 @@
+Negative Hand (hands helper):negative_hand-neg
+Bad Hands v5 (hands helper):bad-hands-5
+Bad Prompt v2 (hands helper):bad_prompt_versio2-neg
+Bad Hand v4 for Anime Illustration Diffusion:badhandv4

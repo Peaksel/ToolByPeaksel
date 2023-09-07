@@ -1,0 +1,91 @@
+Camo costume;;;;False
+Candy costume;;;;False
+Captain costume;;;;False
+Carnival costume;;;;False
+Cat costume;;;;False
+Catwoman costume;;;;True
+Cheerleader costume;;;;False
+Christmas costume;;;;False
+Cleopatra costume;;;;True
+Clown costume;;;;False
+Comic book character costume;;;;False
+Conductor costume;;;;False
+Convict costume;;;;False
+Cowboy costume;;;;False
+Dalmatian costume;;;;False
+Day of the Dead costume;;;;False
+Decade costume;;;;False
+Deer costume;;;;False
+Demon costume;;;;False
+Devil costume;;;;False
+Disco costume;;;;False
+Doll costume;;;;False
+Dwarf costume;;;;False
+Easter costume;;;;False
+Egyptian costume;;;;False
+Fairy costume;;;;False
+Fairy tale costume;;;;False
+Firefighter costume;;;;True
+Fitness costume;;;;False
+Flapper costume;;;;False
+Forest fairy costume;;;;True
+French costume;;;;False
+Fruits costume;;;;False
+Funny costume;;;;False
+Galactic warrior costume;;;;False
+Gangster costume;;;;False
+Gazelle costume;;;;False
+Geisha costume;;;;True
+Gothic costume;;;;False
+Graduation costume;;;;False
+Greek costume;;;;False
+Gypsy costume;;;;False
+Hag costume;;;;False
+Halloween costume;;;;False
+Herald costume;;;;False
+Hippie costume;;;;False
+Hula dancer costume;;;;False
+Indian costume;;;;False
+Irish costume;;;;False
+Jack-o-lantern costume;;;;False
+Japanese costume;;;;False
+Jester costume;;;;False
+King costume;;;;False
+Kitty costume;;;;False
+Knight costume;;;;False
+Leprechaun costume;;;;False
+Lion costume;;;;False
+Little red riding hood costume;;;;False
+Luau costume;;;;False
+Maid costume;;;;True
+Mardi gras costume;;;;False
+Medieval costume;;;;False
+Mermaid costume;;;;False
+Moulin rouge costume;;;;False
+Mummy costume;;;;False
+Native American costume;;;;False
+Ninja costume;;;;False
+Nun costume;;;;False
+Nurse costume;;;;False
+Oriental costume;;;;False
+Pageant costume;;;;False
+Palace guard costume;;;;False
+Panda costume;;;;False
+Paratrooper costume;;;;False
+Patriotic costume;;;;False
+Peasant costume;;;;False
+Pharaoh costume;;;;False
+Pilgrim costume;;;;False
+Pirate costume;;;;True
+Police officer costume;;;;False
+Policewoman costume;;;;True
+Princess costume;;;;True
+Pumpkin costume;;;;False
+Queen costume;;;;True
+School girl costume;;;;True
+Spider-woman costume;;;;True
+Superhero costume;;;;False
+Vampire costume;;;;False
+Witch costume;;;;True
+Zombie cheerleader costume;;;;False
+Zombie costume;;;;False

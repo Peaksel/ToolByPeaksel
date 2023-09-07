@@ -1,0 +1,14 @@
+athletic shoes;;;;False
+sneakers;;;;False
+running shoes;;;;False
+basketball shoes;;;;False
+tennis shoes;;;;False
+walking shoes;;;;False
+oxfords;;;;False
+brogues;;;;False
+loafers;;;;False
+derby shoes;;;;False
+monk strap shoes;;;;False
+boat shoes;;;;False
+moccasins;;;;False
+mary janes;;;;False

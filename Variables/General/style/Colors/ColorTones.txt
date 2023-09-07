@@ -1,0 +1,36 @@
+autumn colors;;;;False
+bold and bright colors;;;;False
+bold colors;;;;False
+bright colors;;;;True
+classic colors;;;;False
+contemporary colors;;;;False
+cool colors;;;;False
+country colors;;;;False
+deep and dark colors;;;;False
+earthy colors;;;;False
+fall vibes;;;;False
+feminine colors;;;;False
+industrial colors;;;;False
+light and airy colors;;;;False
+masculine colors;;;;False
+moody colors;;;;False
+muted colors;;;;False
+natural colors;;;;False
+neutral colors;;;;False
+oceanic colors;;;;False
+pastel colors;;;;True
+pale washed out colors;;;;False
+playful colors;;;;False
+retro colors;;;;True
+rich colors;;;;True
+romantic colors;;;;False
+soft colors;;;;False
+spring vibe;;;;False
+subtle colors;;;;False
+tetradic colors;;;;False
+urban colors;;;;False
+vibrant colors;;;;True
+vintage colors;;;;True
+warm colors;;;;True
+whimsical colors;;;;False
+winter colors;;;;False

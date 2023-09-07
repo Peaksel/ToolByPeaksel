@@ -1,0 +1,10 @@
+documentary photography by Dorothea Lange, by W. Eugene Smith;;;;True
+documentary photography by Sebastiao Salgado, by James Nachtwey;;;;True
+documentary photography by Mary Ellen Mark, by Steve McCurry, by Susan Meiselas;;;;True
+documentary photography by Robert Capa, by Margaret Bourke-White;;;;True
+documentary photography by Diane Arbus;;;;False
+documentary photography by Lewis Hine;;;;False
+documentary photography by Martin Parr;;;;False
+documentary photography by Kevin Carter;;;;False
+documentary photography by Vivian Maier;;;;False
+documentary photography by Henri Cartier-Bresson;;;;False

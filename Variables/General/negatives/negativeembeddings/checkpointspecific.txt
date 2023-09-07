@@ -1,0 +1,9 @@
+Bad Dream for Dreamshaper:BadDream
+Anime Style negative embedding for Dreamshaper:anime-style-negative-embedding
+EasyNegative for Counterfeit v3:easynegative
+Bad Picture for Chillout Mix: bad-picture-chill-75v
+Negative Embedding for Realistic Vision:realisticvision-negative-embedding
+Bad Quality for Waiffu Dissuasion 1.5 beta:badquality
+Negative Embedding for Deliberate:16-token-negative-deliberate-neg
+Negative Embedding for Juggernaut:JuggernautNegative-neg
+Beyond Negative for Beyond Reality 2:BeyondNegativev2-neg

@@ -1,0 +1,13 @@
+dance shoes;;;;False
+pointe shoes;;;;False
+tap shoes;;;;False
+ballet slippers;;;;False
+climbing shoes;;;;False
+ski boots;;;;False
+snowboard boots;;;;False
+cycling shoes;;;;False
+bowling shoes;;;;False
+bowling sneakers;;;;False
+ice skates;;;;False
+roller skates;;;;False
+inline skates;;;;False

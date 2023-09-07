@@ -1,0 +1,40 @@
+acne studios camel coat;;;;False
+alexander mcqueen black wool blazer with gold hardware;;;;False
+alexander wang black leather biker vest;;;;False
+balenciaga oversized puffer jacket;;;;False
+balmain white double-breasted blazer;;;;False
+bottega veneta intrecciato leather trench coat;;;;False
+burberry tartan wool blazer;;;;False
+celine black wool wide-leg pants;;;;False
+chloe white embroidered cotton dress;;;;False
+christian louboutin red patent leather pumps;;;;False
+dior black silk maxi dress with pleats;;;;False
+dolce & gabbana rose-printed cotton-poplin dress;;;;False
+emilio pucci printed silk caftan;;;;False
+fendi logo-printed knit dress;;;;False
+giorgio armani black velvet tuxedo jacket;;;;False
+givenchy black lace midi dress;;;;False
+givenchy black lace-up leather pants;;;;False
+gucci floral print silk blouse and matching skirt;;;;False
+hermes silk scarf;;;;False
+isabel marant oversized wool coat;;;;False
+jimmy choo glitter pumps;;;;False
+jw anderson patchwork knit sweater;;;;False
+kenzo tiger-printed sweatshirt;;;;False
+louis vuitton black leather biker jacket;;;;False
+max mara camel hair coat;;;;False
+missoni knit midi dress;;;;False
+miu miu glitter ankle boots;;;;False
+moncler black puffer vest;;;;False
+moschino metallic gold leather skirt;;;;False
+prada yellow satin midi dress with ruffles;;;;False
+proenza schouler oversized knit cardigan;;;;False
+rick owens black leather leggings;;;;False
+salvatore ferragamo silk scarf;;;;False
+saint laurent black and white polka dot silk blouse;;;;False
+stella mccartney white blazer with black contrast lapels;;;;False
+the row black leather leggings with zippers;;;;False
+tom ford black and gold sequin gown;;;;False
+valentino red lace midi dress;;;;False
+versace baroque-printed silk shirt;;;;False
+yves saint laurent velvet blazer with gold buttons;;;;False

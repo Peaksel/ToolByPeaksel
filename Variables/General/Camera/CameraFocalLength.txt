@@ -1,0 +1,5 @@
+15mm lens;;;;True
+35mm lens;;;;True
+85mm lens;;85mm;;False
+100mm lens;;;;False
+200mm lens;;;;False

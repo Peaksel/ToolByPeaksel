@@ -1,0 +1,77 @@
+aetherpunk style;;;;False
+astropunk style;;;;False
+atompunk style;;;;True
+biopunk style;;;;False
+clockpunk style;;;;False
+cyberpunk style;;;;True
+dieselpunk style;;;;False
+frostpunk style;;;;False
+ironpunk style;;;;False
+necropunk style;;;;False
+punk style;;;;False
+solarpunk style;;;;False
+steampunk style;;;;True
+technopunk style;;;;False
+teslapunk style;;;;False
+westernpunk style;;;;False
+50s style;;;;False
+60s style;;;;True
+70s style;;;;False
+80s style;;;;False
+90s style;;;;False
+abstractionism style;;;;False
+art deco style;;;;False
+art nouveau style;;;;False
+baroque style;;;;true
+bauhaus style;;;;False
+chiaroscuro style;;;;False
+constructivism style;;;;False
+cubism style;;;;False
+dadaism style;;;;False
+dark synth style;;;;False
+divisionism style;;;;False
+expressionism style;;;;False
+fantasy style;;;;True
+fauvism style;;;;False
+figurativism style;;;;False
+fresco art style;;;;False
+funk art style;;;;False
+gothic style;;;;True
+grunge style;;;;False
+grotesque style;;;;False
+grimdark style;;;;False
+horror style;;;;True
+impressionism style;;;;False
+letterism style;;;;False
+mannerism style;;;;False
+maximalism style;;;;False
+medieval style;;;;False
+minimalism style;;;;False
+modernism style;;;;False
+naive art style;;;;False
+naivism style;;;;False
+neo-impressionism style;;;;False
+op art style;;;;False
+orphism style;;;;False
+pin-up style;;;;False
+pop art style;;;;False
+postimpressionism style;;;;False
+postmodernism style;;;;False
+primitivism style;;;;False
+psychedelic art style;;;;False
+pulp art style;;;;False
+renaissance style;;;;False
+retrofuturism style;;;;True
+retrowave style;;;;False
+rococo style;;;;False
+sci-fi style;;;;False
+socialism art style;;;;False
+soviet art style;;;;True
+sovietwave style;;;;False
+surrealism style;;;;False
+synthwave style;;;;False
+tenebrism style;;;;False
+vaporwave style;;;;False
+victorian style;;;;False
+vorticism style;;;;False
+whimsical style;;;;False

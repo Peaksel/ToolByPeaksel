@@ -1,0 +1,10 @@
+large format photography by Ansel Adams, by Edward Weston;;;;True
+large format photography by Sally Mann, by Richard Misrach;;;;True
+large format photography by Gregory Crewdson, by Hiroshi Sugimoto;;;;True
+large format photography by Laura Wilson, by Joel Meyerowitz, by Emmet Gowin;;;;True
+large format photography by Cindy Sherman;;;;False
+large format photography by Diane Arbus;;;;False
+large format photography by Alec Soth;;;;False
+large format photography by Richard Avedon;;;;False
+large format photography by Stephen Shore;;;;False
+large format photography by William Eggleston;;;;False

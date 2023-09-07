@@ -1,0 +1,30 @@
+boho-inspired blazer, graphic tank top, skinny jeans;;;;False
+boho-inspired denim shirt, patterned shorts;;;;False
+crochet cardigan, distressed denim shorts;;;;False
+crochet cardigan, plain t-shirt, ripped jeans;;;;False
+crochet vest, graphic t-shirt, ripped jeans;;;;False
+embroidered denim jacket, plain t-shirt, relaxed-fit trousers;;;;False
+embroidered peasant shirt, wide-leg pants;;;;False
+embroidered tunic, patchwork jeans;;;;False
+floral print shirt, cargo shorts;;;;False
+flowy bohemian robe, linen trousers;;;;False
+flowy embroidered tunic, linen pants;;;;False
+flowy paisley shirt, linen pants;;;;False
+flowy patterned kaftan, linen pants;;;;False
+flowy patterned kaftan, solid-color shorts;;;;False
+fringed poncho, graphic t-shirt, wide-leg trousers;;;;False
+fringed suede jacket, plain white shirt, slim-fit jeans;;;;False
+fringed vest, graphic t-shirt, relaxed-fit trousers;;;;False
+linen button-down shirt, patterned shorts;;;;False
+loose-fitting patterned shirt, distressed jeans;;;;False
+paisley vest, solid-color t-shirt, patterned shorts;;;;False
+patchwork denim jacket, band t-shirt, distressed jeans;;;;False
+patterned kimono jacket, solid-color t-shirt, wide-leg trousers;;;;False
+printed bohemian shirt, cargo shorts;;;;False
+printed bohemian shirt, corduroy pants;;;;False
+printed bohemian tunic, loose-fit trousers;;;;False
+tie-dye button-down shirt, denim shorts;;;;False
+tribal print shirt, linen pants;;;;False
+tribal print shirt, ripped jeans;;;;False
+velvet blazer, bohemian-style shirt, corduroy pants;;;;False
+velvet blazer, paisley shirt, corduroy pants;;;;False
