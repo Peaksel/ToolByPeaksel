@@ -1,0 +1,11 @@
+Odin ;;;;False
+Thor ;;;;False 
+Frey ;;;;False
+Tyr ;;;;False
+Baldr ;;;;False
+Loki ;;;;False
+Heimdall ;;;;False
+Bragi ;;;;False
+Vidar ;;;;False
+Forseti ;;;;False
+Ullr;;;;False

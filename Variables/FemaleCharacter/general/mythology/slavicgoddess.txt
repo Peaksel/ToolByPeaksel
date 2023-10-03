@@ -1,0 +1,17 @@
+Baba Yaga;;;;False
+Dzydzilelya;;;;False
+Lada;;;;False
+Lelia;;;;False
+Mokosh;;;;False
+Morozko;;;;False
+Navka;;;;False
+Nocnitsa;;;;False
+Nokturna;;;;False
+Perunika;;;;False
+Rusalka;;;;False
+Vesna;;;;False
+Zaria;;;;False
+Zorya;;;;False
+Zorya Utrennyaya;;;;False
+Zorya Vechernyaya;;;;False
+Zorya Polunochnaya;;;;False

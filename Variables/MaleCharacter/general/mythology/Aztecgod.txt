@@ -1,0 +1,8 @@
+Huitzilopochtli;;;;False
+Quetzalcoatl;;;;False
+Tezcatlipoca;;;;False
+Tlaloc;;;;False
+Xipe Totec;;;;False
+Coatlicue;;;;False
+Xochiquetzal;;;;False
+Chalchiuhtlicue;;;;False

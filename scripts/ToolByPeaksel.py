@@ -14,7 +14,7 @@ from modules import scripts
 
 
 
-edit_icon = "../Icons/edit.png"
+# edit_icon = "../Icons/edit.png" FIX
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
 # directories
@@ -33,7 +33,7 @@ NegativeEmbeddingsCPDir = os.path.join(scripts.basedir(), f"Variables\\General\\
 NegativeEmbeddingsGNDir = os.path.join(scripts.basedir(), f"Variables\\General\\negatives\\negativeembeddings\\generalnegativeembeddings.txt")
 NegativeEmbeddingsHHDir = os.path.join(scripts.basedir(), f"Variables\\General\\negatives\\negativeembeddings\\handshelpers.txt")
 
-LightingEffect1Dir = os.path.join(scripts.basedir(), f"Variables\\General\\style\\styleembedding.txt")
+StyleEmbeddingDir  = os.path.join(scripts.basedir(), f"Variables\\General\\style\\styleembedding.txt")
 StyleLoraDir       = os.path.join(scripts.basedir(), f"Variables\\General\\style\\stylelora.txt")
 StyleEMBDir        = os.path.join(scripts.basedir(), f"Variables\\General\\style\\styleembedding.txt")
 StyleDir           = os.path.join(scripts.basedir(), f"Variables\\General\\style\\generalstyle.txt")
@@ -67,6 +67,8 @@ ContentRatingDir       = os.path.join(scripts.basedir(),f"Variables\\FemaleChara
 BeautyDescriptorDir    = os.path.join(scripts.basedir(),f"Variables\\FemaleCharacter\\general\\beautydescriptor.txt")
 FemaleTypeDir          = os.path.join(scripts.basedir(),f"Variables\\FemaleCharacter\\general\\femaletype.txt")
 SpecificPersonDir      = os.path.join(scripts.basedir(),f"Variables\\FemaleCharacter\\general\\submenus\\")
+GoddessTypeDir         = os.path.join(scripts.basedir(),f"Variables\\FemaleCharacter\\general\\goddess.txt")
+GoddessDir             = os.path.join(scripts.basedir(),f"Variables\\FemaleCharacter\\general\\mythology\\")
 EmbeddingDir           = os.path.join(scripts.basedir(),f"Variables\\FemaleCharacter\\general\\femaleembedding.txt")
 LoraDir                = os.path.join(scripts.basedir(),f"Variables\\FemaleCharacter\\general\\lorafemale.txt")
 OriginOrNationalityDir = os.path.join(scripts.basedir(),f"Variables\\FemaleCharacter\\general\\originornationality.txt")
@@ -132,6 +134,8 @@ FemaleShieldDir             = os.path.join(scripts.basedir(),f"Variables\\Female
 MaleContentRatingDir       = os.path.join(scripts.basedir(),f"Variables\\MaleCharacter\\general\\malecontentrating.txt")
 MaleBeautifiersDir         = os.path.join(scripts.basedir(),f"Variables\\MaleCharacter\\general\\beautifiers.txt")
 MaleTypeDir                = os.path.join(scripts.basedir(),f"Variables\\MaleCharacter\\general\\maletype.txt")
+MaleGodTypeDir             = os.path.join(scripts.basedir(),f"Variables\\MaleCharacter\\general\\gods.txt")
+MaleGodDir                 = os.path.join(scripts.basedir(),f"Variables\\MaleCharacter\\general\\mythology\\")
 MaleSubTypeDir             = os.path.join(scripts.basedir(),f"Variables\\MaleCharacter\\general\\submenus\\")
 MaleEmbeddingsDir          = os.path.join(scripts.basedir(),f"Variables\\MaleCharacter\\general\\maleembedding.txt")
 MaleLoraDir                = os.path.join(scripts.basedir(),f"Variables\\MaleCharacter\\general\\loramale.txt")
@@ -195,9 +199,8 @@ def addtoDirs(dir):
     global dirsList 
     dirsList.append(dir)
 
-
 addtoDirs(MediumsDir);addtoDirs(MediumsSubDir);addtoDirs(BeautifiersDir);addtoDirs(StyleDir);addtoDirs(StyleGameDir);addtoDirs(ColorsTonesDir);addtoDirs(DetailsDir);addtoDirs(NegativesDir);addtoDirs(NegativesGeneralDir);addtoDirs(NegativesBWDir);addtoDirs(NegativesCharacterDir)
-addtoDirs(SeasonDir);addtoDirs(HolidayDir);addtoDirs(LightingDir);addtoDirs(LightingSubDir);addtoDirs(LightingEffectDir);addtoDirs(MaterialDir);addtoDirs(MaterialSubDir);addtoDirs(StyleLoraDir);addtoDirs(StyleEMBDir);addtoDirs(LightingEffect1Dir)
+addtoDirs(SeasonDir);addtoDirs(HolidayDir);addtoDirs(LightingDir);addtoDirs(LightingSubDir);addtoDirs(LightingEffectDir);addtoDirs(MaterialDir);addtoDirs(MaterialSubDir);addtoDirs(StyleLoraDir);addtoDirs(StyleEMBDir);addtoDirs(StyleEmbeddingDir)
 addtoDirs(ColorsSchemesDir);addtoDirs(ArtistSingleDir);addtoDirs(ArtistThemeDir);addtoDirs(CameraSettingsDir);addtoDirs(PhotographyTypeDir);addtoDirs(PhotographersDir);addtoDirs(HairColorDir)
 addtoDirs(CameraBrandDir);addtoDirs(CameraShotAngleDir);addtoDirs(CameraShotTypeDir);addtoDirs(CameraFilmSizeDir);addtoDirs(CameraFocalLenDir);addtoDirs(CameraFocusDir)
 addtoDirs(HairCutDir);addtoDirs(EyeColorDir);addtoDirs(EyeShapeDir);addtoDirs(FaceShapeDir)
@@ -214,7 +217,7 @@ addtoDirs(MaleFaceShapeDir);addtoDirs(MaleFaceExpressionDir);addtoDirs(MaleHairC
 addtoDirs(MaleEyeBrowsDir);addtoDirs(MaleGlassesDir);addtoDirs(MaleNoseDir);addtoDirs(MaleChinDir);addtoDirs(MaleMustacheDir);addtoDirs(MaleBeardDir);addtoDirs(MaleHeadWearDir);addtoDirs(MaleNecklessDir);addtoDirs(MaleQuickBackGroundDir)
 addtoDirs(MaleBodyArmorDir);addtoDirs(MaleHeadProtectionDir);addtoDirs(MaleShoulderProtectionDir);addtoDirs(MaleTorsoProtectionDir);addtoDirs(MaleNeckProtectionDir);addtoDirs(MaleLegProtectionDir);addtoDirs(MaleGroinProtectionDir);addtoDirs(MaleWeaponDir)
 addtoDirs(MaleWeaponSubmenuDir);addtoDirs(MaleShieldDir);addtoDirs(FemaleBodyArmorDir);addtoDirs(FemaleHeadProtectionDir);addtoDirs(FemaleShoulderProtectionDir);addtoDirs(FemaleTorsoProtectionDir);addtoDirs(FemaleNeckProtectionDir);addtoDirs(FemaleLegProtectionDir);addtoDirs(FemaleGroinProtectionDir);addtoDirs(FemaleWeaponDir)
-addtoDirs(FemaleWeaponSubmenuDir);addtoDirs(FemaleShieldDir);
+addtoDirs(FemaleWeaponSubmenuDir);addtoDirs(FemaleShieldDir);addtoDirs(GoddessTypeDir);addtoDirs(GoddessDir);addtoDirs(MaleGodDir);addtoDirs(MaleGodTypeDir)
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
 
 def FilesInFolder(SourceFolder):
@@ -222,6 +225,7 @@ def FilesInFolder(SourceFolder):
 
 def FilesInFolderFullPath(SourceFolder):
     return [SourceFolder + file for file in os.listdir(SourceFolder)]
+
 def random_all_camera(x):
     return "Random"
 
@@ -235,9 +239,10 @@ def reset_all_camera_value(x):
     return 1.3
  
 
+# Functions for merging / formating  inputs in the same row into a single output  
+
 # 1 Field + slider
 def Combine_Field_With_Slider(ddFirst,slider,FirstName,FirstDir,FirstPositives,FirstNegatives,FirstResult):
-
 
     if ddFirst != "Not set":
         if ddFirst == "Random":
@@ -282,7 +287,6 @@ def Combine_Fields_With_Slider(ddFirst,ddSeccond,slider,FirstPositives,FirstNega
             FirstNegatives = GetPromptsFromFile(FirstDir,FirstName,False)
         elif ddFirst == "Random From Favs":
             FirstName = RandomFromFile(FirstDir,True)
-            print(FirstName)
             if (FirstName == []):
                 FirstName = random.choice(RandomFromFile(FirstDir,False))
             else :
@@ -364,7 +368,7 @@ def Combine_Fields_With_Slider(ddFirst,ddSeccond,slider,FirstPositives,FirstNega
    
     return FirstName, SeccondName, FirstPositives, FirstNegatives, SeccondPositives, SeccondNegatives, FirstResult, FinalResult, slider
 
-
+# Field + SubField + slider
 def Combine_SubFields_With_Slider(ddFirst,ddSeccond,slider,FirstPositives,FirstNegatives,SeccondPositives,SeccondNegatives,FirstName,SeccondName,FirstResult,FinalResult,FirstDir,SeccondDir):
          
         # Wardrobe && SubType
@@ -430,7 +434,7 @@ def Combine_SubFields_With_Slider(ddFirst,ddSeccond,slider,FirstPositives,FirstN
         return FirstName, SeccondName, FirstPositives, FirstNegatives, SeccondPositives, SeccondNegatives, FirstResult, FinalResult, slider
                 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
 
-# helper
+# helper - print final prompt
 def PrintPrompt(prompt, strength, text):
 
     FinalPrompt = ""
@@ -445,7 +449,8 @@ def PrintPrompt(prompt, strength, text):
         FinalPrompt = ""
     print(FinalPrompt)
     text = FinalPrompt
-#konvertuj dropdown u listu bez random
+
+# print dropdown values
 def ListFromDropDown(drop):
     newList = []
     defList = drop.choices
@@ -458,11 +463,13 @@ def ListFromDropDown(drop):
 
 # Values from file -> Dropdown UI element 
 def Dropdown_List_From_File(filename,y,addDefaults):
+
     PromptValues = []
     file1 = open(filename, 'r')
     Lines = file1.readlines()
     hasFavs = False
     count = 0
+
     # Strips the newline character
     for line in Lines:
         line = line.strip()
@@ -482,7 +489,9 @@ def Dropdown_List_From_File(filename,y,addDefaults):
 
     return gr.Dropdown(PromptValues, label=y, value="Not set")
 
+# Values from a subfile -> Dropdown element
 def Dropdown_List_From_SubFile(filename,subfilename,y,addDefaults):
+
     PromptValues = []
     file1 = open(filename+str(subfilename).replace("*","")+'.txt', 'r')
     Lines = file1.readlines()
@@ -507,7 +516,8 @@ def Dropdown_List_From_SubFile(filename,subfilename,y,addDefaults):
         PromptValues = ["Disabled"] + PromptValues;
     
     return gr.Dropdown(PromptValues, label=y, value=PromptValues[0], interactive = False)
-# Random Value getters 
+
+# Returns all values from a file (picks random value when called in the UI section ) 
 def RandomFromFile(filename,favourites):
     
     randomList = []
@@ -524,24 +534,7 @@ def RandomFromFile(filename,favourites):
             
     return randomList
 
-def readNegativeEmbeddings(filename):
-    values = []
-    descriptions = []
-
-    with open(filename, 'r') as file:
-        for line in file:
-            line = line.strip()
-            if line:
-                parts = line.split(':', 1)
-                value = parts[0].strip()
-                description = parts[1].strip()
-                values.append(value)
-                descriptions.append(description)
-
-    return values, descriptions
-
-
-
+# Returns all values from subfile (we pick random with choice function after calling this)
 def RandomFromSubFile(filename,subfilename,favourites):
 
     randomList = []
@@ -561,7 +554,9 @@ def RandomFromSubFile(filename,subfilename,favourites):
 
  #artists
 
-# gets positive or negative prompts from files/subfiles
+# gets positive or negative prompts from files/subfiles 
+# positive True -> positive prompts 
+# positive False -> negative prompts 
 def GetPromptsFromFile(filename,type,positive,subfilename="None"):
 
     dir = None
@@ -607,13 +602,16 @@ def GetPromptsFromFile(filename,type,positive,subfilename="None"):
                     atributes = xNew[3]
         return atributes
 
-buttons = []
 
+
+# Returns a gradio checkbox element and puts it into a global list of buttons for formating afterwards
+buttons = []
 def CheckBox(text):
     global buttons 
     button  = gr.Checkbox(value = False, label = text , scale = 2)
     buttons.append(button)
     return button
+
 
 #refresh specific dropdown 
 # TO-DO combine all into one   
@@ -957,14 +955,65 @@ def RefreshDropDown12(name):
         return gr.Dropdown.update(choices=PromptValues, value = PromptValues[0], interactive= False)
     else :
         return gr.Dropdown.update(choices=PromptValues, value = PromptValues[0], interactive= True)
-# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
 
-NegativeEmbeddingsVals1 = [] 
-NegativeEmbeddingsDesc1 = []
-NegativeEmbeddingsVals2 = [] 
-NegativeEmbeddingsDesc2 = []
-NegativeEmbeddingsVals3 = [] 
-NegativeEmbeddingsDesc3 = []
+def RefreshDropDown13(name):
+
+    PromptValues = []
+    hasFavs = False
+    file1 = open(GoddessDir+str(name).replace("*","").replace("_ ","").replace(" ","")+'.txt', 'r')
+    Lines = file1.readlines()
+    count = 0
+    # Strips the newline character
+    for line in Lines:
+        line = line.strip()
+        xNew = line.split(";")
+        if(xNew[4] == "True"):
+            hasFavs = True
+            PromptValues.append("*" + xNew[0])
+        else:
+            PromptValues.append(xNew[0])
+        count += 1
+    PromptValues = sorted(PromptValues)
+    
+    if(hasFavs):
+        PromptValues = ["Random From Favs"] + PromptValues;
+    if(count>1):
+        PromptValues = ["Not set", "Random"] + PromptValues;
+    
+    if (name == "Not set" or name == "Random"):
+        return gr.Dropdown.update(choices=PromptValues, value = PromptValues[0], interactive= False)
+    else :
+        return gr.Dropdown.update(choices=PromptValues, value = PromptValues[0], interactive= True)
+
+def RefreshDropDown14(name):
+
+    PromptValues = []
+    hasFavs = False
+    file1 = open(MaleGodDir+str(name).replace("*","").replace(" ","")+'.txt', 'r')
+    Lines = file1.readlines()
+    count = 0
+    # Strips the newline character
+    for line in Lines:
+        line = line.strip()
+        xNew = line.split(";")
+        if(xNew[4] == "True"):
+            hasFavs = True
+            PromptValues.append("*" + xNew[0])
+        else:
+            PromptValues.append(xNew[0])
+        count += 1
+    PromptValues = sorted(PromptValues)
+    
+    if(hasFavs):
+        PromptValues = ["Random From Favs"] + PromptValues;
+    if(count>1):
+        PromptValues = ["Not set", "Random"] + PromptValues;
+    
+    if (name == "Not set" or name == "Random"):
+        return gr.Dropdown.update(choices=PromptValues, value = PromptValues[0], interactive= False)
+    else :
+        return gr.Dropdown.update(choices=PromptValues, value = PromptValues[0], interactive= True)
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
 
 AlwaysBad = ""
 promptButtonText = ""
@@ -1089,25 +1138,6 @@ class Script(scripts.Script):
                     with gr.Row():
                         ckbutton24 = gr.Checkbox(value = False, label = "CyberRealistic Negative" , scale = 2)
 
-
-
-
-                   # global NegativeEmbeddingsVals1, NegativeEmbeddingsDesc1 
-                   # global NegativeEmbeddingsVals2, NegativeEmbeddingsDesc2
-                   # global NegativeEmbeddingsVals3, NegativeEmbeddingsDesc3
-
-                   # NegativeEmbeddingsVals1, NegativeEmbeddingsDesc1 = readNegativeEmbeddings(NegativeEmbeddingsCPDir)
-                   # for negative in NegativeEmbeddingsVals1 :
-                   #     CheckBox(negative)
-                    
-                   # NegativeEmbeddingsVals2, NegativeEmbeddingsDesc2 = readNegativeEmbeddings(NegativeEmbeddingsGNDir)
-                   # for negative in NegativeEmbeddingsVals2 :
-                   #     CheckBox(negative)
-                    
-                   # NegativeEmbeddingsVals3, NegativeEmbeddingsDesc3 = readNegativeEmbeddings(NegativeEmbeddingsHHDir)
-                   # for negative in NegativeEmbeddingsVals3 :
-                   #     CheckBox(negative)
-
                     
             # Style
             with gr.Column(variant = "panel"):
@@ -1124,11 +1154,11 @@ class Script(scripts.Script):
                     css = """
                     #editButton.lg.secondary.gradio-button.editButton.svelte-1ipelgc {min-width: 30px !important; max-width: 30px !important; padding: 0px !important}
                     #editButton {min-width: 30px !important; max-width: 30px !important; padding: 0px !important} """
-                    ddLightingEffect1 = Dropdown_List_From_File(LightingEffect1Dir,"Style Embedding ",True)
+                    ddStyleEmbedding = Dropdown_List_From_File(StyleEmbeddingDir,"Style Embedding ",True)
                     gr.HTML('<h1 style="display: none;">a</h1>')
                     #editButton = gr.Button('✏️',size = 'sm', max_width = '25px' , min_width = '25px', elem_id = "editButton", elem_classes = "editButton")
                     #gr.HTML('<button style="display: inline-block; width: 30px; height: 30px; background-color: #3498db; border: none; border-radius: 5px; cursor: pointer; padding: 0;"><img src="{edit_icon}" alt="Icon" style="width: 100%; height: 100%;"></button>')
-                    slLightingEffect1Strength = gr.Slider( 0, 2, value=1.0, step=0.05, show_label=False)            
+                    slStyleEmbeddingStrength = gr.Slider( 0, 2, value=1.0, step=0.05, show_label=False)            
                 #Style of 
                 with gr.Row(variant = "panel"):         
                     ddStyleGeneral   = Dropdown_List_From_File(StyleDir,"Style General",True)
@@ -1261,7 +1291,7 @@ class Script(scripts.Script):
                 resetButton.click(reset_all_camera,inputs=ddMediumType      ,outputs=ddMediumType)
                 resetButton.click(reset_all_camera,inputs=ddMediumSubType   ,outputs=ddMediumSubType)
                 resetButton.click(reset_all_camera,inputs=ddStyleLora       ,outputs=ddStyleLora)
-                resetButton.click(reset_all_camera,inputs=ddLightingEffect1 ,outputs=ddLightingEffect1)
+                resetButton.click(reset_all_camera,inputs=ddStyleEmbedding ,outputs=ddStyleEmbedding)
                 resetButton.click(reset_all_camera,inputs=ddStyleGeneral    ,outputs=ddStyleGeneral)
                 resetButton.click(reset_all_camera,inputs=ddStyleGame       ,outputs=ddStyleGame)
                 resetButton.click(reset_all_camera,inputs=ddSeason          ,outputs=ddSeason)                
@@ -1303,6 +1333,12 @@ class Script(scripts.Script):
                     ddFemaleType.change(RefreshDropDown2, ddFemaleType, ddSpecificPerson)
                     slFemaleTypeStrenght = gr.Slider(0, 2, value=1.0, step=0.05, show_label=False)
 
+            # GoddessType  / Goddess     
+                with gr.Row(variant="panel"):
+                    ddGoddessType   = Dropdown_List_From_File(GoddessTypeDir,"Goddess", True)
+                    ddGoddess       = Dropdown_List_From_SubFile(GoddessDir,ddGoddessType,"Submenu", True)
+                    ddGoddessType.change(RefreshDropDown13, ddGoddessType, ddGoddess)
+                    slGoddessStrenght = gr.Slider(0, 2, value=1.0, step=0.05, show_label=False)
             # Embedding     
                 with gr.Row(variant="panel"):
                     ddEmbedding      = Dropdown_List_From_File(EmbeddingDir,"Embedding", True)
@@ -1493,6 +1529,8 @@ class Script(scripts.Script):
             resetAllButton.click(reset_all_camera,inputs=ddContentRating,       outputs=ddContentRating)
             resetAllButton.click(reset_all_camera,inputs=ddFemaleType,          outputs=ddFemaleType)
             resetAllButton.click(reset_all_camera,inputs=ddSpecificPerson,      outputs=ddSpecificPerson)
+            resetAllButton.click(reset_all_camera,inputs=ddGoddessType,         outputs=ddGoddessType)
+            resetAllButton.click(reset_all_camera,inputs=ddGoddess,             outputs=ddGoddess)
             resetAllButton.click(reset_all_camera,inputs=ddEmbedding,           outputs=ddEmbedding)
             resetAllButton.click(reset_all_camera,inputs=ddLora,                outputs=ddLora)
             resetAllButton.click(reset_all_camera,inputs=ddOriginOrNationality, outputs=ddOriginOrNationality)
@@ -1564,6 +1602,13 @@ class Script(scripts.Script):
                     ddMaleSubType    = Dropdown_List_From_SubFile(MaleSubTypeDir,ddMaleType,"Submenu", True)
                     ddMaleType.change(RefreshDropDown5, ddMaleType, ddMaleSubType)
                     slMaleTypeStrenght = gr.Slider(0, 2, value=1.0, step=0.05, show_label=False)
+                       
+            # Male god  / Submenu     
+                with gr.Row(variant="panel"):
+                    ddMaleGodType    = Dropdown_List_From_File(MaleGodTypeDir,"God", True)
+                    ddMaleGod        = Dropdown_List_From_SubFile(MaleGodDir,ddMaleGodType,"Submenu", True)
+                    ddMaleGodType.change(RefreshDropDown14, ddMaleGodType, ddMaleGod)
+                    slMaleGodStrenght = gr.Slider(0, 2, value=1.0, step=0.05, show_label=False)
 
             # Male Embedding     
                 with gr.Row(variant="panel"):
@@ -1769,6 +1814,8 @@ class Script(scripts.Script):
             resetAllButton.click(reset_all_camera,inputs=ddMaleWeapons,outputs=ddMaleWeapons)
             resetAllButton.click(reset_all_camera,inputs=ddMaleWeaponsSub,outputs=ddMaleWeaponsSub)
             resetAllButton.click(reset_all_camera,inputs=ddMaleShield,outputs=ddMaleShield)
+            resetAllButton.click(reset_all_camera,inputs=ddMaleGodType,outputs=ddMaleGodType)
+            resetAllButton.click(reset_all_camera,inputs=ddMaleGod,outputs=ddMaleGod)
 
        ## Scene 
        #with gr.Tab("Scene"):
@@ -1860,8 +1907,8 @@ class Script(scripts.Script):
             ddMediumSubType,
             slMediumStrength,
             #ddStyleEMB,
-            ddLightingEffect1,
-            slLightingEffect1Strength,
+            ddStyleEmbedding,
+            slStyleEmbeddingStrength,
             ddStyleGeneral,
             ddStyleGame,
             slStyleGameStrength,
@@ -1928,6 +1975,9 @@ class Script(scripts.Script):
             slBeautyStrenght,
             ddFemaleType,
             ddSpecificPerson,
+            ddGoddessType,
+            ddGoddess,
+            slGoddessStrenght,
             slFemaleTypeStrenght,
             slCelebrityEmbedding,
             slOriginColorStrenght,
@@ -1993,6 +2043,9 @@ class Script(scripts.Script):
             slMaleContent,
             ddMaleType,
             ddMaleSubType,
+            ddMaleGodType,
+            ddMaleGod,
+            slMaleGodStrenght,
             slMaleTypeStrenght,
             ddMaleEmbedding,
             slMaleEmbeddingStrenght,
@@ -2097,8 +2150,8 @@ class Script(scripts.Script):
             ddMediumSubType,
             slMediumStrength,
             #ddStyleEMB,
-            ddLightingEffect1,
-            slLightingEffect1Strength,
+            ddStyleEmbedding,
+            slStyleEmbeddingStrength,
             ddStyleGeneral,
             ddStyleGame,
             slStyleGameStrength,
@@ -2165,6 +2218,9 @@ class Script(scripts.Script):
             slBeautyStrenght,
             ddFemaleType,
             ddSpecificPerson,
+            ddGoddessType,
+            ddGoddess,
+            slGoddessStrenght,
             slFemaleTypeStrenght,
             slCelebrityEmbedding,
             slOriginColorStrenght,
@@ -2230,6 +2286,9 @@ class Script(scripts.Script):
             slMaleContent,
             ddMaleType,
             ddMaleSubType,
+            ddMaleGodType,
+            ddMaleGod,
+            slMaleGodStrenght,
             slMaleTypeStrenght,
             ddMaleEmbedding,
             slMaleEmbeddingStrenght,
@@ -2313,11 +2372,6 @@ class Script(scripts.Script):
             slFemaleShield
             ):
 
-        # If it's all empty just exit function.
-        #if len(p.prompt) == 0:
-        #    print(
-        #       f"\nEmpty prompt! It helps to have at least some guidance for SD. Remember to insert an [X], [A] or [B] into main prompt if you want to use variable values.")
-        #    return
 
         # Batch lines present?
         BatchLines = [x.strip() for x in strSequentialPrompt.splitlines()]
@@ -2419,10 +2473,10 @@ class Script(scripts.Script):
                 StyleEMBNegatives = ""
                 StyleEMBResult = ""
 
-                LightingEffect1 = ""
-                LightingEffect1Positives = ""
-                LightingEffect1Negatives = ""
-                LightingEffect1Result = ""
+                StyleEmbedding = ""
+                StyleEmbeddingPositives = ""
+                StyleEmbeddingNegatives = ""
+                StyleEmbeddingResult = ""
 
                 StyleGeneral = ""
                 StyleGeneralPositives = ""
@@ -2539,6 +2593,17 @@ class Script(scripts.Script):
                 SpecificPersonPositives = ""
                 SpecificPersonNegatives = ""
                 FemaleTypeFinal = ""
+
+
+                GoddessType = ""
+                GoddessTypePositives = ""
+                GoddessTypeNegatives = ""
+                GoddessTypeResult = "" 
+                Goddess = ""
+                GoddessPositives = ""
+                GoddessNegatives = ""
+                GoddessFinal = ""
+
        
                 Embedding = ""
                 EmbeddingPositives = ""
@@ -2779,6 +2844,16 @@ class Script(scripts.Script):
                 MaleSubTypeNegatives = ""
                 MaleTypeFinal = ""
 
+
+                MaleGodType = ""
+                MaleGodTypePositives = ""
+                MaleGodTypeNegatives = ""
+                MaleGodTypeResult = "" 
+                MaleGod = ""
+                MaleGodPositives = ""
+                MaleGodNegatives = ""
+                MaleGodFinal = ""
+
                 MaleEmbedding = ""
                 MaleEmbeddingPositives = ""
                 MaleEmbeddingNegatives = ""
@@ -2972,10 +3047,6 @@ class Script(scripts.Script):
                 # General 
  
                 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=->
-                # Beautifiers && Details 
-                #result = Combine_Fields_With_Slider(ddBeautifiers,ddDetails,slBeautifierStrength,BeautifiersPositives,BeautifiersNegatives,DetailsPositives,DetailsNegatives,Beautifiers,Details,BeautifiersResult,BeautifiersDetailsFinal,BeautifiersDir,DetailsDir)
-
-                #Beautifiers,Details,BeautifiersPositives,BeautifiersNegatives,DetailsPositives,DetailsNegatives,BeautifiersResult,BeautifiersDetailsFinal,slBeautifierStrength = result
 
                 result = Combine_Field_With_Slider(ddDetails,slBeautifierStrength,Details,DetailsDir,DetailsPositives,DetailsNegatives,BeautifiersDetailsFinal)
 
@@ -2993,12 +3064,11 @@ class Script(scripts.Script):
 
                 
                 # Negatives 
+                # Read the list of negative embeddings from a file and concat if needed
                 if ddNegatives != "Not set":
                     if ddNegatives == "Random":
-                        NegativeTags = random.choice(RandomFromFile(NegativesDir,False))
-                        print(NegativeTags)
-                    else : 
-                        print(NegativeTags)
+                        NegativeTags = random.choice(RandomFromFile(NegativesDir,False)) 
+                    else :  
                         NegativeTags = ddNegatives.replace("*","")
                     if (NegativeTags == "general"):
                         NegativeTagsFinal = RandomFromFile(NegativesGeneralDir,False)
@@ -3012,49 +3082,47 @@ class Script(scripts.Script):
                         NegativeTagsFinal = RandomFromFile(NegativesGeneralDir,False)
                         NegativeTagsFinal = NegativeTagsFinal  + RandomFromFile(NegativesCharacterDir,False)
                         NegativeTagsFinal = NegativeTagsFinal  + RandomFromFile(NegativesBWDir,False)
-                    else:
-                        print("kraj")
+
 
                 # Style Lora 
-                print(" Style Lora : ")
-                print(ddStyleLora)
-                print(slStyleLoraStrength)
-                result = Combine_Field_With_Slider(ddStyleLora,slStyleLoraStrength,StyleLora,StyleDir,StyleLoraPositives,StyleLoraNegatives,StyleLoraResult)
+                # < lora : name : strenght > 
+                # [Strenght] -> slider value
+                if ddStyleLora != "Not set":
+                    if ddStyleLora == "Random":
+                        StyleLora = random.choice(RandomFromFile(StyleDir,False))
+                        if (slStyleLoraStrength == 1.0):
+                            StyleLoraResult = StyleLora.replace("*","") + " "
+                        else :
+                            # Find the last occurrence of ':'
+                            last_colon_index = StyleLora.rfind(':')
+                            StyleLoraResult = " (" + StyleLora[:last_colon_index + 1] + str(slStyleLoraStrength) + ") "
+                        StyleLoraPositives = GetPromptsFromFile(StyleDir,StyleLora,True)
+                        StyleLoraNegatives = GetPromptsFromFile(StyleDir,StyleLora,False)
+                    elif ddStyleLora == "Random From Favs":
+                        StyleLora = random.choice(RandomFromFile(StyleDir,True))
+                        if (slStyleLoraStrength == 1.0):
+                            StyleLoraResult = StyleLora.replace("*","") + " "
+                        else :
+                            last_colon_index = StyleLora.rfind(':')
+                            StyleLoraResult = " (" + StyleLora[:last_colon_index + 1] + str(slStyleLoraStrength) + ") "
+                        StyleLoraPositives = GetPromptsFromFile(StyleDir,StyleLora,True)
+                        StyleLoraNegatives = GetPromptsFromFile(StyleDir,StyleLora,False)
+                    else:
+                        StyleLora = ddStyleLora.replace("*","")
+                        StyleLoraPositives = GetPromptsFromFile(StyleDir,StyleLora,True)
+                        StyleLoraNegatives = GetPromptsFromFile(StyleDir,StyleLora,False)
+                        if (slStyleLoraStrength == 1.0):
+                            StyleLoraResult = StyleLora  + " "
+                        else :    
+                            last_colon_index = StyleLora.rfind(':')
+                            StyleLoraResult = " (" + StyleLora[:last_colon_index + 1] + str(slStyleLoraStrength) + ") "
 
-                StyleLora,StyleLoraPositives,StyleLoraNegatives,StyleLoraResult,slStyleLoraStrength = result 
 
                 # Style Embedding TO-DO promeniti ime i spojiti u Combine_Field_With_Slider
-                print(result)
-                if ddLightingEffect1 != "Not set":
-                    if ddLightingEffect1 == "Random":
-                        print("3")
-                        LightingEffect1 = random.choice(RandomFromFile(LightingEffect1Dir,False))
-                        if (slLightingEffect1Strength == 1.0):
-                            LightingEffect1Result = LightingEffect1.replace("*","")
-                        else :
-                            LightingEffect1Result = " (" + LightingEffect1.replace("*","") + ":" + str(slLightingEffect1Strength) + ") "
-                        LightingEffect1Positives = GetPromptsFromFile(LightingEffect1Dir,LightingEffect1,True)
-                        LightingEffect1Negatives = GetPromptsFromFile(LightingEffect1Dir,LightingEffect1,False)
-                    elif ddLightingEffect1 == "Random From Favs":
-                        print("2")
-                        LightingEffect1 = random.choice(RandomFromFile(LightingEffect1Dir,True))
-                        if (slLightingEffect1Strength == 1.0):
-                            LightingEffect1Result = LightingEffect1.replace("*","")
-                        else :
-                            LightingEffect1Result = " (" + LightingEffect1.replace("*","") + ":" + str(slLightingEffect1Strength) + ") "
-                        LightingEffect1Positives = GetPromptsFromFile(LightingEffect1Dir,LightingEffect1,True)
-                        LightingEffect1Negatives = GetPromptsFromFile(LightingEffect1Dir,LightingEffect1,False)
-                    else:
-                        print(ddLightingEffect1)
-                        LightingEffect1 = ddLightingEffect1.replace("*","")
-                        print("LightingEffect1(StyleEmbedding) :" +  LightingEffect1)
-                        LightingEffect1Positives = GetPromptsFromFile(LightingEffect1Dir,LightingEffect1,True)
-                        LightingEffect1Negatives = GetPromptsFromFile(LightingEffect1Dir,LightingEffect1,False)
-                        if (slLightingEffect1Strength == 1.0):
-                            LightingEffect1Result = LightingEffect1
-                            print("LightingEffect1Result(StyleEmbedding) :" +  LightingEffect1Result)
-                        else :    
-                            LightingEffect1Result =  " (" + LightingEffect1 + ":" + str(slLightingEffect1Strength) + ") " 
+
+                result = Combine_Field_With_Slider(ddStyleEmbedding,slStyleEmbeddingStrength,StyleEmbedding,StyleEmbeddingDir,StyleEmbeddingPositives,StyleEmbeddingNegatives,StyleEmbeddingResult)
+
+                StyleEmbedding,StyleEmbeddingPositives,StyleEmbeddingNegatives,StyleEmbeddingResult,slStyleEmbeddingStrength = result 
 
                 # Style 
                 result = Combine_Field_With_Slider(ddStyleGeneral,slStyleGeneralStrength,StyleGeneral,StyleDir,StyleGeneralPositives,StyleGeneralNegatives,StyleGeneralResult)
@@ -3084,14 +3152,12 @@ class Script(scripts.Script):
 
 
                 # Lighting Effect
-                print('Lighting Effect : ')
-                print(ddLightingEffect)
-                print(slLightingEffectStrength)
+ 
                 result = Combine_Field_With_Slider(ddLightingEffect,slLightingEffectStrength,LightingEffect,LightingEffectDir,LightingEffectPositives,LightingEffectNegatives,LightingEffectResult)
 
                 LightingEffect,LightingEffectPositives,LightingEffectNegatives,LightingEffectResult,slLightingEffectStrength = result 
 
-                print(result)
+     
                 # Shot Type && ShotAngle 
                 result = Combine_Fields_With_Slider(ddCameraShotType,ddCameraShotAngle,slCameraGroup1,CameraShotTypePositives,CameraShotTypeNegatives,CameraShotAnglePositives,CameraShotAngleNegatives,ShotType,ShotAngle,ShotTypeResult,CameraResult1,CameraShotTypeDir,CameraShotAngleDir)
 
@@ -3142,24 +3208,64 @@ class Script(scripts.Script):
 
                 BeautyDescriptor,BeautyDescriptorPositives,BeautyDescriptorNegatives,BeautyDescResult,slBeautyStrenght = result 
 
-
+                # Content rating 
                 result = Combine_Field_With_Slider(ddContentRating,slBeautyStrenght,ContentRating,ContentRatingDir,ContentRatingPositives,ContentRatingNegatives,ContentRatingResult)
 
                 ContentRating,ContentRatingPositives,ContentRatingNegatives,ContentRatingResult,slBeautyStrenght = result 
 
+                # Female Type 
                 result = Combine_SubFields_With_Slider(ddFemaleType,ddSpecificPerson,slFemaleTypeStrenght,FemaleTypePositives,FemaleTypeNegatives,SpecificPersonPositives,SpecificPersonNegatives,FemaleType,SpecificPerson,FemaleTypeResult,FemaleTypeFinal,FemaleTypeDir,SpecificPersonDir)
 
                 FemaleType,SpecificPerson,FemaleTypePositives,FemaleTypeNegatives,SpecificPersonPositives,SpecificPersonNegatives,FemaleTypeResult,FemaleTypeFinal,slFemaleTypeStrenght = result 
+
+                # Goddess 
+                result = Combine_SubFields_With_Slider(ddGoddessType,ddGoddess,slGoddessStrenght,GoddessTypePositives,GoddessTypeNegatives,GoddessPositives,GoddessNegatives,GoddessType,Goddess,GoddessTypeResult,GoddessFinal,GoddessTypeDir,GoddessDir)
+
+                GoddessType,Goddess,GoddessTypePositives,GoddessTypeNegatives,GoddessPositives,GoddessNegatives,GoddessTypeResult,GoddessFinal,slGoddessStrenght  = result 
+                # Formating output 
+                if Goddess != "" and GoddessType != "":
+                    if (slGoddessStrenght != 1.0):
+                        GoddessFinal = "(" + Goddess + ", " + GoddessType + ": " + str(slGoddessStrenght) + ") "
+                    else :
+                        GoddessFinal = Goddess  + ", " + GoddessType  
 
                 # Embedding 
                 result = Combine_Field_With_Slider(ddEmbedding,slCelebrityEmbedding,Embedding,EmbeddingDir,EmbeddingPositives,EmbeddingNegatives,CelebrityEmbeddingFinal)
 
                 Embedding,EmbeddingPositives,EmbeddingNegatives,CelebrityEmbeddingFinal,slCelebrityEmbedding = result
 
-                # Lora 
-                result = Combine_Field_With_Slider(ddLora,slLoraStrenght,Lora,LoraDir,LoraPositives,LoraNegatives,LoraResult)
+                # Lora  
+                # <lora : name : strenght >  
+                # [Strenght] -> slider value     
+                if ddLora != "Not set":
+                    if ddLora == "Random":
+                        Lora = random.choice(RandomFromFile(LoraDir,False))
+                        if (slLoraStrenght == 1.0):
+                            LoraResult = Lora.replace("*","") + " "
+                        else :
+                            # Find the last occurrence of ':'
+                            last_colon_index = Lora.rfind(':')
+                            LoraResult = " (" + Lora[:last_colon_index + 1] + str(slLoraStrenght) + ") "
+                        LoraNegatives = GetPromptsFromFile(LoraDir,Lora,False)
+                    elif ddLora == "Random From Favs":
+                        Lora = random.choice(RandomFromFile(LoraDir,True))
+                        if (slLoraStrenght == 1.0):
+                            LoraResult = Lora.replace("*","") + " "
+                        else :
+                            last_colon_index = Lora.rfind(':')
+                            LoraResult = " (" + Lora[:last_colon_index + 1] + str(slLoraStrenght) + ") "
+                        LoraPositives = GetPromptsFromFile(LoraDir,Lora,True)
+                        LoraNegatives = GetPromptsFromFile(LoraDir,Lora,False)
+                    else:
+                        Lora = ddLora.replace("*","")
+                        LoraPositives = GetPromptsFromFile(LoraDir,Lora,True)
+                        LoraNegatives = GetPromptsFromFile(LoraDir,Lora,False)
+                        if (slLoraStrenght == 1.0):
+                            LoraResult = Lora  + " "
+                        else :    
+                            last_colon_index = Lora.rfind(':')
+                            LoraResult = " (" + Lora[:last_colon_index + 1] + str(slLoraStrenght) + ") "
 
-                Lora,LoraPositives,LoraNegatives,LoraResult,slLoraStrenght = result 
 
                 # OriginOrNationality && Skin Color 
                 result = Combine_Fields_With_Slider(ddOriginOrNationality,ddSkinColor,slOriginColorStrenght,OriginOrNationalityPositives,OriginOrNationalityNegatives,SkinColorPositives,SkinColorNegatives,OriginOrNationality,SkinColor,OriginOrNationalityResult,OriginColorFinal,OriginOrNationalityDir,SkinColorDir)
@@ -3318,16 +3424,56 @@ class Script(scripts.Script):
                 result = Combine_SubFields_With_Slider(ddMaleType,ddMaleSubType,slMaleTypeStrenght,MaleTypePositives,MaleTypeNegatives,MaleSubTypePositives,MaleSubTypeNegatives,MaleType,MaleSubType,MaleTypeResult,MaleTypeFinal,MaleTypeDir,MaleSubTypeDir)
  
                 MaleType,MaleSubType,MaleTypePositives,MaleTypeNegatives,MaleSubTypePositives,MaleSubTypeNegatives,MaleTypeResult,MaleTypeFinal,slMaleTypeStrenght = result
+                
+                # God Type && God  
+                result = Combine_SubFields_With_Slider(ddMaleGodType,ddMaleGod,slMaleGodStrenght,MaleGodTypePositives,MaleGodTypeNegatives,MaleGodPositives,MaleGodNegatives,MaleGodType,MaleGod,MaleGodTypeResult,MaleGodFinal,MaleGodTypeDir,MaleGodDir)
 
+                MaleGodType,MaleGod,MaleGodTypePositives,MaleGodTypeNegatives,MaleGodPositives,MaleGodNegatives,MaleGodTypeResult,MaleGodFinal,slMaleGodStrenght  = result 
+                # Formating the final value
+                if MaleGod != "" and MaleGodType != "":
+                    if ( slMaleGodStrenght != 1.0):
+                        MaleGodFinal = "(" + MaleGod + ", " + MaleGodType + ": " + str(slMaleGodStrenght) + ") "
+                    else :
+                        MaleGodFinal = MaleGod + ", " + MaleGodType 
+                
                 # Embedding
                 result = Combine_Field_With_Slider(ddMaleEmbedding,slMaleEmbeddingStrenght,MaleEmbedding,MaleEmbeddingsDir,MaleEmbeddingPositives,MaleEmbeddingNegatives,MaleEmbeddingResult)
 
                 MaleEmbedding,MaleEmbeddingPositives,MaleEmbeddingNegatives,MaleEmbeddingResult,slMaleEmbeddingStrenght = result 
 
                 # Lora
-                result = Combine_Field_With_Slider(ddMaleLora,slMaleLoraStrenght,MaleLora,MaleLoraDir,MaleLoraPositives,MaleLoraNegatives,MaleLoraResult)
+                # <lora : name : strenght >  
+                # [Strenght] -> slider value
+                if ddMaleLora != "Not set":
+                    if ddMaleLora == "Random":
+                        MaleLora = random.choice(RandomFromFile(MaleLoraDir,False))
+                        if (slMaleLoraStrenght == 1.0):
+                            MaleLoraResult = MaleLora.replace("*","") + " "
+                        else :
+                            # Find the last occurrence of ':'
+                            last_colon_index = MaleLora.rfind(':')
+                            MaleLoraResult = " (" + MaleLora[:last_colon_index + 1] + str(slMaleLoraStrenght) + ") "
+                        MaleLoraPositives = GetPromptsFromFile(MaleLoraDir,MaleLora,True)
+                        MaleLoraNegatives = GetPromptsFromFile(MaleLoraDir,MaleLora,False)
+                    elif ddMaleLora == "Random From Favs":
+                        MaleLora = random.choice(RandomFromFile(MaleLoraDir,True))
+                        if (slMaleLoraStrenght == 1.0):
+                            MaleLoraResult = MaleLora.replace("*","") + " "
+                        else :
+                            last_colon_index = MaleLora.rfind(':')
+                            MaleLoraResult = " (" + MaleLora[:last_colon_index + 1] + str(slMaleLoraStrenght) + ") "
+                        MaleLoraPositives = GetPromptsFromFile(MaleLoraDir,MaleLora,True)
+                        MaleLoraNegatives = GetPromptsFromFile(MaleLoraDir,MaleLora,False)
+                    else:
+                        MaleLora = ddMaleLora.replace("*","")
+                        MaleLoraPositives = GetPromptsFromFile(MaleLoraDir,MaleLora,True)
+                        MaleLoraNegatives = GetPromptsFromFile(MaleLoraDir,MaleLora,False)
+                        if (slMaleLoraStrenght == 1.0):
+                            MaleLoraResult = MaleLora  + " "
+                        else :    
+                            last_colon_index = MaleLora.rfind(':')
+                            MaleLoraResult = " (" + MaleLora[:last_colon_index + 1] + str(slMaleLoraStrenght) + ") "
 
-                MaleLora,MaleLoraPositives,MaleLoraNegatives,MaleLoraResult,slMaleLoraStrenght = result 
 
                 # Origin && Skin Color
                 result = Combine_Fields_With_Slider(ddMaleOrigin,ddMaleSkinColor,slMaleOriginSkinStrenght,MaleOriginOrNationalityPositives,MaleOriginOrNationalityNegatives,MaleSkinColorPositives,MaleSkinColorNegatives,MaleOriginOrNationality,MaleSkinColor,MaleOriginOrNationalityResult,MaleOriginColorFinal,MaleOriginOrNationalityDir,MaleSkinColorDir)
@@ -3476,48 +3622,16 @@ class Script(scripts.Script):
 
                 print("Beautifiers : "+ Beautifiers + " Details : " + Details  +" Medium Main : " + Medium + " Medium SubType : " + MediumSub  + "HC " + HairColor + "EC " + EyeColor + " MT " + MainType + " CR1 " + CameraResult1 + " CR2 " + CameraResult2 + " CR3 " + CameraResult3)
                 print("ArtistResult " + ArtistsFinal + " AllMovements " + AllMovements + " FinalResultColor " + FinalResultColor)
+                
                 # If main prompt isn't empty...
                 
-                global NegativeEmbeddingsDesc1 , NegativeEmbeddingsVals1
                 global buttons
-
-
-                print("Negative Embedding Values List 1 : ")
-                print(NegativeEmbeddingsVals1)
-                print(" CkButton List : ")
-                print(buttons)
-
-
-                # negativeEMB[0]  button[0]  button[0].label = negativeEMB[0] print 0 + negativeDesc[0]
-                # negativeEMB[0]  button[1]  button[1].label = negativeEMB[0] print 0 + negativeDesc[0] match 
-                # negativeEMB[0]  button[2]  button[2].label = negativeEMB[0] print 0 + negativeDesc[0]
-                # negativeEMB[1]  button[0]  button[0].label = negativeEMB[1] print 1 + negativeDesc[1] match
-                # negativeEMB[1]  button[1]  button[1].label = negativeEMB[1] print 1 + negativeDesc[1]
-                # negativeEMB[1]  button[2]  button[2].label = negativeEMB[1] print 1 + negativeDesc[1] 
-                # negativeEMB[2]  button[0]  button[0].label = negativeEMB[2] print 2 + negativeDesc[2]
-                # negativeEMB[2]  button[1]  button[1].label = negativeEMB[2] print 2 + negativeDesc[2]
-                # negativeEMB[2]  button[2]  button[2].label = negativeEMB[2] print 2 + negativeDesc[2] match 
-                
-                # expected output = > 0 + negativeDesc[0]  , 1 + negativeDesc[1] , 2 + negativeDesc[2] 
-
-                # real output = > 0 + negativeDesc[0] , 0 + negativeDesc[0] , 1 + negativeDesc[1] , 1 + negativeDesc[1] , 2 + negativeDesc[2] , 2 + negativeDesc[2]
-
-
-                for el in NegativeEmbeddingsVals1 :
-                    for button in buttons :
-                        if  button.label == el :
-                            id = NegativeEmbeddingsVals1.index(el)
-                            print(id)
-                            print(NegativeEmbeddingsDesc1[id])
 
 
                 # Our main prompt composed of all the selected elements
 
+                # Negative Embeddings checkbtns logic
 
-
-
-                #if ckbutton1 == True:
-                #     NegativeEmbeddings += NegativeEmbeddings + "By bad artist -neg" + ","
                 if ckbutton2  == True:
                      NegativeEmbeddings += " bad_pictures" + ", "
                 if ckbutton3  == True:
@@ -3571,9 +3685,7 @@ class Script(scripts.Script):
                 # IF checkbox for positves is true add all positive prompts to main prompt 
                 if cbPositives == True:
 
-                    #1 TAB
-                    
-
+                    #1 TAB 
                     if  MediumPositives != "" :
                         MediumFinal             = MediumFinal + ", " + MediumPositives 
                     if MediumSubPositives != "" :
@@ -3587,8 +3699,8 @@ class Script(scripts.Script):
                     if StyleEMBPositives != "":
                         StyleEMBResult          = StyleEMBResult  + ", " + StyleEMBPositives 
 
-                    if LightingEffect1Positives != "" :
-                        LightingEffect1Result   = LightingEffect1Result + ", " + LightingEffect1Positives
+                    if StyleEmbeddingPositives != "" :
+                        StyleEmbeddingResult   = StyleEmbeddingResult + ", " + StyleEmbeddingPositives
 
                     if StyleGeneralPositives != "" : 
                         StyleFinal              = StyleFinal + ", " + StyleGeneralPositives
@@ -3656,6 +3768,11 @@ class Script(scripts.Script):
                         FemaleTypeFinal         = FemaleTypeFinal  + ", " + FemaleTypePositives
                     if SpecificPersonPositives != "": 
                         FemaleTypeFinal         = FemaleTypeFinal  + ", " + SpecificPersonPositives
+
+                    if GoddessTypePositives != "":
+                        GoddessFinal           = GoddessFinal + ", " + GoddessTypePositives
+                    if GoddessPositives != "":
+                        GoddessFinal           = GoddessFinal + ", " + GoddessPositives
 
                     if EmbeddingPositives != "" :
                         CelebrityEmbeddingFinal = CelebrityEmbeddingFinal + ", " + EmbeddingPositives
@@ -3798,6 +3915,12 @@ class Script(scripts.Script):
                     if MaleSubTypePositives != "" :
                          MaleTypeFinal        = MaleTypeFinal        + ", " + MaleSubTypePositives
 
+                    if MaleGodTypePositives != "":
+                        MaleGodFinal           = MaleGodFinal + ", " + MaleGodTypePositives
+                    if MaleGodPositives != "":
+                        MaleGodFinal           = MaleGodFinal + ", " + MaleGodPositives
+
+
                     if MaleEmbeddingPositives != "" :                        
                         MaleEmbeddingResult   = MaleEmbeddingResult   + ", " +  MaleEmbeddingPositives
 
@@ -3910,16 +4033,19 @@ class Script(scripts.Script):
                         MaleShieldFinal        = MaleShieldFinal + ", "  + MaleShieldPositives  
 
 
-                # IF dropdown menu isnt empty (something was selected) add it to our main prompt 
-
-                
-
-
+                # IF a dropdown menu has values add it to our main prompts 
+                # More important values are added first (Medium , Type , God ,Embedding, Lora , Content Rating...)
                 if MediumFinal != "":
                     MainPositive = MainPositive + ", " + MediumFinal 
                 
                 if FemaleTypeFinal != "":
                     MainPositive = MainPositive + ", " + FemaleTypeFinal
+
+                if GoddessFinal != "":
+                    MainPositive = MainPositive + ", " + GoddessFinal  
+                
+                if MaleGodFinal != "":
+                    MainPositive = MainPositive + ", " + MaleGodFinal
 
                 if CelebrityEmbeddingFinal != "":
                     MainPositive = MainPositive + ", " + CelebrityEmbeddingFinal
@@ -3942,9 +4068,10 @@ class Script(scripts.Script):
                 if MaleContentRatingResult !="":
                     MainPositive = MainPositive + ", " + MaleContentRatingResult 
 
-                
+                # After those values we add our user prompt if it exists 
                 MainPositive += ", " + TempText 
 
+                # Then we add less important values 
 
                 if FinalResultColor != "":
                     MainPositive = MainPositive + ", " + FinalResultColor               
@@ -3955,8 +4082,8 @@ class Script(scripts.Script):
                 if StyleEMBResult != "":
                     MainPositive = MainPositive + ", " + StyleEMBResult 
  
-                if LightingEffect1Result != "":
-                    MainPositive = MainPositive + ", " + LightingEffect1Result 
+                if StyleEmbeddingResult != "":
+                    MainPositive = MainPositive + ", " + StyleEmbeddingResult 
 
                 if StyleFinal != "":
                     MainPositive = MainPositive + ", " + StyleFinal
@@ -4155,16 +4282,21 @@ class Script(scripts.Script):
                     MainPositive = MainPositive + ", " + BeautifiersDetailsFinal
 
 
+                # Formating ',' if there are extras 
                 MainPositive = MainPositive.replace(",,", ",")
-                #MainNegative = copy_p.negative_prompt
+                
+
+                # User typed negative prompt
                 MainNegative = p.negative_prompt
                 
+
+                # IF cbox for negatives is checked add all negatives into our MainNegative 
                 if cbNegatives == True:
                                         
                     if NegativeEmbeddings != "":
                         MainNegative = NegativeEmbeddings 
 
-                    MainNegative += " " + p.negative_prompt 
+                    MainNegative = " " + p.negative_prompt + ", " 
 
                     if ContentRatingResult != "" and ContentRatingNegatives != "" :
                         MainNegative = MainNegative  + ContentRatingNegatives 
@@ -4197,8 +4329,8 @@ class Script(scripts.Script):
                     if StyleEMBResult != "" and StyleEMBNegatives != "":
                         MainNegative = MainNegative + "," + StyleEMBNegatives
 
-                    if LightingEffect1Result != "" and LightingEffect1Negatives != "":
-                        MainNegative = MainNegative + "," + LightingEffect1Negatives
+                    if StyleEmbeddingResult != "" and StyleEmbeddingNegatives != "":
+                        MainNegative = MainNegative + "," + StyleEmbeddingNegatives
 
                     if StyleFinal != "" and StyleGeneralNegatives != "":
                         MainNegative = MainNegative + "," + StyleGeneralNegatives
@@ -4256,8 +4388,13 @@ class Script(scripts.Script):
                     if FemaleTypeFinal != "" and SpecificPersonNegatives != "":
                         MainNegative = MainNegative + "," + SpecificPersonNegatives
 
+                    if GoddessFinal != "" and GoddessTypeNegatives != "" :
+                        MainNegative = MainNegative + "," + GoddessTypeNegatives
+                    if GoddessFinal != "" and GoddessNegatives != "":
+                        MainNegative = MainNegative + "," + GoddessNegatives
+
                     if CelebrityEmbeddingFinal != "" or EmbeddingNegatives != "":
-                        MainNegative = MainNegative + "," + EmbeddingNegatives 
+                        MainNegative = MainNegative + "," + EmbeddingNegatives
                     
                     if LoraResult != "" or LoraNegatives !="":
                         MainNegative = MainNegative + "," + LoraNegatives 
@@ -4387,6 +4524,11 @@ class Script(scripts.Script):
 
                     if MaleTypeFinal !="" and MaleTypeNegatives != "" :
                         MainNegative = MainNegative + "," + MaleTypeNegatives
+
+                    if MaleGodFinal != "" and MaleGodTypeNegatives != "" :
+                        MainNegative = MainNegative + "," + MaleGodTypeNegatives
+                    if MaleGodFinal != "" and MaleGodNegatives != "":
+                        MainNegative = MainNegative + "," + MaleGodNegatives
 
                     if MaleEmbeddingResult !="" and MaleEmbeddingNegatives != "" :
                         MainNegative = MainNegative + "," + MaleEmbeddingNegatives
@@ -4585,4 +4727,5 @@ class Script(scripts.Script):
 
         return Processed(p=p, images_list=images, seed=p.seed, all_seeds=seeds, all_prompts=prompts, info=infotexts[0],
                          infotexts=infotexts)
+
 

@@ -1,0 +1,13 @@
+Haumea;;;;False
+Hina;;;;False
+Hineteiwaiwa;;;;False
+Hine-nui-te-po;;;;False
+Kane-milohai;;;;False
+Laka;;;;False
+Moana;;;;False
+Namaka;;;;False
+Pele;;;;False
+Poli'ahu;;;;False
+Puna;;;;False
+Tutu Pele;;;;False
+Vaitere;;;;False

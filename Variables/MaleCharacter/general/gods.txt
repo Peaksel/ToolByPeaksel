@@ -1,0 +1,24 @@
+African god;;;;False
+Aztec god;;;;False
+Babylonian god;;;;False
+Celtic god;;;;False
+Chinese god;;;;False
+Egyptian god;;;;False
+Finnish god;;;;False
+Greek god;;;;False
+Hawaiian god;;;;False
+Hindu god;;;;False
+Inca god;;;;False
+Japanese god;;;;False
+Korean god;;;;False
+Mayan god;;;;False
+Native American god;;;;False
+Norse god;;;;False
+Persian god;;;;False
+Polynesian god;;;;False
+Roman god;;;;False
+Slavic god;;;;False
+Sumerian god;;;;False
+Tibetan god;;;;False
+Voodoo god;;;;False
+Yoruba god;;;;False

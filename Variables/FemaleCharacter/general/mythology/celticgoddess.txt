@@ -1,0 +1,16 @@
+Aine;;;;False
+Anu;;;;False
+Badb;;;;False
+Blodeuwedd;;;;False
+Brigid;;;;False
+Cailleach;;;;False
+Cliodhna;;;;False
+Dana;;;;False
+Epona;;;;False
+Flidais;;;;False
+Macha;;;;False
+Medb;;;;False
+The Morrigan;;;;False
+Nantosuelta;;;;False
+Rhiannon;;;;False
+Scathach;;;;False

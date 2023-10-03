@@ -1,0 +1,7 @@
+Jade Emperor;;;;False
+Guan Yu;;;;False
+Erlang Shen;;;;False
+Yu Huang;;;;False
+Nezha ;;;;False
+Xuanwu;;;;False
+Zhong Kui;;;;False

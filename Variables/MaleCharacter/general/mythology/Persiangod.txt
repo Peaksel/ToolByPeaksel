@@ -1,0 +1,8 @@
+Ahura Mazda;;;;False
+Mithra ;;;;False
+Angra Mainyu ;;;;False
+Verethragna;;;;False
+Vayu ;;;;False
+Sraosha ;;;;False
+Haoma ;;;;False
+Rashnu ;;;;False

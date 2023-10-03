@@ -1,0 +1,10 @@
+Jupiter ;;;;False
+Neptune ;;;;False
+Pluto ;;;;False
+Apollo;;;;False
+Mars ;;;;False
+Mercury ;;;;False
+Vulcan ;;;;False
+Bacchus ;;;;False
+Janus ;;;;False
+Saturn;;;;False

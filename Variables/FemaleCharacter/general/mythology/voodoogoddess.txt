@@ -1,0 +1,6 @@
+Ayida-Weddo;;;;False
+Erzulie Dantor;;;;False
+Erzulie Freda;;;;False
+La Sirene;;;;False
+Maman Brigitte;;;;False
+Simbi;;;;False

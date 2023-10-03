@@ -17,7 +17,7 @@ minimalism;;;;True
 neo-expressionism, by Anselm Kiefer, Julian Schnabel, Georg Baselitz, Jorg Immendorff;;;;False
 op art, by Victor Vasarely, Bridget Riley, Jesus Rafael Soto, Yaacov Agam;;;;False
 performance art, by Marina Abramovic, Joseph Beuys, Yoko Ono, Chris Burden;;;;False
-photomontage, by Hannah Höch, John Heartfield, Raoul Hausmann;;;;False
+photomontage, by Hannah Hoch, John Heartfield, Raoul Hausmann;;;;False
 pointillism, by Georges Seurat, Paul Signac, Vincent van Gogh, Henri-Edmond Cross;;;;False
 pop art, by Mel Ramos, Bayard Wu, Winsor McCay, Alphonse Mucha;;;;False
 realism, by Gustave Courbet, Jean-Francois Millet, Honore Daumier, Thomas Eakins;;;;False

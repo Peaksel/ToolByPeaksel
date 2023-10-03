@@ -1,0 +1,8 @@
+Kukulkan ;;;;False
+Itzamna ;;;;False
+Hunahpu ;;;;False
+Yum Kaax ;;;;False
+Ek Chuah;;;;False
+Ah Puch ;;;;False
+Chac;;;;False
+Acan;;;;False

@@ -1,0 +1,15 @@
+Brahma;;;;False
+Vishnu;;;;False
+Shiva;;;;False
+Krishna;;;;False
+Rama;;;;False
+Indra;;;;False
+Agni;;;;False
+Varuna;;;;False
+Yama;;;;False
+Kubera;;;;False
+Ganesha;;;;False
+Kartikeya;;;;False
+Hanuman;;;;False
+Dhanvantari;;;;False
+Narasimha;;;;False

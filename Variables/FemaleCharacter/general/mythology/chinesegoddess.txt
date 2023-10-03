@@ -1,0 +1,56 @@
+Baigu Jing (White-Bone Spirit);;;;False
+Bai Gu Jing;;;;False
+Bai Mudan (White Peony);;;;False
+Bai Ze;;;;False
+Baimei Niangniang (White-Eyebrowed Lady);;;;False
+Chang'e (Moon Goddess);;;;False
+Doumu (Mother of the Great Chariot);;;;False
+Eight Immortals (including Cao Guojiu, He Xian'gu, and Lan Caihe);;;;False
+Feng Po Po (Madam Wind);;;;False
+Fu Lu Shou (Three Star Goddesses of Luck);;;;False
+Guan Yin (Avalokiteshvara);;;;False
+Guo Nuwang (Goddess of Silkworms);;;;False
+Guo Shen (God of the Waters);;;;False
+He Xiangu;;;;False
+Houtu (Goddess of the Earth);;;;False
+Huang Feihu's Wife;;;;False
+Jiutian Xuannu (Mysterious Lady of the Ninth Heaven);;;;False
+Jin Chan (Golden Toad);;;;False
+Jin Shu (Golden Book);;;;False
+Jinhuang Jingniang (Golden and Yellow Concubines);;;;False
+Jinhua;;;;False
+Jingwei (Bird that Filled the Sea);;;;False
+Jiuweihu (Nine-Tailed Fox);;;;False
+Laotou Niangniang;;;;False
+Leizhulang (God of Thunder);;;;False
+Li Shou;;;;False
+Long Mu;;;;False
+Longnu (Dragon Girl);;;;False
+Luo Shen (Goddess of Marriage);;;;False
+Matsu (Mazu);;;;False
+Mazu;;;;False
+Nuwa (creator goddess);;;;False
+Nu Wa (Creator Goddess);;;;False
+Nuwa;;;;False
+Queen Mother of the West (Xi Wangmu);;;;False
+Tengshe;;;;False
+Tudi Gong (Earth God);;;;False
+Wusheng Laomu;;;;False
+Xi Wangmu (Queen Mother of the West);;;;False
+Xihe;;;;False
+Xiaoshengmu (Queen Mother of the West);;;;False
+Yao Bikuni (Monk Yao);;;;False
+Yao Ji (Goddess of the Yao People);;;;False
+Yaoji;;;;False
+Yexian (Wild Immortals);;;;False
+Yuren (Fish Basket Woman);;;;False
+Yuxu (Jade Virtue);;;;False
+Yutu (Jade Rabbit);;;;False
+Yu Nu;;;;False
+Yuyan Jing (Fish Basket Scripture);;;;False
+Yuyanshengmu (Queen Mother of the Jade Pool);;;;False
+Zao Jun (Kitchen God);;;;False
+Zhinu (Weaver Girl);;;;False
+Zhi Nu (Loom Goddess);;;;False
+Zhi Nu (Weaver Girl);;;;False
+Zhong Kui's Sister;;;;False

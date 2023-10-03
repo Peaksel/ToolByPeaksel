@@ -1,0 +1,8 @@
+Hwanung;;;;False
+Dangun ;;;;False
+Jumong;;;;False
+Chilseong ;;;;False
+Sansin;;;;False
+Yongwang ;;;;False
+Seowangmo;;;;False
+Dokkaebi;;;;Fals

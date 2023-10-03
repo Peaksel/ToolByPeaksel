@@ -1,0 +1,7 @@
+Marduk;;;;False
+Enlil;;;;False
+Ea ;;;;False
+Shamash;;;;False
+Nergal;;;;False
+Ninurta;;;;False
+Adad;;;;False

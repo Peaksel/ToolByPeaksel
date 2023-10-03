@@ -1,0 +1,65 @@
+Aphrodite;;;;False
+Arachne;;;;False
+Artemis;;;;False
+Atalanta;;;;False
+Atropos;;;;False
+Cassiopeia;;;;False
+Ceto;;;;False
+Circe;;;;False
+Danae;;;;False
+Doris;;;;False
+Echo;;;;False
+Echidna;;;;False
+Electra;;;;False
+Eileithyia;;;;False
+Empusa;;;;False
+Enyo;;;;False
+Eos;;;;False
+Ephrosyne;;;;False
+Eris;;;;False
+Euryale;;;;False
+Gaia;;;;False
+Harmonia;;;;False
+Hecate;;;;False
+Helen;;;;False
+Helen of Troy;;;;False
+Hera;;;;False
+Hesperides;;;;False
+Hygieia;;;;False
+Hypermnestra;;;;False
+Io;;;;False
+Khione;;;;False
+Lachesis;;;;False
+Lamia;;;;False
+Leda;;;;False
+Leto;;;;False
+Meliae;;;;False
+Menoetius;;;;False
+Metis;;;;False
+Mnemosyne;;;;False
+Nemesis;;;;False
+Nike;;;;False
+Nyx;;;;False
+Pandora;;;;False
+Pasiphaë;;;;False
+Peleia;;;;False
+Penelope;;;;False
+Persephone;;;;False
+Polyhymnia;;;;False
+Polyxena;;;;False
+Selene;;;;False
+Styx;;;;False
+Thalia;;;;False
+The Furies (Erinyes);;;;False
+The Graces (Charites);;;;False
+The Horae (Hours);;;;False
+The Hyades;;;;False
+The Muses;;;;False
+The Moirai (Fates);;;;False
+The Nereids;;;;False
+The Pleiades;;;;False
+The Sirens;;;;False
+The Sphinx;;;;False
+Themis;;;;False
+Thetis;;;;False
+Tyche;;;;False

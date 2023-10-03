@@ -1,0 +1,7 @@
+Viracocha;;;;False
+Inti ;;;;False
+Pachacamac;;;;False
+Illapa ;;;;False
+Wiracocha ;;;;False
+Manco Capac;;;;False
+Catequil ;;;;False

@@ -1,0 +1,6 @@
+Manitou ;;;;False
+Coyote ;;;;False
+Glooscap ;;;;False
+Nanabozho ;;;;False
+Iktomi ;;;;False
+Thunderbird;;;;False

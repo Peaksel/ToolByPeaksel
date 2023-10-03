@@ -1,0 +1,16 @@
+Apsara;;;;False
+Dakini;;;;False
+Hariti;;;;False
+Kinnari;;;;False
+Kuan Yin;;;;False
+Lhamo;;;;False
+Mara;;;;False
+Palden Lhamo;;;;False
+Quan Yin;;;;False
+Saraswati;;;;False
+Simhavaktra Dakini;;;;False
+Tara;;;;False
+Ushnishavijaya;;;;False
+Ushnisha Vijaya;;;;False
+Vajrayogini;;;;False
+Vasudhara;;;;False

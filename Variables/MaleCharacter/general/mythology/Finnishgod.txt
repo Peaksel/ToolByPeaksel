@@ -1,0 +1,3 @@
+Ukko;;;;False
+Ilmarinen;;;;False
+Vainamoinen;;;;False

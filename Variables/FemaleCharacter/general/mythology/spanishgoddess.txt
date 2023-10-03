@@ -1,0 +1,8 @@
+Encantadas;;;;False
+Enchanted Maidens;;;;False
+Dama de Elche;;;;False
+The Lady of Elche;;;;False
+Mari;;;;False
+Alicanto;;;;False
+Sirena;;;;False
+Trenti;;;;False

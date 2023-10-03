@@ -1,0 +1,29 @@
+Achilles;;;;False
+Apollo;;;;False
+Ares;;;;False
+Aristaeus;;;;False
+Asclepius;;;;False
+Boreas;;;;False
+Dionysus;;;;False
+Erebos;;;;False
+Eros;;;;False
+Hades;;;;False
+Hephaestus;;;;False
+Heracles;;;;False
+Hermes;;;;False
+Hymenaios ;;;;False
+Moros ;;;;False
+Morpheus;;;;False
+Odysseus;;;;False
+Orpheus;;;;False
+Pallas;;;;False
+Pan;;;;False
+Perseus;;;;False
+Phoebus ;;;;False
+Plutus;;;;False
+Poseidon;;;;False
+Priapus;;;;False
+Theseus;;;;False
+Triton;;;;False
+Zeus;;;;False
+Zephyrus;;;;False

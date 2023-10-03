@@ -1,0 +1,10 @@
+Izanagi-no-Mikoto;;;;False
+Amaterasu-Omikami;;;;False
+Susanoo-no-Mikoto;;;;False
+Tsukuyomi-no-Mikoto;;;;False
+Raijin;;;;False
+Fujin ;;;;False
+Inari Okami ;;;;False
+Hachiman ;;;;False
+Ebisu ;;;;False
+Daikoku;;;;False

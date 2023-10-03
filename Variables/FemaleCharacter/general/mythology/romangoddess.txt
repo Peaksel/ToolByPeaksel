@@ -1,0 +1,80 @@
+Abundantia;;;;False
+Acca Larentia;;;;False
+Adeona;;;;False
+Adicia;;;;False
+Aegle;;;;False
+Aequitas;;;;False
+Aestas;;;;False
+Aestuo;;;;False
+Anna Perenna;;;;False
+Aurora;;;;False
+Bellona;;;;False
+Bona Dea;;;;False
+Bubona;;;;False
+Camenae;;;;False
+Cardea;;;;False
+Carmenta;;;;False
+Ceres;;;;False
+Clementia;;;;False
+Cloacina;;;;False
+Concordia;;;;False
+Cura;;;;False
+Cybele;;;;False
+Dea Tacita;;;;False
+Dea Dia;;;;False
+Devera;;;;False
+Dia;;;;False
+Discordia;;;;False
+Egeria;;;;False
+Fama;;;;False
+Fata;;;;False
+Fauna;;;;False
+Faunus;;;;False
+Felicitas;;;;False
+Flora;;;;False
+Fortuna;;;;False
+Furrina;;;;False
+Gaudia;;;;False
+Hecate;;;;False
+Hera;;;;False
+Hespera;;;;False
+Hesperia;;;;False
+Hora;;;;False
+Invidia;;;;False
+Iuno;;;;False
+Iustitia;;;;False
+Jana;;;;False
+Juno;;;;False
+Juturna;;;;False
+Juventas;;;;False
+Justitia;;;;False
+Larenta;;;;False
+Laverna;;;;False
+Luna;;;;False
+Mater Matuta;;;;False
+Mellona;;;;False
+Minerva;;;;False
+Muta;;;;False
+Nemesis;;;;False
+Nona;;;;False
+Ops;;;;False
+Pales;;;;False
+Pax;;;;False
+Phoebe;;;;False;;;;
+Pomona;;;;False
+Proserpina;;;;False
+Quiritis;;;;False
+Rhea Silvia;;;;False
+Rumina;;;;False
+Salacia;;;;False
+Satis;;;;False
+Securitas;;;;False
+Stata Mater;;;;False
+Terra Mater;;;;False
+Trivia;;;;False
+Unxia;;;;False
+Venus;;;;False
+Vesta;;;;False
+Victoria;;;;False
+Viriplaca;;;;False
+Virites;;;;False

@@ -1,0 +1,8 @@
+Ra;;;;False
+Osiris;;;;False
+Horus;;;;False
+Set;;;;False
+Thoth;;;;False
+Ptah;;;;False
+Anubis;;;;False
+Amun;;;;False

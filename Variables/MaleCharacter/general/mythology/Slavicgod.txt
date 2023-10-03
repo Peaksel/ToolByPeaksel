@@ -1,0 +1,10 @@
+Perun ;;;;False
+Dazhbog;;;;False
+Svarog ;;;;False
+Veles ;;;;False
+Jarilo;;;;False
+Triglav;;;;False
+Domovoi ;;;;False
+Belobog ;;;;False
+Chernobog ;;;;False
+Stribog ;;;;False

@@ -1,0 +1,8 @@
+Avalokiteshvara ;;;;False
+Manjushri ;;;;False
+Vajrapani;;;;False
+Yamantaka;;;;False
+Vajrasattva ;;;;False
+Mahakala ;;;;False
+Padmasambhava ;;;;False
+Gesar ;;;;False

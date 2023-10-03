@@ -1,77 +1,179 @@
-aetherpunk style;;;;False
-astropunk style;;;;False
-atompunk style;;;;True
-biopunk style;;;;False
-clockpunk style;;;;False
-cyberpunk style;;;;True
-dieselpunk style;;;;False
-frostpunk style;;;;False
-ironpunk style;;;;False
-necropunk style;;;;False
-punk style;;;;False
-solarpunk style;;;;False
-steampunk style;;;;True
-technopunk style;;;;False
-teslapunk style;;;;False
-westernpunk style;;;;False
-50s style;;;;False
-60s style;;;;True
-70s style;;;;False
-80s style;;;;False
-90s style;;;;False
-abstractionism style;;;;False
-art deco style;;;;False
-art nouveau style;;;;False
-baroque style;;;;true
-bauhaus style;;;;False
-chiaroscuro style;;;;False
-constructivism style;;;;False
-cubism style;;;;False
-dadaism style;;;;False
-dark synth style;;;;False
-divisionism style;;;;False
-expressionism style;;;;False
-fantasy style;;;;True
-fauvism style;;;;False
-figurativism style;;;;False
-fresco art style;;;;False
-funk art style;;;;False
-gothic style;;;;True
-grunge style;;;;False
-grotesque style;;;;False
-grimdark style;;;;False
-horror style;;;;True
-impressionism style;;;;False
-letterism style;;;;False
-mannerism style;;;;False
-maximalism style;;;;False
-medieval style;;;;False
-minimalism style;;;;False
-modernism style;;;;False
-naive art style;;;;False
-naivism style;;;;False
-neo-impressionism style;;;;False
-op art style;;;;False
-orphism style;;;;False
-pin-up style;;;;False
-pop art style;;;;False
-postimpressionism style;;;;False
-postmodernism style;;;;False
-primitivism style;;;;False
-psychedelic art style;;;;False
-pulp art style;;;;False
-renaissance style;;;;False
-retrofuturism style;;;;True
-retrowave style;;;;False
-rococo style;;;;False
-sci-fi style;;;;False
-socialism art style;;;;False
-soviet art style;;;;True
-sovietwave style;;;;False
-surrealism style;;;;False
-synthwave style;;;;False
-tenebrism style;;;;False
-vaporwave style;;;;False
-victorian style;;;;False
-vorticism style;;;;False
-whimsical style;;;;False
+50s style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+60s style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+70s style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+80s style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+90s style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Academia ;;High contrast, minimalistic, colorful, stark, dramatic, expressionism;;False
+Action figure ;;Plastic collectable action figure, collectable toy action figure;;False
+Adorable 3D character ;;3D render, adorable character, 3D art;;False
+Adorable kawaii ;;Pretty, cute, adorable, kawaii;;False
+Advertising poster style ;;Professional, modern, product-focused, commercial, eye-catching, highly detailed;;False
+Aerial view ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Alien-themed ;;Extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed;;False
+Analog film photo ;;Faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome. Lomography, stained, highly detailed, found footage;;False
+Anime artwork ;;Anime style, key visual, vibrant, studio anime, highly detailed;;False
+Architectural style ;;Clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed;;False
+Art deco ;;Geometric shapes, bold colors, luxurious, elegant, decorative, symmetrical, ornate, detailed;;False
+Art nouveau art ;;Sleek, organic forms, long, sinuous, art nouveau style;;False
+Astral aura ;;Astral, colorful aura, vibrant energy;;False
+Astropunk style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Atompunk style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Avant-garde ;;Unusual, experimental, avant-garde art;;False
+Baroque style ;;Dramatic, exuberant, grandeur, baroque art;;False
+Bauhaus-style poster ;;Simple geometric shapes, clean lines, primary colors, Bauhaus-Style Poster;;False
+Biomechanical cyberpunk ;;Cybernetics, human-machine fusion, dystopian, organic meets artificial, dark, intricate;;False
+Biomechanical style ;;Blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate;;False
+Blueprint schematic drawing ;;Technical drawing, blueprint, schematic;;False
+Bubble bobble style ;;8-bit, cute, pixelated, fantasy, vibrant, reminiscent of Bubble Bobble game;;False
+Caricature ;;Exaggerated, comical, caricature;;False
+Cel shaded art ;;2D, flat color, toon shading, cel shaded style;;False
+Character design sheet ;;Character reference sheet, character turn around;;False
+Chiaroscuro style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Cinematics ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Cinematic film still ;;Shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, epic, gorgeous;;False
+Cinematic photograph ;;UHD, 4k, ultra detailed, epic, inspiring, beautiful lighting, artistic composition;;False
+Classicism art ;;Inspired by Roman and Greek culture, clarity, harmonious, classicism art;;False
+Collage style ;;Mixed media, layered, textural, detailed, artistic;;False
+Color field painting ;;Abstract, simple, geometric, color field painting style;;False
+Colored pencil art ;;Colored pencil strokes, light color, visible paper texture, colored pencil art;;False
+Comic book art ;;Comic art, graphic novel illustration;;False
+Conceptual art ;;Reference illustration, concept art;;False
+Constructivism art ;;Minimalistic, geometric forms, constructivism art;;False
+Constructivist style ;;Geometric shapes, bold colors, dynamic composition, propaganda art style;;False
+Cybernetic robot ;;Android, AI, machine, metal, wires, tech, futuristic, highly detailed;;False
+Cybernetic style ;;Futuristic, technological, cybernetic enhancements, robotics, artificial intelligence themes;;False
+Cyberpunk cityscape ;;Neon lights, dark alleys, skyscrapers, futuristic, vibrant colors, high contrast, highly detailed;;False
+Cyberpunk style ;;Neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of cyberpunk genre;;False
+DMT art style ;;Bright colors, surreal visuals, swirling patterns, DMT art style;;False
+Dadaism art ;;Satirical, nonsensical, dadaism art;;False
+Dark fantasy art ;;Dark, moody, dark fantasy style;;False
+Dark moody atmosphere ;;Dramatic, mysterious, dark moody atmosphere;;False
+Digital art ;;Concept art, illustrative, painterly, matte painting, highly detailed, digital art;;False
+Disco-themed ;;Vibrant, groovy, retro 70s style, shiny disco balls, neon lights, dance floor, highly detailed;;False
+Divisionism style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Doodle art style ;;Drawing, freeform, swirling patterns, doodle art style;;False
+Double exposure photography ;;Double image ghost effect, image combination, double exposure style;;False
+Dreamscape ;;Surreal, ethereal, dreamy, mysterious, fantasy, highly detailed;;False
+Dripping paint splatter art ;;Dramatic, paint drips, splatters, dripping paint;;False
+Dystopian style ;;Bleak, post-apocalyptic, somber, dramatic, highly detailed;;False
+Enhanced ;;Breathtaking, award-winning, professional, highly detailed;;False
+Expressionism art style ;;Movement, contrast, emotional, exaggerated forms, expressionism art style;;False
+Expressionism ;;Raw, emotional, dynamic, distortion for emotional effect, vibrant, use unusual colors, detailed;;False
+Faded polaroid photo ;;Analog, old faded photo, old polaroid;;False
+Fairy tale ;;Magical, fantastical, enchanting, storybook style, highly detailed;;False
+Fantasy art ;;Ethereal fantasy concept art, magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy;;False
+Fauvism art ;;Painterly, bold colors, textured brushwork, fauvism art;;False
+Fighting game style ;;Dynamic, vibrant, action-packed, detailed character design, reminiscent of fighting video games;;False
+Film noir style ;;Monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic;;False
+Flat 2D art ;;Simple flat color, 2-dimensional, Flat 2D Art Style;;False
+Flat papercut style ;;Papercut art, Silhouette, clean cuts, paper, sharp edges, minimalist, color block;;False
+Food photography style ;;Appetizing, professional, culinary, high-resolution, commercial, highly detailed;;False
+Fortnite art style ;;3D cartoon, colorful, Fortnite Art Style;;False
+Futurism art style ;;Dynamic, dramatic, Futurism Art Style;;False
+Futuristic style ;;Sleek, modern, ultramodern, high tech, detailed;;False
+Futuristic sci-fi style ;;Futuristic, technological, alien worlds, space themes, advanced civilizations;;False
+GTA style art ;;Satirical, exaggerated, GTA art style, vibrant colors, iconic characters, action-packed;;False
+Glamorous photo ;;High fashion, luxurious, extravagant, stylish, sensual, opulent, elegance, stunning beauty, professional, high contrast, detailed;;False
+Glitchcore art style ;;Dynamic, dramatic, distorted, vibrant colors, glitchcore art style;;False
+Glo-fi art style ;;Dynamic, dramatic, vibrant colors, glo-fi art style;;False
+Googie art style ;;Dynamic, dramatic, 1950's futurism, bold boomerang angles, Googie art style;;False
+Gothic style ;;Dark, mysterious, haunting, dramatic, ornate, detailed;;False
+Graffiti art ;;Street art, vibrant, urban, detailed, tag, mural;;False
+Grunge style ;;Textured, distressed, vintage, edgy, punk rock vibe, dirty, noisy;;False
+Grotesque style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Grimdark style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+HDR photo ;;High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed;;False
+Harlem Renaissance art style ;;Dynamic, dramatic, 1920s African American culture, Harlem Renaissance art style;;False
+High fashion ;;Dynamic, dramatic, haute couture, elegant, ornate clothing, High Fashion;;False
+Horror-themed ;;Eerie, unsettling, dark, spooky, suspenseful, grim, highly detailed;;False
+Hyperrealistic ;;Extremely high-resolution details, photographic, realism pushed to extreme, fine texture, incredibly lifelike;;False
+Idyllic ;;Peaceful, happy, pleasant, happy, harmonious, picturesque, charming;;False
+Impressionism art ;;Painterly, small brushstrokes, visible brushstrokes, impressionistic style;;False
+Impressionist painting ;;Loose brushwork, vibrant color, light and shadow play, captures feeling over form;;False
+Infographic drawing ;;Diagram, infographic;;False
+Ink dripping drawing ;;Ink drawing, dripping ink;;False
+Isometric style ;;Vibrant, beautiful, crisp, detailed, ultra detailed, intricate, isometric style;;False
+Japanese style ink drawing ;;Ink drawing, ink-wash, Japanese Style Ink Drawing;;False
+Kawaii style ;;Cute, adorable, brightly colored, cheerful, anime influence, highly detailed;;False
+Kirigami representation ;;3D, paper folding, paper cutting, Japanese, intricate, symmetrical, precision, clean lines;;False
+Knolling photography ;;Flat lay photography, object arrangement, knolling photography;;False
+Legend of Zelda style art ;;Vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series;;False
+Light cheery atmosphere ;;Happy, joyful, cheerful, carefree, gleeful, lighthearted, pleasant atmosphere;;False
+Line art drawing ;;Professional, sleek, modern, minimalist, graphic, line art, vector graphics;;False
+Logo design ;;Dynamic graphic art, vector art, minimalist, professional logo design;;False
+Long exposure photo ;;Blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed;;False
+Lovecraftian horror ;;Eldritch, cosmic horror, unknown, mysterious, surreal, highly detailed;;False
+Low-poly style ;;Low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition;;False
+Luxurious elegance ;;Extravagant, ornate, designer, opulent, picturesque, lavish;;False
+Macabre style ;;Dark, gothic, grim, haunting, highly detailed;;False
+Macro photography ;;Macro photograph, close-up, macro 100mm, macro photography;;False
+Mandala style art ;;Complex, circular design, mandala art;;False
+Manga style art ;;Vibrant, high-energy, detailed, iconic, Japanese comic style, manga;;False
+Marker drawing ;;Bold marker lines, visible paper texture, marker drawing;;False
+Medievalism ;;Medieval art, inspired by The Middle Ages, medieval art, elaborate patterns and decoration, Medievalism;;False
+Metropolis-themed ;;Urban, cityscape, skyscrapers, modern, futuristic, highly detailed;;False
+Minecraft style art ;;Blocky, pixelated, vibrant colors, recognizable characters and objects, game assets, Minecraft style;;False
+Minimalism art ;;Abstract, simple geometric shapes, hard edges, sleek contours, Minimalism;;False
+Minimalist ;;Simple, clean, uncluttered, modern, elegant;;False
+Monochrome ;;Contrast, tone, texture, detailed, Monochromatic;;False
+Nautical-themed ;;Sea, ocean, ships, maritime, beach, marine life, highly detailed;;False
+Neo-baroque ;;Ornate and elaborate, dynamic, Neo-Baroque;;False
+Neo-byzantine ;;Grand decorative religious style, Orthodox Christian inspired, Neo-Byzantine;;False
+Neo-futurism ;;High-tech, curves, spirals, flowing lines, idealistic future, Neo-Futurism;;False
+Neo-impressionism ;;Tiny dabs of color, Pointillism, painterly, Neo-Impressionism;;False
+Neo-rococo ;;Curved forms, naturalistic ornamentation, elaborate, decorative, gaudy, Neo-Rococo;;False
+Neoclassicism ;;Ancient Rome and Greece inspired, idyllic, sober colors, Neoclassicism;;False
+Neon noir ;;Cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed;;False
+Neonpunk style ;;Cyberpunk, vaporwave, neon, 80s aesthetic, futuristic, high contrast, vibrant, highly detailed;;False
+Op art ;;Optical illusion, geometric shapes, black and white, Op Art;;False
+Origami style ;;3D, paper folding, origami, intricate, precision, clean lines;;False
+Ornate and intricate ;;Highly detailed, decorative, ornate, intricate;;False
+Paper mache representation ;;3D, sculpted, paper mache, craft, intricate, textured, detailed;;False
+Paper quilling art ;;3D, sculpted, paper quilling, craft, intricate, textured, detailed;;False
+Papercut collage ;;3D, sculpted, paper cut, craft, intricate, textured, detailed;;False
+Papercut shadow box ;;3D, sculpted, paper cut, craft, intricate, textured, detailed;;False
+Pencil sketch drawing ;;Sketch, black and white, traditional, pencil drawing;;False
+Photographic ;;Realistic, highly detailed, photographic;;False
+Pixel-art ;;Pixelated, retro, video game, blocky, pixel art;;False
+Pointillism style painting ;;Tiny dots of color, stippling, detailed, pointillism style painting;;False
+Pokémon style art ;;Vibrant, recognizable Pokémon characters, iconic, Pokémon style art;;False
+Pop art style ;;Vibrant, colorful, iconic, comic book style, pop art;;False
+Pop art ;;Comic book, bright colors, bold outlines, iconic, pop culture, detailed;;False
+Psychedelic style ;;Vibrant, colorful, abstract, trippy, psychedelic style;;False
+Role-playing game (RPG) style fantasy ;;Fantasy, epic, heroic, character-focused, RPG style fantasy;;False
+Real estate photography style ;;High-end, professional, interior design, architectural, real estate photography;;False
+Renaissance style ;;Ornate, detailed, historic, Renaissance style;;False
+Retro arcade style ;;Pixelated, vibrant colors, old-school video games, retro arcade style;;False
+Retro cyberpunk ;;Cyberpunk, vintage, nostalgic, retro-futuristic, detailed;;False
+Retro game art ;;Pixelated, vintage, old-school video games, retro game art;;False
+Retro-futurism ;;Vintage, futuristic, optimistic, retro-futuristic style;;False
+Rococo ;;Ornate, elegant, decorative, playful, lavish, detailed;;False
+Silhouette style ;;Simple, minimalistic, stark contrast, silhouette style;;False
+Silhouette art ;;Detailed, black and white, contrast, silhouette art;;False
+Simple vector art ;;Flat, basic shapes, clean lines, minimalistic, simple vector art;;False
+Sketchup ;;3D modeling, architectural, clean lines, SketchUp;;False
+Space-themed ;;Galaxy, stars, planets, sci-fi, space exploration, highly detailed;;False
+Stacked papercut art ;;3D, sculpted, paper cut, craft, intricate, textured, detailed;;False
+Stained glass style ;;Vibrant colors, intricate patterns, light and shadow play, stained glass style;;False
+Steampunk style ;;Victorian era, industrial, gears, steam, retro-futuristic, highly detailed;;False
+Strategy game style ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False
+Street Fighter style 2D art ;;Vibrant, iconic characters, dynamic, action-packed, reminiscent of Street Fighter video game;;False
+Super Mario style art ;;Iconic, colorful, whimsical, Super Mario style art;;False
+Suprematism ;;Geometric shapes, abstract, suprematism;;False
+Surrealism ;;Dreamlike, surreal, whimsical, bizarre, detailed;;False
+Surrealist art ;;Dreamlike, surreal, whimsical, bizarre, detailed, surreal art;;False
+Techwear fashion ;;Futuristic, high-tech, stylish, sleek, cyberpunk, techwear fashion;;False
+Terragen ;;3D landscape, natural, realistic, highly detailed, Terragen;;False
+Texture asset ;;Realistic, textured, detailed, texture asset;;False
+Thick layered papercut art ;;3D, sculpted, paper cut, craft, intricate, textured, detailed;;False
+Tranquil relaxing atmosphere ;;Peaceful, calming, tranquil, relaxing atmosphere.;;False
+Tribal style ;;Ethnic, tribal art, intricate patterns, detailed, tribal style.;;False
+Typographic art ;;Text, letters, typography, typographic art.;;False
+Vaporwave style ;;Retro, nostalgic, 80s and 90s aesthetics, vibrant colors, dreamy, surreal, vaporwave style.;;False
+Vibrant rim light ;;Highlights, vibrant colors, vivid, rim light, highly detailed.;;False
+Volumetric lighting ;;Dramatic, cinematic, atmospheric, volumetric lighting.;;False
+Watercolor painting ;;Watercolor, painterly, washes of color, detailed, watercolor painting.;;False
+Watercolor style painting ;;Watercolor, painterly, washes of color, detailed, watercolor style painting.;;False
+Whimsical and playful ;;Cheerful, lighthearted, quirky, whimsical, playful, detailed, high energy.;;False
+Wild west style ;;Western, rustic, rugged, desert, cowboy, detailed.;;False
+Zentangle ;;Intricate, abstract, monochrome, patterns, meditative, highly detailed;;False

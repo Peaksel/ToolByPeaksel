@@ -1,0 +1,7 @@
+Cernunnos;;;;False
+Lugh;;;;False
+Nuada;;;;False
+Dagda;;;;False
+Belenus;;;;False
+Taranis;;;;False
+Sucellus;;;;False

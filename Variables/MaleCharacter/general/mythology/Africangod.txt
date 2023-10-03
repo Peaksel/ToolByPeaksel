@@ -1,0 +1,8 @@
+Olorun;;;;False
+Nyame;;;;False
+Anansi;;;;False
+Shango;;;;False
+Osun;;;;False
+Legba ;;;;False
+Damballa;;;;False
+Amadioha;;;;False

@@ -1,0 +1,4 @@
+Kane;;;;False
+Lono;;;;False
+Ku ;;;;False
+Kanaloa;;;;False

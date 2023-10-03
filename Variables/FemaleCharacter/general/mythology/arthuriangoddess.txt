@@ -1,0 +1,6 @@
+Guinevere;;;;False
+Morgan le Fay;;;;False
+Lady of the Lake;;;;False
+Elaine of Astolat;;;;False
+The Lady of Shalott;;;;False
+Nimue;;;;False

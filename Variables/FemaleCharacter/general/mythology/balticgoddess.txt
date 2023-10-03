@@ -1,0 +1,7 @@
+Austeja;;;;False
+Dalia;;;;False
+Debesu Labdari;;;;False
+Laima;;;;False
+Medeina;;;;False
+Saule;;;;False
+Zemyna;;;;False
