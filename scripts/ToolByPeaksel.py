@@ -613,7 +613,7 @@ def CheckBox(text):
     return button
 
 
-#refresh specific dropdown 
+#refresh specific dropdown menu 
 # TO-DO combine all into one   
 def RefreshDropDown(name):
     PromptValues = []
@@ -2468,11 +2468,6 @@ class Script(scripts.Script):
                 StyleLoraNegatives = ""
                 StyleLoraResult = ""
 
-                StyleEMB = ""
-                StyleEMBPositives = ""
-                StyleEMBNegatives = ""
-                StyleEMBResult = ""
-
                 StyleEmbedding = ""
                 StyleEmbeddingPositives = ""
                 StyleEmbeddingNegatives = ""
@@ -3696,8 +3691,8 @@ class Script(scripts.Script):
 
                     if StyleLoraPositives != "" :
                         StyleLoraResult         = StyleLoraResult + ", " + StyleLoraPositives
-                    if StyleEMBPositives != "":
-                        StyleEMBResult          = StyleEMBResult  + ", " + StyleEMBPositives 
+                    if StyleEmbedding != "":
+                        StyleEmbeddingResult          = StyleEmbeddingResult  + ", " + StyleEmbedding 
 
                     if StyleEmbeddingPositives != "" :
                         StyleEmbeddingResult   = StyleEmbeddingResult + ", " + StyleEmbeddingPositives
@@ -4079,9 +4074,6 @@ class Script(scripts.Script):
                 if StyleLoraResult != "":
                     MainPositive = MainPositive + ", " + StyleLoraResult
 
-                if StyleEMBResult != "":
-                    MainPositive = MainPositive + ", " + StyleEMBResult 
- 
                 if StyleEmbeddingResult != "":
                     MainPositive = MainPositive + ", " + StyleEmbeddingResult 
 
@@ -4326,11 +4318,9 @@ class Script(scripts.Script):
                     if StyleLoraResult != "" and StyleLoraNegatives != "" :
                         MainNegative = MainNegative + "," + StyleLoraNegatives
 
-                    if StyleEMBResult != "" and StyleEMBNegatives != "":
-                        MainNegative = MainNegative + "," + StyleEMBNegatives
-
                     if StyleEmbeddingResult != "" and StyleEmbeddingNegatives != "":
                         MainNegative = MainNegative + "," + StyleEmbeddingNegatives
+
 
                     if StyleFinal != "" and StyleGeneralNegatives != "":
                         MainNegative = MainNegative + "," + StyleGeneralNegatives

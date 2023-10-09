@@ -16,4 +16,4 @@ Roman goddess;;;;False
 Slavic goddess;;;;False
 Spanish goddess;;;;False
 Voodoo goddess;;;;False
-Yoruba goddess;;;;False
+Yoruban goddess;;;;False

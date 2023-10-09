@@ -1,0 +1,8 @@
+Obatala;;;;False
+Ogun ;;;;False
+Sango ;;;;False
+Orunmila ;;;;False
+Osiris ;;;;False
+Osanyin ;;;;False
+Olokun ;;;;False
+Eshu ;;;;False

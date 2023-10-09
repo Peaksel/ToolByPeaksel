@@ -1,13 +1,15 @@
 adelegrisoni;;;;True
-amandabreden;;;;False
+amandabreden;;;;True
 anastasiyakvitko;;;;True
+anja;;;;True
 alenastar;;;;True
 antjeutgaard;;;;False
 chefk1ki;;;;False
 coconutkitty;;;;False
 danahamm;;;;True
+annalisa;;;;True
 elisa;;;;True
-jakara;;;;True
+jakara;;;;False
 fifi;;;;False
 foshposh;;;;False
 haifahassony;;;;False

@@ -21,4 +21,4 @@ Slavic god;;;;False
 Sumerian god;;;;False
 Tibetan god;;;;False
 Voodoo god;;;;False
-Yoruba god;;;;False
+Yoruban god;;;;False
